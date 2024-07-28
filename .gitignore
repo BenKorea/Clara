@@ -1,0 +1,8 @@
+.RData
+.Rhistory
+.Rprofile
+.Rproj.user
+*.Rproj
+renv/
+raw_data/
+/.quarto/
