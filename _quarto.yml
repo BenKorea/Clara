@@ -27,6 +27,7 @@ website:
         - section: "지수함수와 로그함수"
           contents:
           - posts/math_I/function/function.qmd
+          - posts/math_I/function/exponent.qmd          
     - title: "Python"
       collapse-level: 1
       contents:
@@ -41,14 +42,9 @@ format:
     toc: true
     toc-depth: 4
     include-after-body:
-    #   - text: |
-    #       <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js""></script>
       - text: |
           <script src="/scripts/tooltip.js"></script>
     
     comments:
       utterances:
         repo: RadiationSafetyNM/website
-
-# resource-paths:
-  # - resources/
