@@ -3,18 +3,35 @@ project:
   output-dir: docs
 
 website:
-  title: "Template"
+  title: "Clara"
   
   navbar:
     left:
-      - text: Template
+      - text: 블로그
         href: index.qmd
-        
+      - text: "수학I"
+        href: posts/math_I/index.qmd
+      - text: "Python"
+        href: posts/python/Python.qmd
     right:
+      - posts/about.qmd
       - icon: github
         href: https://github.com/
     search: true
     
+  sidebar:
+    - title: "수학I"
+      collapse-level: 1
+      contents:
+        - posts//math_I/index.qmd
+        - section: "지수함수와 로그함수"
+          contents:
+          - posts/math_I/function/function.qmd
+    - title: "Python"
+      collapse-level: 1
+      contents:
+        - posts/python/Python.qmd
+
 format:
   html:
     theme: cosmo
@@ -32,3 +49,6 @@ format:
     comments:
       utterances:
         repo: RadiationSafetyNM/website
+
+# resource-paths:
+  # - resources/

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>blog – Clara</title>
+<title>about – Clara</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +30,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -68,73 +66,16 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles/tooltip.css">
+<link rel="stylesheet" href="styles.css">
 </head>
 
 <body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+  <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
@@ -149,7 +90,7 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.qmd"> 
 <span class="menu-text">블로그</span></a>
   </li>  
   <li class="nav-item">
@@ -157,13 +98,13 @@ window.Quarto = {
 <span class="menu-text">수학I</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./posts/python/Python.html"> 
+    <a class="nav-link" href="./posts/python/python.qmd"> 
 <span class="menu-text">Python</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./posts/about.html"> 
+    <a class="nav-link active" href="./about.html" aria-current="page"> 
 <span class="menu-text">about.html</span></a>
   </li>  
   <li class="nav-item compact">
@@ -179,228 +120,23 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full">
-  <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page-left">
-      <h1 class="title">blog</h1>
-                      </div>
-  </div>
-    
-  
-  <div class="quarto-title-meta column-page-left">
-
-      
-    
-      
-    </div>
-    
-  
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(5)</span></div><div class="category" data-category="UHl0aG9u">Python <span class="quarto-category-count">(1)</span></div><div class="category" data-category="JUVDJTg4JTk4JUVEJTk1JTk5">수학 <span class="quarto-category-count">(3)</span></div><div class="category" data-category="JUVDJTg4JTk4JUVEJTk1JTk5SQ==">수학I <span class="quarto-category-count">(2)</span></div><div class="category" data-category="JUVDJUE0JTkxJUVEJTk1JTk5JUVBJUI1JTkw">중학교 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="JUVDJUE3JTgwJUVDJTg4JTk4JUVDJTlEJTk4JUVCJUIyJTk1JUVDJUI5JTk5">지수의법칙 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="JUVDJUE3JTgwJUVDJTg4JTk4JUVEJTk1JUE4JUVDJTg4JTk4">지수함수 <span class="quarto-category-count">(1)</span></div></div></div>
-<!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
-
-
-
-
-
-
-
-
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-       <option value="" disabled="" selected="" hidden="">Order By</option>
-       <option value="index" data-direction="asc">Default</option>
-         <option value="listing-title" data-direction="asc">
-          Title
-        </option>
-         <option value="listing-date-sort" data-direction="asc">
-          Date - Oldest
-        </option>
-         <option value="listing-date-sort" data-direction="desc">
-          Date - Newest
-        </option>
-         <option value="listing-author" data-direction="asc">
-          Author
-        </option>
-     </select>
-  </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
     </div>
-</div>
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1734751542644" data-listing-reading-time-sort="1" data-listing-word-count-sort="4">
-<div class="thumbnail">
-<p><a href="./posts/about.html" class="no-external"></a></p><a href="./posts/about.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./posts/about.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/about.html" class="no-external"></a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/about.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./posts/about.html" class="no-external">Clara 공부 정리한 사이트입니다.</a>
-</div>
-</div>
-<div class="metadata">
-<p><a href="./posts/about.html" class="no-external"></a></p><a href="./posts/about.html" class="no-external">
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="JUVDJTg4JTk4JUVEJTk1JTk5JTJDJUVDJUE3JTgwJUVDJTg4JTk4JUVDJTlEJTk4JUVCJUIyJTk1JUVDJUI5JTk5JTJDJUVDJUE0JTkxJUVEJTk1JTk5JUVBJUI1JTkw" data-listing-date-sort="1734706800000" data-listing-file-modified-sort="1734765506546" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="2">
-<div class="thumbnail">
-<p><a href="./posts/math_I/function/exponent.html" class="no-external"></a></p><a href="./posts/math_I/function/exponent.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./posts/math_I/function/exponent.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/math_I/function/exponent.html" class="no-external">지수의 법칙 문제</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/math_I/function/exponent.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('JUVDJTg4JTk4JUVEJTk1JTk5'); return false;">
-수학
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('JUVDJUE3JTgwJUVDJTg4JTk4JUVDJTlEJTk4JUVCJUIyJTk1JUVDJUI5JTk5'); return false;">
-지수의법칙
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('JUVDJUE0JTkxJUVEJTk1JTk5JUVBJUI1JTkw'); return false;">
-중학교
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/math_I/function/exponent.html" class="no-external">중학교개념)</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/math_I/function/exponent.html" class="no-external">
-<div class="listing-date">
-Dec 21, 2024
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="JUVDJTg4JTk4JUVEJTk1JTk5JTJDJUVDJTg4JTk4JUVEJTk1JTk5SSUyQyVFQyVBNyU4MCVFQyU4OCU5OCVFRCU5NSVBOCVFQyU4OCU5OA==" data-listing-date-sort="1734706800000" data-listing-file-modified-sort="1734759390665" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="217">
-<div class="thumbnail">
-<p><a href="./posts/math_I/function/function.html" class="no-external"></a></p><a href="./posts/math_I/function/function.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./posts/math_I/function/function.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/math_I/function/function.html" class="no-external">function</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/math_I/function/function.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('JUVDJTg4JTk4JUVEJTk1JTk5'); return false;">
-수학
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('JUVDJTg4JTk4JUVEJTk1JTk5SQ=='); return false;">
-수학I
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('JUVDJUE3JTgwJUVDJTg4JTk4JUVEJTk1JUE4JUVDJTg4JTk4'); return false;">
-지수함수
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/math_I/function/function.html" class="no-external">2015 개정 교육과정 고등학교 수학과 과목 (’18~’24 高1)</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/math_I/function/function.html" class="no-external">
-<div class="listing-date">
-Dec 21, 2024
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="JUVDJTg4JTk4JUVEJTk1JTk5JTJDJUVDJTg4JTk4JUVEJTk1JTk5SQ==" data-listing-date-sort="1734706800000" data-listing-file-modified-sort="1734757754925" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="35">
-<div class="thumbnail">
-<p><a href="./posts/math_I/index.html" class="no-external"></a></p><a href="./posts/math_I/index.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./posts/math_I/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/math_I/index.html" class="no-external">수학I</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/math_I/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('JUVDJTg4JTk4JUVEJTk1JTk5'); return false;">
-수학
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('JUVDJTg4JTk4JUVEJTk1JTk5SQ=='); return false;">
-수학I
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/math_I/index.html" class="no-external">2015 개정 교육과정 고등학교 수학과 과목 (’18~’24 高1)</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/math_I/index.html" class="no-external">
-<div class="listing-date">
-Dec 21, 2024
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-categories="UHl0aG9u" data-listing-date-sort="1722092400000" data-listing-file-modified-sort="1734753814578" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="202">
-<div class="thumbnail">
-<p><a href="./posts/python/Python.html" class="no-external"></a></p><a href="./posts/python/Python.html" class="no-external">
-<p class="card-img-top"><img src="posts\python\images\파이선설치파일선택.png"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./posts/python/Python.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/python/Python.html" class="no-external">Python</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/python/Python.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('UHl0aG9u'); return false;">
-Python
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/python/Python.html" class="no-external">설치방법</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/python/Python.html" class="no-external">
-<div class="listing-date">
-Jul 28, 2024
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+<!-- main -->
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+
+
+
+
+<p>Clara 공부 정리한 사이트입니다.</p>
+
+
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
