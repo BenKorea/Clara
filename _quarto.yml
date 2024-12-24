@@ -28,7 +28,8 @@ website:
           contents:
           - posts/math_I/function/function.qmd
           - posts/math_I/function/exponent.qmd
-          - posts/math_I/function/day1.qmd    
+          - posts/math_I/function/day1.qmd   
+          - posts/math_I/function/day2.qmd   
     - title: "Python"
       collapse-level: 1
       contents:
