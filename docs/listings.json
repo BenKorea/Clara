@@ -3,12 +3,13 @@
     "listing": "/index.html",
     "items": [
       "/posts/about.html",
-      "/posts/math_I/function/concept_exponent.html",
-      "/posts/math_I/function/day1.html",
-      "/posts/math_I/function/day2.html",
-      "/posts/math_I/function/exponent.html",
-      "/posts/math_I/function/function.html",
+      "/posts/math_I/exponent/concept_exponent.html",
+      "/posts/math_I/exponent/curriculum.html",
+      "/posts/math_I/exponent/day1.html",
+      "/posts/math_I/exponent/day2.html",
+      "/posts/math_I/exponent/exponent.html",
       "/posts/math_I/index.html",
+      "/posts/math_I/sequence/sequence.html",
       "/posts/python/Python.html"
     ]
   }

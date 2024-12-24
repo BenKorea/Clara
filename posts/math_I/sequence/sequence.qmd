@@ -1,0 +1,73 @@
+---
+title: "사칙연산 재배치"
+description: "중학교 수준"
+date: "2024-12-27"
+modified-date: "2024-12-27"
+categories: [수학, 사칙연산, 중학교]
+---
+
+연산순서를 잘 정하면 계산이 쉬워집니다.
+
+---
+
+### 문제 1
+
+::: {.callout-note title="25 + 18 - 25 계산하기" collapse="true" appearance="minimal"}
+
+답 = $18$
+
+풀이: \( 25 - 25 = 0 \)이므로 \( 0 + 18 = 18 \)입니다.
+
+:::
+
+---
+
+### 문제 2
+
+::: {.callout-note title="6 × 25 ÷ 5 계산하기" collapse="true" appearance="minimal"}
+
+답 = $30$
+
+풀이: \( 25 ÷ 5 = 5 \)이므로 \( 6 × 5 = 30 \)입니다.
+
+:::
+
+---
+
+### 문제 3
+
+::: {.callout-note title="100 - (48 + 52) 계산하기" collapse="true" appearance="minimal"}
+
+답 = $0$
+
+풀이: \( 48 + 52 = 100 \)이므로 \( 100 - 100 = 0 \)입니다.
+
+:::
+
+---
+
+### 문제 4
+
+::: {.callout-note title="(12 + 8) × 4 ÷ 2 계산하기" collapse="true" appearance="minimal"}
+
+답 = $40$
+
+풀이: \( 12 + 8 = 20 \)이므로 \( 20 × 4 ÷ 2 = 80 ÷ 2 = 40 \)입니다.
+
+:::
+
+---
+
+### 문제 5
+
+::: {.callout-note title="50 ÷ (2 × 5) + 8 계산하기" collapse="true" appearance="minimal"}
+
+답 = $13$
+
+풀이: \( 2 × 5 = 10 \)이므로 \( 50 ÷ 10 + 8 = 5 + 8 = 13 \)입니다.
+
+:::
+
+--- 
+
+
