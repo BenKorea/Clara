@@ -274,18 +274,30 @@
     ]
   },
   {
-    "objectID": "posts/about.html",
-    "href": "posts/about.html",
-    "title": "Clara",
+    "objectID": "posts/math_I/function/concept_exponent.html",
+    "href": "posts/math_I/function/concept_exponent.html",
+    "title": "지수의 개념",
     "section": "",
-    "text": "Clara 공부 정리한 사이트입니다."
+    "text": "문제1.\n\n\n\n\n\n\n처음 세균의 개수는 10개이며, 매 1시간마다 2배로 증가합니다. 6시간 후의 세균 수를 구하세요.\n\n\n\n\n\n답= \\(640\\)\n풀이: 처음 세균의 개수는 10개이며, 매 1시간마다 2배로 증가하므로 6시간 후의 세균 수는 \\(10 \\times 2^6 = 10 \\times 64 = 640\\)\n\n\n\n문제2.\n\n\n\n\n\n\n연 이자율 10%의 복리로 3년 후 금액을 계산하세요. 원금은 1000원입니다.\n\n\n\n\n\n답= \\(1331\\)\n풀이: 연 이자율 10%의 복리로 3년 후 금액은 \\(1000 \\times (1.1)^3 = 1000 \\times 1.331 = 1331\\)\n\n\n\n문제3.\n\n\n\n\n\n\n두 물체 사이의 거리가 3배 증가하면 중력은 몇 배로 변합니까? 거리의 제곱에 반비례한다고 가정합니다.\n\n\n\n\n\n답= \\(\\frac{1}{9}\\)\n풀이: 두 물체 사이의 거리가 3배 증가하면 중력은 거리의 제곱에 반비례하므로, \\(\\frac{1}{3^2} = \\frac{1}{9}\\)배로 감소합니다.",
+    "crumbs": [
+      "수학I",
+      "지수함수와 로그함수",
+      "지수의 개념"
+    ]
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "blog",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n지수의법칙 연습1\n\n\n\n\n\n\n수학\n\n\n지수의법칙\n\n\n중학교\n\n\n\n중학교 수준의 지수의법칙 연습문제 20개\n\n\n\n\n\nDec 25, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n지수의법칙 연습2\n\n\n\n\n\n\n수학\n\n\n지수의법칙\n\n\n중학교\n\n\n\n중학교 수준의 지수의법칙 연습문제 20개\n\n\n\n\n\nDec 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n지수의 법칙 문제\n\n\n\n\n\n\n수학\n\n\n지수의법칙\n\n\n중학교\n\n\n\n중학교 개념\n\n\n\n\n\nDec 21, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nfunction\n\n\n\n\n\n\n수학\n\n\n수학I\n\n\n지수함수\n\n\n\n2015 개정 교육과정 고등학교 수학과 과목 (’18~’24 高1)\n\n\n\n\n\nDec 21, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n수학I\n\n\n\n\n\n\n수학\n\n\n수학I\n\n\n\n2015 개정 교육과정 고등학교 수학과 과목 (’18~’24 高1)\n\n\n\n\n\nDec 21, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nPython\n\n\n\n\n\n\nPython\n\n\n\n설치방법\n\n\n\n\n\nJul 28, 2024\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n지수의 개념\n\n\n\n\n\n\n수학\n\n\n지수의법칙\n\n\n중학교\n\n\n\n중학교 수준의 지수의 개념\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n지수의법칙 연습1\n\n\n\n\n\n\n수학\n\n\n지수의법칙\n\n\n중학교\n\n\n\n중학교 수준의 지수의법칙 연습문제 20개\n\n\n\n\n\nDec 25, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n지수의법칙 연습2\n\n\n\n\n\n\n수학\n\n\n지수의법칙\n\n\n중학교\n\n\n\n중학교 수준의 지수의법칙 연습문제 20개\n\n\n\n\n\nDec 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n지수의 법칙 문제\n\n\n\n\n\n\n수학\n\n\n지수의법칙\n\n\n중학교\n\n\n\n중학교 개념\n\n\n\n\n\nDec 21, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nfunction\n\n\n\n\n\n\n수학\n\n\n수학I\n\n\n지수함수\n\n\n\n2015 개정 교육과정 고등학교 수학과 과목 (’18~’24 高1)\n\n\n\n\n\nDec 21, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n수학I\n\n\n\n\n\n\n수학\n\n\n수학I\n\n\n\n2015 개정 교육과정 고등학교 수학과 과목 (’18~’24 高1)\n\n\n\n\n\nDec 21, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nPython\n\n\n\n\n\n\nPython\n\n\n\n설치방법\n\n\n\n\n\nJul 28, 2024\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/about.html",
+    "href": "posts/about.html",
+    "title": "Clara",
+    "section": "",
+    "text": "Clara 공부 정리한 사이트입니다."
   },
   {
     "objectID": "posts/math_I/function/day1.html",

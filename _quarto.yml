@@ -28,6 +28,7 @@ website:
           contents:
           - posts/math_I/function/function.qmd
           - posts/math_I/function/exponent.qmd
+          - posts/math_I/function/concept_exponent.qmd             
           - posts/math_I/function/day1.qmd   
           - posts/math_I/function/day2.qmd   
     - title: "Python"
