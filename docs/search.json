@@ -22,18 +22,270 @@
     ]
   },
   {
-    "objectID": "posts/about.html",
-    "href": "posts/about.html",
-    "title": "Clara",
+    "objectID": "posts/math_I/function/day1.html",
+    "href": "posts/math_I/function/day1.html",
+    "title": "지수의법칙 연습1",
     "section": "",
-    "text": "Clara 공부 정리한 사이트입니다."
+    "text": "\\(\\frac{5^{-2} \\times 3^3}{15^{-1}} = ?\\)\n\n\n\n\n\n답= \\(3^4\\)\n풀이: \\(\\frac{5^{-2} \\times 3^3}{15^{-1}} = \\frac{5^{-2} \\times 3^3}{5^{-1} \\times 3^{-1}} = 5^{-2 - (-1)} \\times 3^{3 - (-1)} = 5^{-1} \\times 3^4 = 3^4\\)",
+    "crumbs": [
+      "수학I",
+      "지수함수와 로그함수",
+      "지수의법칙 연습1"
+    ]
+  },
+  {
+    "objectID": "posts/math_I/function/day1.html#문제1.",
+    "href": "posts/math_I/function/day1.html#문제1.",
+    "title": "지수의법칙 연습1",
+    "section": "",
+    "text": "\\(\\frac{5^{-2} \\times 3^3}{15^{-1}} = ?\\)\n\n\n\n\n\n답= \\(3^4\\)\n풀이: \\(\\frac{5^{-2} \\times 3^3}{15^{-1}} = \\frac{5^{-2} \\times 3^3}{5^{-1} \\times 3^{-1}} = 5^{-2 - (-1)} \\times 3^{3 - (-1)} = 5^{-1} \\times 3^4 = 3^4\\)",
+    "crumbs": [
+      "수학I",
+      "지수함수와 로그함수",
+      "지수의법칙 연습1"
+    ]
+  },
+  {
+    "objectID": "posts/math_I/function/day1.html#문제2.",
+    "href": "posts/math_I/function/day1.html#문제2.",
+    "title": "지수의법칙 연습1",
+    "section": "문제2.",
+    "text": "문제2.\n\n\n\n\n\n\n\\(\\left(2^{-3} \\times 4^2\\right) \\div 8^{-1} = ?\\)\n\n\n\n\n\n답= \\(2^{-2}\\)\n풀이: \\(\\left(2^{-3} \\times 4^2\\right) \\div 8^{-1} = \\frac{2^{-3} \\times (2^2)^2}{2^{-3}} = \\frac{2^{-3} \\times 2^4}{2^{-3}} = 2^{-3 + 4 + 3} = 2^{-2}\\)",
+    "crumbs": [
+      "수학I",
+      "지수함수와 로그함수",
+      "지수의법칙 연습1"
+    ]
+  },
+  {
+    "objectID": "posts/math_I/function/day1.html#문제3.",
+    "href": "posts/math_I/function/day1.html#문제3.",
+    "title": "지수의법칙 연습1",
+    "section": "문제3.",
+    "text": "문제3.\n\n\n\n\n\n\n\\(\\frac{(3^{-1})^2}{9^{-1}} = ?\\)\n\n\n\n\n\n답= \\(3^{-2}\\)\n풀이: \\(\\frac{(3^{-1})^2}{9^{-1}} = \\frac{3^{-2}}{3^{-2}} = 3^{-2 + 2} = 3^{-2}\\)",
+    "crumbs": [
+      "수학I",
+      "지수함수와 로그함수",
+      "지수의법칙 연습1"
+    ]
+  },
+  {
+    "objectID": "posts/math_I/function/day1.html#문제4.",
+    "href": "posts/math_I/function/day1.html#문제4.",
+    "title": "지수의법칙 연습1",
+    "section": "문제4.",
+    "text": "문제4.\n\n\n\n\n\n\n\\(\\frac{a^{-2} \\times b^3}{a^3 \\times b^{-2}} = ?\\)\n\n\n\n\n\n답= \\(a^{-5}b^5\\)\n풀이: \\(\\frac{a^{-2} \\times b^3}{a^3 \\times b^{-2}} = a^{-2 - 3} \\times b^{3 - (-2)} = a^{-5}b^5\\)",
+    "crumbs": [
+      "수학I",
+      "지수함수와 로그함수",
+      "지수의법칙 연습1"
+    ]
+  },
+  {
+    "objectID": "posts/math_I/function/day1.html#문제5.",
+    "href": "posts/math_I/function/day1.html#문제5.",
+    "title": "지수의법칙 연습1",
+    "section": "문제5.",
+    "text": "문제5.\n\n\n\n\n\n\n\\(\\left(\\frac{2}{3}\\right)^{-2} \\times \\frac{9^{-1}}{4^{-1}} = ?\\)\n\n\n\n\n\n답= \\(1\\)\n풀이: \\(\\left(\\frac{2}{3}\\right)^{-2} \\times \\frac{9^{-1}}{4^{-1}} = \\frac{3^2}{2^2} \\times \\frac{4}{9} = \\frac{9}{4} \\times \\frac{4}{9} = 1\\)",
+    "crumbs": [
+      "수학I",
+      "지수함수와 로그함수",
+      "지수의법칙 연습1"
+    ]
+  },
+  {
+    "objectID": "posts/math_I/function/day1.html#문제6.",
+    "href": "posts/math_I/function/day1.html#문제6.",
+    "title": "지수의법칙 연습1",
+    "section": "문제6.",
+    "text": "문제6.\n\n\n\n\n\n\n\\(\\frac{x^{-1} \\times y^{-3}}{z^2} \\div x^2 y^2 = ?\\)\n\n\n\n\n\n답= \\(x^{-3}y^{-5}z^{-2}\\)\n풀이: \\(\\frac{x^{-1} \\times y^{-3}}{z^2} \\div x^2 y^2 = \\frac{x^{-1} \\times y^{-3}}{z^2} \\times x^{-2} y^{-2} = x^{-1 - 2} \\times y^{-3 - 2} \\times z^{-2} = x^{-3}y^{-5}z^{-2}\\)",
+    "crumbs": [
+      "수학I",
+      "지수함수와 로그함수",
+      "지수의법칙 연습1"
+    ]
+  },
+  {
+    "objectID": "posts/math_I/function/day1.html#문제7.",
+    "href": "posts/math_I/function/day1.html#문제7.",
+    "title": "지수의법칙 연습1",
+    "section": "문제7.",
+    "text": "문제7.\n\n\n\n\n\n\n\\(\\frac{2^{-4} \\times 3^{-3}}{6^{-2}} = ?\\)\n\n\n\n\n\n답= \\(2^{-2}3^{-1}\\)\n풀이: \\(\\frac{2^{-4} \\times 3^{-3}}{6^{-2}} = \\frac{2^{-4} \\times 3^{-3}}{(2 \\times 3)^{-2}} = 2^{-4 - (-2)} \\times 3^{-3 - (-2)} = 2^{-2} \\times 3^{-1}\\)",
+    "crumbs": [
+      "수학I",
+      "지수함수와 로그함수",
+      "지수의법칙 연습1"
+    ]
+  },
+  {
+    "objectID": "posts/math_I/function/day1.html#문제8.",
+    "href": "posts/math_I/function/day1.html#문제8.",
+    "title": "지수의법칙 연습1",
+    "section": "문제8.",
+    "text": "문제8.\n\n\n\n\n\n\n\\(\\frac{5^3}{5^{-2} \\times 25} = ?\\)\n\n\n\n\n\n답= \\(1\\)\n풀이: \\(\\frac{5^3}{5^{-2} \\times 25} = \\frac{5^3}{5^{-2} \\times 5^2} = \\frac{5^3}{5^0} = 1\\)",
+    "crumbs": [
+      "수학I",
+      "지수함수와 로그함수",
+      "지수의법칙 연습1"
+    ]
+  },
+  {
+    "objectID": "posts/math_I/function/day1.html#문제9.",
+    "href": "posts/math_I/function/day1.html#문제9.",
+    "title": "지수의법칙 연습1",
+    "section": "문제9.",
+    "text": "문제9.\n\n\n\n\n\n\n\\(10^{-3} \\div \\left(2^{-1} \\times 5^{-2}\\right) = ?\\)\n\n\n\n\n\n답= \\(2 \\times 5^{-1}\\)\n풀이: \\(10^{-3} \\div \\left(2^{-1} \\times 5^{-2}\\right) = 10^{-3} \\times 2^1 \\times 5^2 = (2 \\times 5)^{-3} \\times 2^1 \\times 5^2 = 2^{1 - 3} \\times 5^{2 - 3} = 2^1 \\times 5^{-1}\\)",
+    "crumbs": [
+      "수학I",
+      "지수함수와 로그함수",
+      "지수의법칙 연습1"
+    ]
+  },
+  {
+    "objectID": "posts/math_I/function/day1.html#문제10.",
+    "href": "posts/math_I/function/day1.html#문제10.",
+    "title": "지수의법칙 연습1",
+    "section": "문제10.",
+    "text": "문제10.\n\n\n\n\n\n\n\\(\\frac{(a^2 b^{-3})^{-2}}{a^{-4} b^6} = ?\\)\n\n\n\n\n\n답= \\(a^{-4} b^{12}\\)\n풀이: \\(\\frac{(a^2 b^{-3})^{-2}}{a^{-4} b^6} = \\frac{a^{-4} b^6}{a^{-4} b^6} = a^{-4} b^{12}\\)",
+    "crumbs": [
+      "수학I",
+      "지수함수와 로그함수",
+      "지수의법칙 연습1"
+    ]
+  },
+  {
+    "objectID": "posts/math_I/function/day1.html#문제11.",
+    "href": "posts/math_I/function/day1.html#문제11.",
+    "title": "지수의법칙 연습1",
+    "section": "문제11.",
+    "text": "문제11.\n\n\n\n\n\n\n\\(\\frac{(2^{-1} \\times 3^2)^3}{6^3 \\times (4^{-1})^2} = ?\\)\n\n\n\n\n\n답= \\(1\\)\n풀이: \\(\\frac{(2^{-1} \\times 3^2)^3}{6^3 \\times (4^{-1})^2} = \\frac{(2^{-1} \\times 3^2)^3}{(2^2 \\times 3)^3} = \\frac{2^{-3} \\times 3^6}{2^6 \\times 3^3} = 2^{-3 - 6} \\times 3^{6 - 3} = 2^{-9} \\times 3^3 = 1\\)",
+    "crumbs": [
+      "수학I",
+      "지수함수와 로그함수",
+      "지수의법칙 연습1"
+    ]
+  },
+  {
+    "objectID": "posts/math_I/function/day1.html#문제12.",
+    "href": "posts/math_I/function/day1.html#문제12.",
+    "title": "지수의법칙 연습1",
+    "section": "문제12.",
+    "text": "문제12.\n\n\n\n\n\n\n\\(\\frac{x^{-2} \\times y^0}{\\left(z^{-1}\\right)^{-3}} \\times z^{-2} = ?\\)\n\n\n\n\n\n답= \\(x^{-2}z^{-5}\\)\n풀이: \\(\\frac{x^{-2} \\times y^0}{\\left(z^{-1}\\right)^{-3}} \\times z^{-2} = \\frac{x^{-2} \\times 1}{z^3} \\times z^{-2} = x^{-2} \\times z^{-3 - 2} = x^{-2}z^{-5}\\)",
+    "crumbs": [
+      "수학I",
+      "지수함수와 로그함수",
+      "지수의법칙 연습1"
+    ]
+  },
+  {
+    "objectID": "posts/math_I/function/day1.html#문제13.",
+    "href": "posts/math_I/function/day1.html#문제13.",
+    "title": "지수의법칙 연습1",
+    "section": "문제13.",
+    "text": "문제13.\n\n\n\n\n\n\n\\(\\left(\\frac{5^{-1} \\times 2^{-3}}{10^{-2}}\\right)^2 = ?\\)\n\n\n\n\n\n답= \\(2^{-2}\\)\n풀이: \\(\\left(\\frac{5^{-1} \\times 2^{-3}}{10^{-2}}\\right)^2 = \\left(\\frac{5^{-1} \\times 2^{-3}}{5^{-2} \\times 2^{-2}}\\right)^2 = \\left(5^{-1 - (-2)} \\times 2^{-3 - (-2)}\\right)^2 = \\left(5^1 \\times 2^{-1}\\right)^2 = 5^2 \\times 2^{-2} = 2^{-2}\\)",
+    "crumbs": [
+      "수학I",
+      "지수함수와 로그함수",
+      "지수의법칙 연습1"
+    ]
+  },
+  {
+    "objectID": "posts/math_I/function/day1.html#문제14.",
+    "href": "posts/math_I/function/day1.html#문제14.",
+    "title": "지수의법칙 연습1",
+    "section": "문제14.",
+    "text": "문제14.\n\n\n\n\n\n\n\\(\\frac{(a^{-1} b^2)^3}{a^3 b^{-4}} = ?\\)\n\n\n\n\n\n답= \\(a^{-6}b^{10}\\)\n풀이: \\(\\frac{(a^{-1} b^2)^3}{a^3 b^{-4}} = \\frac{a^{-3} \\times b^6}{a^3 \\times b^{-4}} = a^{-3 - 3} \\times b^{6 - (-4)} = a^{-6} \\times b^{10}\\)",
+    "crumbs": [
+      "수학I",
+      "지수함수와 로그함수",
+      "지수의법칙 연습1"
+    ]
+  },
+  {
+    "objectID": "posts/math_I/function/day1.html#문제15.",
+    "href": "posts/math_I/function/day1.html#문제15.",
+    "title": "지수의법칙 연습1",
+    "section": "문제15.",
+    "text": "문제15.\n\n\n\n\n\n\n\\(\\frac{\\left(\\frac{1}{2}\\right)^{-3} \\times 4^{-2}}{8^{-1}} = ?\\)\n\n\n\n\n\n답= \\(2^{-1}\\)\n풀이: \\(\\frac{\\left(\\frac{1}{2}\\right)^{-3} \\times 4^{-2}}{8^{-1}} = \\frac{2^3 \\times (2^2)^{-2}}{2^{-3}} = \\frac{2^3 \\times 2^{-4}}{2^{-3}} = 2^{3 - 4 + 3} = 2^{-1}\\)",
+    "crumbs": [
+      "수학I",
+      "지수함수와 로그함수",
+      "지수의법칙 연습1"
+    ]
+  },
+  {
+    "objectID": "posts/math_I/function/day1.html#문제16.",
+    "href": "posts/math_I/function/day1.html#문제16.",
+    "title": "지수의법칙 연습1",
+    "section": "문제16.",
+    "text": "문제16.\n\n\n\n\n\n\n\\(\\frac{(3x^2 y^{-1})^3}{x^6 y^{-2} z^0} = ?\\)\n\n\n\n\n\n답= \\(3^3y^{-1}\\)\n풀이: \\(\\frac{(3x^2 y^{-1})^3}{x^6 y^{-2} z^0} = \\frac{3^3 \\times x^6 \\times y^{-3}}{x^6 \\times y^{-2} \\times 1} = 3^3 \\times x^{6 - 6} \\times y^{-3 - (-2)} = 3^3 \\times y^{-1}\\)",
+    "crumbs": [
+      "수학I",
+      "지수함수와 로그함수",
+      "지수의법칙 연습1"
+    ]
+  },
+  {
+    "objectID": "posts/math_I/function/day1.html#문제17.",
+    "href": "posts/math_I/function/day1.html#문제17.",
+    "title": "지수의법칙 연습1",
+    "section": "문제17.",
+    "text": "문제17.\n\n\n\n\n\n\n\\(\\frac{2^{-3} \\times 3^3}{6^{-2} \\times (4^{-1})^2} = ?\\)\n\n\n\n\n\n답= \\(3^5\\)\n풀이: \\(\\frac{2^{-3} \\times 3^3}{6^{-2} \\times (4^{-1})^2} = \\frac{2^{-3} \\times 3^3}{2^{-2} \\times 3^{-2} \\times 2^{-2}} = 2^{-3 - (-2) - (-2)} \\times 3^{3 - (-2)} = 2^1 \\times 3^5 = 3^5\\)",
+    "crumbs": [
+      "수학I",
+      "지수함수와 로그함수",
+      "지수의법칙 연습1"
+    ]
+  },
+  {
+    "objectID": "posts/math_I/function/day1.html#문제18.",
+    "href": "posts/math_I/function/day1.html#문제18.",
+    "title": "지수의법칙 연습1",
+    "section": "문제18.",
+    "text": "문제18.\n\n\n\n\n\n\n\\(\\left(\\frac{1}{x^{-3} y^2}\\right) \\div x^4 y^{-5} = ?\\)\n\n\n\n\n\n답= \\(x^{-7}y^{7}\\)\n풀이: \\(\\left(\\frac{1}{x^{-3} y^2}\\right) \\div x^4 y^{-5} = x^3 y^{-2} \\div x^4 y^{-5} = x^{3 - 4} \\times y^{-2 - (-5)} = x^{-7} \\times y^{7}\\)",
+    "crumbs": [
+      "수학I",
+      "지수함수와 로그함수",
+      "지수의법칙 연습1"
+    ]
+  },
+  {
+    "objectID": "posts/math_I/function/day1.html#문제19.",
+    "href": "posts/math_I/function/day1.html#문제19.",
+    "title": "지수의법칙 연습1",
+    "section": "문제19.",
+    "text": "문제19.\n\n\n\n\n\n\n\\(\\frac{(a^{-2} b^3)^2}{(a b^{-1})^4} = ?\\)\n\n\n\n\n\n답= \\(a^{-8}b^{14}\\)\n풀이: \\(\\frac{(a^{-2} b^3)^2}{(a b^{-1})^4} = \\frac{a^{-4} b^6}{a^4 b^{-4}} = a^{-4 - 4} \\times b^{6 - (-4)} = a^{-8} \\times b^{14}\\)",
+    "crumbs": [
+      "수학I",
+      "지수함수와 로그함수",
+      "지수의법칙 연습1"
+    ]
+  },
+  {
+    "objectID": "posts/math_I/function/day1.html#문제20.",
+    "href": "posts/math_I/function/day1.html#문제20.",
+    "title": "지수의법칙 연습1",
+    "section": "문제20.",
+    "text": "문제20.\n\n\n\n\n\n\n\\(\\frac{5^{-3} \\times 2^{-2}}{\\left(10^{-1}\\right)^3 \\div 2^{-1}} = ?\\)\n\n\n\n\n\n답= \\(1\\)\n풀이: \\(\\frac{5^{-3} \\times 2^{-2}}{\\left(10^{-1}\\right)^3 \\div 2^{-1}} = \\frac{5^{-3} \\times 2^{-2}}{10^{-3} \\times 2^1} = \\frac{5^{-3} \\times 2^{-2}}{(2 \\times 5)^{-3} \\times 2^1} = 5^{-3 - (-3)} \\times 2^{-2 - (-3) - 1} = 5^0 \\times 2^0 = 1\\)",
+    "crumbs": [
+      "수학I",
+      "지수함수와 로그함수",
+      "지수의법칙 연습1"
+    ]
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "blog",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n지수의 법칙 문제\n\n\n\n\n\n\n수학\n\n\n지수의법칙\n\n\n중학교\n\n\n\n중학교 개념\n\n\n\n\n\nDec 21, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nfunction\n\n\n\n\n\n\n수학\n\n\n수학I\n\n\n지수함수\n\n\n\n2015 개정 교육과정 고등학교 수학과 과목 (’18~’24 高1)\n\n\n\n\n\nDec 21, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n수학I\n\n\n\n\n\n\n수학\n\n\n수학I\n\n\n\n2015 개정 교육과정 고등학교 수학과 과목 (’18~’24 高1)\n\n\n\n\n\nDec 21, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nPython\n\n\n\n\n\n\nPython\n\n\n\n설치방법\n\n\n\n\n\nJul 28, 2024\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n지수의법칙 연습1\n\n\n\n\n\n\n수학\n\n\n지수의법칙\n\n\n중학교\n\n\n\n중학교 수준의 지수의법칙 연습문제 20개\n\n\n\n\n\nDec 25, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n지수의 법칙 문제\n\n\n\n\n\n\n수학\n\n\n지수의법칙\n\n\n중학교\n\n\n\n중학교 개념\n\n\n\n\n\nDec 21, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nfunction\n\n\n\n\n\n\n수학\n\n\n수학I\n\n\n지수함수\n\n\n\n2015 개정 교육과정 고등학교 수학과 과목 (’18~’24 高1)\n\n\n\n\n\nDec 21, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n수학I\n\n\n\n\n\n\n수학\n\n\n수학I\n\n\n\n2015 개정 교육과정 고등학교 수학과 과목 (’18~’24 高1)\n\n\n\n\n\nDec 21, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nPython\n\n\n\n\n\n\nPython\n\n\n\n설치방법\n\n\n\n\n\nJul 28, 2024\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/about.html",
+    "href": "posts/about.html",
+    "title": "Clara",
+    "section": "",
+    "text": "Clara 공부 정리한 사이트입니다."
   },
   {
     "objectID": "posts/math_I/function/exponent.html",

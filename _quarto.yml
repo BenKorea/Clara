@@ -27,7 +27,8 @@ website:
         - section: "지수함수와 로그함수"
           contents:
           - posts/math_I/function/function.qmd
-          - posts/math_I/function/exponent.qmd          
+          - posts/math_I/function/exponent.qmd
+          - posts/math_I/function/day1.qmd    
     - title: "Python"
       collapse-level: 1
       contents:
