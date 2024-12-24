@@ -21,7 +21,7 @@ website:
     
   sidebar:
     - title: "수학I"
-      collapse-level: 1
+      collapse-level: 2
       contents:
         - posts//math_I/index.qmd
         - section: "지수함수와 로그함수"
@@ -31,7 +31,7 @@ website:
           - posts/math_I/function/day1.qmd   
           - posts/math_I/function/day2.qmd   
     - title: "Python"
-      collapse-level: 1
+      collapse-level: 2
       contents:
         - posts/python/Python.qmd
 
