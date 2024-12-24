@@ -1,8 +1,8 @@
 ---
 title: "지수의법칙 연습2"
-description: "중학교 수준의 지수의법칙 연습문제 20개 (반복 학습)"
-date: "2024-12-25"
-modified-date: "2024-12-25"
+description: "중학교 수준의 지수의법칙 연습문제 20개"
+date: "2024-12-26"
+modified-date: "2024-12-26"
 categories: [수학, 지수의법칙, 중학교]
 ---
 
