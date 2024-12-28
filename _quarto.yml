@@ -31,6 +31,7 @@ website:
           - posts/math_I/exponent/concept_exponent.qmd             
           - posts/math_I/exponent/day1.qmd   
           - posts/math_I/exponent/day2.qmd 
+          - posts/math_I/exponent/exercise3.qmd           
         - section: "사칙연산"
           contents:
           - posts/math_I/sequence/sequence.qmd          
