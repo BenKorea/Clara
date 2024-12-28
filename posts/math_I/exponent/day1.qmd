@@ -9,33 +9,33 @@ categories: [수학, 지수의법칙, 중학교]
 ## 문제1.
 
 ::: {.callout-note title="$\\frac{5^{-2} \\times 3^3}{15^{-1}} = ?$" collapse="true" appearance="minimal"}
-답= $3^4$
+답= $\frac{3^4}{5}=\frac{81}{5}$
 
-풀이: $\frac{5^{-2} \times 3^3}{15^{-1}} = \frac{5^{-2} \times 3^3}{5^{-1} \times 3^{-1}} = 5^{-2 - (-1)} \times 3^{3 - (-1)} = 5^{-1} \times 3^4 = 3^4$
+풀이: $\frac{5^{-2} \times 3^3}{15^{-1}} = \frac{5^{-2} \times 3^3}{5^{-1} \times 3^{-1}} = 5^{-2 - (-1)} \times 3^{3 - (-1)} = 5^{-1} \times 3^4 = 3^4 = \frac{3^4}{5}=\frac{81}{5}$
 :::
 
 ## 문제2.
 
 ::: {.callout-note title="$\\left(2^{-3} \\times 4^2\\right) \\div 8^{-1} = ?$" collapse="true" appearance="minimal"}
-답= $2^{-2}$
+답= $2^4 = 16$
 
-풀이: $\left(2^{-3} \times 4^2\right) \div 8^{-1} = \frac{2^{-3} \times (2^2)^2}{2^{-3}} = \frac{2^{-3} \times 2^4}{2^{-3}} = 2^{-3 + 4 + 3} = 2^{-2}$
+풀이: $\left(2^{-3} \times 4^2\right) \div 8^{-1} = \frac{2^{-3} \times (2^2)^2}{2^{-3}} = \frac{2^{-3} \times 2^4}{2^{-3}} = 2^{-3 + 4 + 3} = 2^4 = 16$
 :::
 
 ## 문제3.
 
 ::: {.callout-note title="$\\frac{(3^{-1})^2}{9^{-1}} = ?$" collapse="true" appearance="minimal"}
-답= $3^{-2}$
+답= $1$
 
-풀이: $\frac{(3^{-1})^2}{9^{-1}} = \frac{3^{-2}}{3^{-2}} = 3^{-2 + 2} = 3^{-2}$
+풀이: $\frac{(3^{-1})^2}{9^{-1}} = \frac{3^{-2}}{3^{-2}} = 3^{-2 + 2} = 3^0=1$
 :::
 
 ## 문제4.
 
 ::: {.callout-note title="$\\frac{a^{-2} \\times b^3}{a^3 \\times b^{-2}} = ?$" collapse="true" appearance="minimal"}
-답= $a^{-5}b^5$
+답= $a^{-5}b^5= \frac{b^5}{a^5}$
 
-풀이: $\frac{a^{-2} \times b^3}{a^3 \times b^{-2}} = a^{-2 - 3} \times b^{3 - (-2)} = a^{-5}b^5$
+풀이: $\frac{a^{-2} \times b^3}{a^3 \times b^{-2}} = a^{-2 - 3} \times b^{3 - (-2)} = a^{-5}b^5 = \frac{b^5}{a^5}$
 :::
 
 ## 문제5.
@@ -49,7 +49,7 @@ categories: [수학, 지수의법칙, 중학교]
 ## 문제6.
 
 ::: {.callout-note title="$\\frac{x^{-1} \\times y^{-3}}{z^2} \\div x^2 y^2 = ?$" collapse="true" appearance="minimal"}
-답= $x^{-3}y^{-5}z^{-2}$
+답= $x^{-3}y^{-5}z^{-2}=\frac{1}{x^3 \times y^5 \times z^2}$
 
 풀이: $\frac{x^{-1} \times y^{-3}}{z^2} \div x^2 y^2 = \frac{x^{-1} \times y^{-3}}{z^2} \times x^{-2} y^{-2} = x^{-1 - 2} \times y^{-3 - 2} \times z^{-2} = x^{-3}y^{-5}z^{-2}$
 :::
@@ -57,47 +57,47 @@ categories: [수학, 지수의법칙, 중학교]
 ## 문제7.
 
 ::: {.callout-note title="$\\frac{2^{-4} \\times 3^{-3}}{6^{-2}} = ?$" collapse="true" appearance="minimal"}
-답= $2^{-2}3^{-1}$
+답= $2^{-2}3^{-1}= \frac{1}{12}$
 
-풀이: $\frac{2^{-4} \times 3^{-3}}{6^{-2}} = \frac{2^{-4} \times 3^{-3}}{(2 \times 3)^{-2}} = 2^{-4 - (-2)} \times 3^{-3 - (-2)} = 2^{-2} \times 3^{-1}$
+풀이: $\frac{2^{-4} \times 3^{-3}}{6^{-2}} = \frac{2^{-4} \times 3^{-3}}{(2 \times 3)^{-2}} = 2^{-4 - (-2)} \times 3^{-3 - (-2)} = 2^{-2} \times 3^{-1} = \frac{1}{12}$
 :::
 
 ## 문제8.
 
 ::: {.callout-note title="$\\frac{5^3}{5^{-2} \\times 25} = ?$" collapse="true" appearance="minimal"}
-답= $1$
+답= $5^3 = 125$
 
-풀이: $\frac{5^3}{5^{-2} \times 25} = \frac{5^3}{5^{-2} \times 5^2} = \frac{5^3}{5^0} = 1$
+풀이: $\frac{5^3}{5^{-2} \times 25} = \frac{5^3}{5^{-2} \times 5^2} = \frac{5^3}{5^0} = 5^3 = 125$
 :::
 
 ## 문제9.
 
 ::: {.callout-note title="$10^{-3} \\div \\left(2^{-1} \\times 5^{-2}\\right) = ?$" collapse="true" appearance="minimal"}
-답= $2 \times 5^{-1}$
+답= $\frac{1}{20}$
 
-풀이: $10^{-3} \div \left(2^{-1} \times 5^{-2}\right) = 10^{-3} \times 2^1 \times 5^2 = (2 \times 5)^{-3} \times 2^1 \times 5^2 = 2^{1 - 3} \times 5^{2 - 3} = 2^1 \times 5^{-1}$
+풀이: $10^{-3} \div \left(2^{-1} \times 5^{-2}\right) = 10^{-3} \times 2^1 \times 5^2 = (2 \times 5)^{-3} \times 2^1 \times 5^2 = 2^{1 - 3} \times 5^{2 - 3} = 2^{-2} \times 5^{-1} = \frac{1}{20}$
 :::
 
 ## 문제10.
 
 ::: {.callout-note title="$\\frac{(a^2 b^{-3})^{-2}}{a^{-4} b^6} = ?$" collapse="true" appearance="minimal"}
-답= $a^{-4} b^{12}$
+답= $1$
 
-풀이: $\frac{(a^2 b^{-3})^{-2}}{a^{-4} b^6} = \frac{a^{-4} b^6}{a^{-4} b^6} = a^{-4} b^{12}$
+풀이: $\frac{(a^2 b^{-3})^{-2}}{a^{-4} b^6} = \frac{a^{-4} b^6}{a^{-4} b^6} = 1$
 :::
 
 ## 문제11.
 
 ::: {.callout-note title="$\\frac{(2^{-1} \\times 3^2)^3}{6^3 \\times (4^{-1})^2} = ?$" collapse="true" appearance="minimal"}
-답= $1$
+답= $\frac{3^3}{2^2} = \frac{27}{4}$
 
-풀이: $\frac{(2^{-1} \times 3^2)^3}{6^3 \times (4^{-1})^2} = \frac{(2^{-1} \times 3^2)^3}{(2^2 \times 3)^3} = \frac{2^{-3} \times 3^6}{2^6 \times 3^3} = 2^{-3 - 6} \times 3^{6 - 3} = 2^{-9} \times 3^3 = 1$
+풀이: $\frac{(2^{-1} \times 3^2)^3}{6^3 \times (4^{-1})^2} = \frac{2^{-3} \times 3^6}{2^3 \times 3^3 \times 2^{-4}}= 2^{-3 - 3 +4} \times 3^{6 - 3} = 2^{-2} \times 3^3 = \frac{3^3}{2^2} = \frac{27}{4}$
 :::
 
 ## 문제12.
 
 ::: {.callout-note title="$\\frac{x^{-2} \\times y^0}{\\left(z^{-1}\\right)^{-3}} \\times z^{-2} = ?$" collapse="true" appearance="minimal"}
-답= $x^{-2}z^{-5}$
+답= $x^{-2}z^{-5}=\frac{1}{x^2 \times z^5}$
 
 풀이: $\frac{x^{-2} \times y^0}{\left(z^{-1}\right)^{-3}} \times z^{-2} = \frac{x^{-2} \times 1}{z^3} \times z^{-2} = x^{-2} \times z^{-3 - 2} = x^{-2}z^{-5}$
 :::
@@ -105,9 +105,9 @@ categories: [수학, 지수의법칙, 중학교]
 ## 문제13.
 
 ::: {.callout-note title="$\\left(\\frac{5^{-1} \\times 2^{-3}}{10^{-2}}\\right)^2 = ?$" collapse="true" appearance="minimal"}
-답= $2^{-2}$
+답= $\frac{5^2}{2^2} = \frac{25}{4}$
 
-풀이: $\left(\frac{5^{-1} \times 2^{-3}}{10^{-2}}\right)^2 = \left(\frac{5^{-1} \times 2^{-3}}{5^{-2} \times 2^{-2}}\right)^2 = \left(5^{-1 - (-2)} \times 2^{-3 - (-2)}\right)^2 = \left(5^1 \times 2^{-1}\right)^2 = 5^2 \times 2^{-2} = 2^{-2}$
+풀이: $\left(\frac{5^{-1} \times 2^{-3}}{10^{-2}}\right)^2 = \left(\frac{5^{-1} \times 2^{-3}}{5^{-2} \times 2^{-2}}\right)^2 = \left(5^{-1 - (-2)} \times 2^{-3 - (-2)}\right)^2 = \left(5^1 \times 2^{-1}\right)^2 = 5^2 \times 2^{-2} = \frac{5^2}{2^2} = \frac{25}{4}$
 :::
 
 ## 문제14.
@@ -121,15 +121,15 @@ categories: [수학, 지수의법칙, 중학교]
 ## 문제15.
 
 ::: {.callout-note title="$\\frac{\\left(\\frac{1}{2}\\right)^{-3} \\times 4^{-2}}{8^{-1}} = ?$" collapse="true" appearance="minimal"}
-답= $2^{-1}$
+답= $2^2=4$
 
-풀이: $\frac{\left(\frac{1}{2}\right)^{-3} \times 4^{-2}}{8^{-1}} = \frac{2^3 \times (2^2)^{-2}}{2^{-3}} = \frac{2^3 \times 2^{-4}}{2^{-3}} = 2^{3 - 4 + 3} = 2^{-1}$
+풀이: $\frac{\left(\frac{1}{2}\right)^{-3} \times 4^{-2}}{8^{-1}} = \frac{2^3 \times (2^2)^{-2}}{2^{-3}} = \frac{2^3 \times 2^{-4}}{2^{-3}} = 2^{3 - 4 + 3} = 2^2=4$
 :::
 
 ## 문제16.
 
 ::: {.callout-note title="$\\frac{(3x^2 y^{-1})^3}{x^6 y^{-2} z^0} = ?$" collapse="true" appearance="minimal"}
-답= $3^3y^{-1}$
+답= $3^3y^{-1}=\frac{27}{y}$
 
 풀이: $\frac{(3x^2 y^{-1})^3}{x^6 y^{-2} z^0} = \frac{3^3 \times x^6 \times y^{-3}}{x^6 \times y^{-2} \times 1} = 3^3 \times x^{6 - 6} \times y^{-3 - (-2)} = 3^3 \times y^{-1}$
 :::
@@ -137,25 +137,25 @@ categories: [수학, 지수의법칙, 중학교]
 ## 문제17.
 
 ::: {.callout-note title="$\\frac{2^{-3} \\times 3^3}{6^{-2} \\times (4^{-1})^2} = ?$" collapse="true" appearance="minimal"}
-답= $3^5$
+답= $2^3 \times 3^5$
 
-풀이: $\frac{2^{-3} \times 3^3}{6^{-2} \times (4^{-1})^2} = \frac{2^{-3} \times 3^3}{2^{-2} \times 3^{-2} \times 2^{-2}} = 2^{-3 - (-2) - (-2)} \times 3^{3 - (-2)} = 2^1 \times 3^5 = 3^5$
+풀이: $\frac{2^{-3} \times 3^3}{6^{-2} \times (4^{-1})^2} = \frac{2^{-3} \times 3^3}{2^{-2} \times 3^{-2} \times 2^{-4}} = 2^{-3 - (-2) - (-4)} \times 3^{3 - (-2)} = 2^3 \times 3^5$
 :::
 
 ## 문제18.
 
 ::: {.callout-note title="$\\left(\\frac{1}{x^{-3} y^2}\\right) \\div x^4 y^{-5} = ?$" collapse="true" appearance="minimal"}
-답= $x^{-7}y^{7}$
+답= $x^{-1} \times y^{3} = \frac{y^3}{x}$
 
-풀이: $\left(\frac{1}{x^{-3} y^2}\right) \div x^4 y^{-5} = x^3 y^{-2} \div x^4 y^{-5} = x^{3 - 4} \times y^{-2 - (-5)} = x^{-7} \times y^{7}$
+풀이: $\left(\frac{1}{x^{-3} y^2}\right) \div x^4 y^{-5} = x^3 y^{-2} \div x^4 y^{-5} = x^{3 - 4} \times y^{-2 - (-5)} = x^{-1} \times y^{3}$
 :::
 
 ## 문제19.
 
 ::: {.callout-note title="$\\frac{(a^{-2} b^3)^2}{(a b^{-1})^4} = ?$" collapse="true" appearance="minimal"}
-답= $a^{-8}b^{14}$
+답= $a^{-8}b^{10}= \frac{b^{10}}{a^8}$
 
-풀이: $\frac{(a^{-2} b^3)^2}{(a b^{-1})^4} = \frac{a^{-4} b^6}{a^4 b^{-4}} = a^{-4 - 4} \times b^{6 - (-4)} = a^{-8} \times b^{14}$
+풀이: $\frac{(a^{-2} b^3)^2}{(a b^{-1})^4} = \frac{a^{-4} b^6}{a^4 b^{-4}} = a^{-4 - 4} \times b^{6 - (-4)} = a^{-8} \times b^{10}$
 :::
 
 ## 문제20.
