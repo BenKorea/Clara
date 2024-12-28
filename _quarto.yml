@@ -26,12 +26,12 @@ website:
         - posts//math_I/index.qmd
         - section: "지수함수와 로그함수"
           contents:
-          - posts/math_I/exponent/curriculum.qmd     
-          - posts/math_I/exponent/exponent.qmd
-          - posts/math_I/exponent/concept_exponent.qmd             
-          - posts/math_I/exponent/day1.qmd   
-          - posts/math_I/exponent/day2.qmd 
-          - posts/math_I/exponent/exercise3.qmd           
+          - posts/math_I/exponent/curriculum.qmd 
+          - posts/math_I/exponent/concept_exponent.qmd
+          - posts/math_I/exponent/exercise1.qmd
+          - posts/math_I/exponent/exercise2.qmd   
+          - posts/math_I/exponent/exercise3.qmd 
+          - posts/math_I/exponent/exercise4.qmd           
         - section: "사칙연산"
           contents:
           - posts/math_I/sequence/sequence.qmd          
