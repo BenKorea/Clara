@@ -2,7 +2,7 @@
 title: "중학수학"
 description: "2015 개정 교육과정 중학교 수학과 과목"
 date: "2024-12-28"
-modified-date: "2024-12-28"
+date-modified: "2024-12-28"
 categories: [수학, 중학교]
 ---
 #### 수와 연산

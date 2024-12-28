@@ -2,7 +2,7 @@
 title: "지수의 개념"
 description: "중학교 수준의 지수의 개념"
 date: "2024-12-28"
-modified-date: "2024-12-28"
+date-modified: "2024-12-20"
 categories: [수학, 지수의법칙, 중학교]
 ---
 

@@ -2,7 +2,7 @@
 title: "지수/로그 학습목표"
 description: "2015 개정 교육과정 고등학교 수학과 과목 ('18~'24 高1)"
 date: "2024-12-21"
-modified-date: "2024-12-21"
+date-modified: "2024-12-21"
 categories: [수학, 수학I, 지수함수]
 ---
 

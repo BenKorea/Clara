@@ -2,7 +2,7 @@
 title: "Python"
 description: "설치방법"
 date: "2024-07-28"
-modified-date: "2024-07-28"
+date-modified: "2024-07-28"
 categories: [Python]
 ---
 

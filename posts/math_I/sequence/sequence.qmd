@@ -1,8 +1,8 @@
 ---
 title: "사칙연산 재배치"
 description: "중학교 수준"
-date: "2024-12-27"
-modified-date: "2024-12-27"
+date: "2024-12-28"
+date-modified: "2024-12-28"
 categories: [수학, 사칙연산, 중학교]
 ---
 

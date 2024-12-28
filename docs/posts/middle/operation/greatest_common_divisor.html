@@ -6,7 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2024-12-28">
+<meta name="dcterms.date" content="2024-12-29">
 <meta name="description" content="최대공약수의 성질을 이해하고, 이를 구할 수 있다.">
 
 <title>최대공약수 – Clara</title>
@@ -102,7 +102,7 @@ window.Quarto = {
 <link rel="stylesheet" href="../../../styles/tooltip.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-sidebar floating nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -124,7 +124,7 @@ window.Quarto = {
 <span class="menu-text">블로그</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../posts/middle/index.html"> 
+    <a class="nav-link active" href="../../../posts/middle/index.html" aria-current="page"> 
 <span class="menu-text">중학수학</span></a>
   </li>  
   <li class="nav-item">
@@ -152,10 +152,62 @@ window.Quarto = {
 </div>
       </div> <!-- /container-fluid -->
     </nav>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../posts/middle/operation/prime_factorization.html">수와 연산</a></li><li class="breadcrumb-item"><a href="../../../posts/middle/operation/greatest_common_divisor.html">최대공약수</a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+    </div>
+  </nav>
 </header>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../posts/middle/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">중학수학</span></a>
+  </div>
+</li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
+ <span class="menu-text">수와 연산</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../posts/middle/operation/prime_factorization.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">소인수분해</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../posts/middle/operation/greatest_common_divisor.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">최대공약수</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../../posts/middle/operation/least_common_multiple.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">최소공배수</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
@@ -170,7 +222,7 @@ window.Quarto = {
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../posts/middle/operation/prime_factorization.html">수와 연산</a></li><li class="breadcrumb-item"><a href="../../../posts/middle/operation/greatest_common_divisor.html">최대공약수</a></li></ol></nav>
 <div class="quarto-title">
 <h1 class="title">최대공약수</h1>
   <div class="quarto-categories">
@@ -193,10 +245,16 @@ window.Quarto = {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">December 28, 2024</p>
+      <p class="date">December 29, 2024</p>
     </div>
   </div>
   
+    <div>
+    <div class="quarto-title-meta-heading">Modified</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date-modified">December 29, 2024</p>
+    </div>
+  </div>
     
   </div>
   
@@ -219,7 +277,8 @@ window.Quarto = {
 <div id="callout-1" class="callout-1-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>답= 약수란 어떤 정수를 나누었을 때 나머지가 0이 되는 수를 말합니다.</p>
-<p>18의 약수: 1,2,3,6,9,18 24의 약수: 1,2,3,4,6,8,12,24</p>
+<p>18의 약수: 1,2,3,6,9,18<br>
+24의 약수: 1,2,3,4,6,8,12,24</p>
 </div>
 </div>
 </div>
@@ -243,7 +302,12 @@ window.Quarto = {
 3 \underline{) \, \hspace{0.2cm}9 \quad 12} \\
 \phantom{3)} \, \hspace{0.2cm} 3 \quad 4
 \end{array}
-\]</span></p>
+\]</span> 공약수는 <span class="math display">\[
+2^0 \times 3^0=1 \\
+2^1 \times 3^0=2 \\
+2^0 \times 3^1=3 \\
+2^1 \times 3^1 = 6
+\]</span> 입니다.</p>
 </div>
 </div>
 </div>

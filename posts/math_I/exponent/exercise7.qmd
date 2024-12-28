@@ -1,0 +1,87 @@
+---
+title: "지수의법칙 연습7"
+description: "지수연산 연습문제 10개 난이도-상"
+date: "2025-01-01"
+date-modified: "2025-01-01"
+categories: [수학, 지수의법칙, 중학교]
+---
+
+문제1.
+
+::: {.callout-note title="$\\frac{(2^3 x^{-2})^4}{(3x^{-1} y^2)^3} \\div (2xy^{-1})^{-2} = ?$" collapse="true" appearance="minimal"}
+답= $\frac{2^{14}}{3^3 x^3 y^8}$
+
+풀이: $\frac{(2^3 x^{-2})^4}{(3x^{-1} y^2)^3} \div (2xy^{-1})^{-2} = \frac{(2^3 x^{-2})^4}{(3x^{-1} y^2)^3} \times (2xy^{-1})^2 =\frac{2^{12} x^{-8}}{3^3 x^{-3} y^6} \times 2^2 x^2 y^{-2} = \frac{2^{14}}{3^3 x^3 y^8}$
+:::
+
+문제2.
+
+::: {.callout-note title="$\\frac{(5^{-1} y^2)^{-3}}{10^{-4} x^{-2}} \\div (2x^{-1} y^{-3})^2 = ?$" collapse="true" appearance="minimal"}
+답= $2^2 5^7 x^4$
+
+풀이: $\frac{(5^{-1} y^2)^{-3}}{10^{-4} x^{-2}} \div (2x^{-1} y^{-3})^2 = \frac{5^3 y^{-6}}{2^{-4} 5^{-4} x^{-2}} \times (2x^{-1} y^{-3})^{-2} = \frac{5^3 y^{-6}}{2^{-4} 5^{-4} x^{-2}} \times 2^{-2} x^{2} y^6 = 2^2 5^7 x^4$
+:::
+
+문제3.
+
+::: {.callout-note title="$\\frac{2^{-2} (3x^2)^{-3}}{(6x^{-1})^2} \\times (4x^3)^{-1} = ?$" collapse="true" appearance="minimal"}
+답= $\frac{1}{2^6 3^5 x^7}$
+
+풀이: $\frac{2^{-2} (3x^2)^{-3}}{(6x^{-1})^2} \times (4x^3)^{-1} = \frac{2^{-2} 3^{-3} x^{-6}}{2^2 3^2 x^{-2}} \times 2^{-2} x^{-3} = \frac{1}{2^6 3^5 x^7}$
+:::
+
+문제4.
+
+::: {.callout-note title="$\\frac{(a^{-3} b^2)^{-2}}{(2a^2 b^{-1})^3} \\div (4a b^3)^{-1} = ?$" collapse="true" appearance="minimal"}
+답= $\frac{ab^2}{2}$
+
+풀이: $\frac{(a^{-3} b^2)^{-2}}{(2a^2 b^{-1})^3} \div (4a b^3)^{-1} = \frac{a^6 b^{-4}}{2^3 a^6 b^{-3}} \times 2^2 a b^3 = \frac{ab^2}{2}$
+:::
+
+문제5.
+
+::: {.callout-note title="$\\frac{(3x^{-2} y^3)^3}{(x^{-1} y^{-1})^2} \\div (2x y^2)^4 = ?$" collapse="true" appearance="minimal"}
+답= $\frac{3^3 y^{3}}{2^4 x^8}$
+
+풀이: $\frac{(3x^{-2} y^3)^3}{(x^{-1} y^{-1})^2} \div (2x y^2)^4 = \frac{3^3 x^{-6} y^9}{x^{-2} y^{-2}} \times 2^{-4} x^{-4} y^{-8} = \frac{3^3 y^{3}}{2^4 x^8}$
+:::
+
+문제6.
+
+::: {.callout-note title="$\\left(\\frac{4x^3}{9y^{-2}}\\right)^{-2} \\div \\left(\\frac{x^{-2}}{3y}\\right)^3 = ?$" collapse="true" appearance="minimal"}
+답= $\frac{3^7}{2^4 y}$
+
+풀이: $(\frac{4x^3}{9y^{-2}})^{-2} \div (\frac{x^{-2}}{3y})^3 = (\frac{9y^{-2}}{4x^3})^2 \times (\frac{3y}{x^{-2}})^3 = \frac{3^4 y^{-4}}{2^4 x^6} \times \frac{3^3 y^3}{x^{-6}} = \frac{3^7}{2^4 y}$
+:::
+
+문제7.
+
+::: {.callout-note title="$\\frac{(2^3 a^{-2} b^3)^4}{(4a^3 b^{-1})^3} \\times (8a^{-1} b^2)^{-2} = ?$" collapse="true" appearance="minimal"}
+답= $\frac{b^{11}}{a^{15}}$
+
+풀이: $\frac{(2^3 a^{-2} b^3)^4}{(4a^3 b^{-1})^3} \times (8a^{-1} b^2)^{-2} = \frac{2^{12} a^{-8} b^{12}}{2^6 a^9 b^{-3}} \times 2^{-6} a^2 b^{-4} = \frac{b^{11}}{a^{15}}$
+:::
+
+문제8.
+
+::: {.callout-note title="$\\frac{(3x^{-1} y^2)^{-3}}{(9x^2 y^{-1})^2} \\div (\\frac{x^3 y}{3})^4 = ?$" collapse="true" appearance="minimal"}
+답= $\frac{1}{3^{3} x^{13} y^8}$
+
+풀이: $\frac{(3x^{-1} y^2)^{-3}}{(9x^2 y^{-1})^2} \div \left(\frac{x^3 y}{3}\right)^4 = \frac{3^{-3} x^{3} y^{-6}}{3^4 x^4 y^{-2}} \times \frac{3^4}{x^{12} y^{4}} = \frac{1}{3^{3} x^{13} y^8}$
+:::
+
+문제9.
+
+::: {.callout-note title="$\\frac{(2a^2 b^{-3})^3}{(4a^{-1} b)^2} \\div (8a^{-2} b^{-1})^{-2} = ?$" collapse="true" appearance="minimal"}
+답= $\frac{2^5 a^4}{b^{13}}$
+
+풀이: $\frac{(2a^2 b^{-3})^3}{(4a^{-1} b)^2} \div (8a^{-2} b^{-1})^{-2} = \frac{2^{3} a^{6} b^{-9}}{2^4 a^{-2} b^2} \times (2^3 a^{-2} b^{-1})^2 = \frac{2^{3} a^{6} b^{-9}}{2^4 a^{-2} b^2} \times 2^6 a^{-4} b^{-2} = \frac{2^5 a^4}{b^{13}}$
+:::
+
+문제10.
+
+::: {.callout-note title="$\\frac{(x^{-1} y^2 z^{-3})^2}{(z^2 x^3 y^{-1})^3} \\times \\frac{z^{-4} x^2}{y^3} = ?$" collapse="true" appearance="minimal"}
+답= $\frac{y^4}{x^9 z^{16}}$
+
+풀이: $\frac{(x^{-1} y^2 z^{-3})^2}{(z^2 x^3 y^{-1})^3} \times \frac{z^{-4} x^2}{y^3} = \frac{x^{-2} y^4 z^{-6}}{z^6 x^9 y^{-3}} \times \frac{z^{-4} x^2}{y^3} = \frac{y^4}{x^9 z^{16}}$
+:::

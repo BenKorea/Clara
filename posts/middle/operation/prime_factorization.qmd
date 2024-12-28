@@ -2,7 +2,7 @@
 title: "소인수분해"
 description: "소인수분해의 뜻을 알고, 자연수를 소인수분해할 수 있다."
 date: "2024-12-28"
-modified-date: "2024-12-28"
+date-modified: "2024-12-28"
 categories: [수학, 중학교, 소인수, 소인수분해]
 ---
 

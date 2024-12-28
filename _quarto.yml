@@ -43,7 +43,10 @@ website:
           - posts/math_I/exponent/concept_exponent.qmd
           - posts/math_I/exponent/exercise1.qmd
           - posts/math_I/exponent/exercise2.qmd   
-          - posts/math_I/exponent/exercise4.qmd           
+          - posts/math_I/exponent/exercise4.qmd 
+          - posts/math_I/exponent/exercise5.qmd 
+          - posts/math_I/exponent/exercise6.qmd  
+          - posts/math_I/exponent/exercise7.qmd            
         - section: "사칙연산"
           contents:
           - posts/math_I/sequence/sequence.qmd          

@@ -2,7 +2,7 @@
 title: "지수의법칙 연습2"
 description: "중학교수준 연습문제 20개"
 date: "2024-12-25"
-modified-date: "2024-12-25"
+date-modified: "2024-12-25"
 categories: [수학, 지수의법칙, 중학교]
 ---
 

@@ -1,0 +1,167 @@
+---
+title: "지수의법칙 연습5"
+description: "중학교 수준의 지수의법칙 연습문제 20개"
+date: "2024-12-29"
+date-modified: "2024-12-29"
+categories: [수학, 지수의법칙, 중학교]
+---
+
+문제1.
+
+::: {.callout-note title="$\\frac{2^4 \\times 3^{-2}}{6^3} = ?$" collapse="true" appearance="minimal"}
+답= $\frac{2}{3^4}$
+
+풀이: $\frac{2^4 \times 3^{-2}}{6^3} = \frac{2^4 \times 3^{-2}}{2^3 \times 3^3} = \frac{2}{3^5}$
+:::
+
+문제2.
+
+::: {.callout-note title="$\\left(5^{-2} \\times 2^3\\right) \\div 10^1 = ?$" collapse="true" appearance="minimal"}
+답= $2^2 \times 5^{-3}$
+
+풀이: $\left(5^{-2} \times 2^3\right) \div 10^1 = \frac{5^{-2} \times 2^3}{10^1} = \frac{5^{-2} \times 2^3}{5^1 \times 2^1} = \frac{2^2}{5^3}$
+:::
+
+문제3.
+
+::: {.callout-note title="$\\frac{x^{-1} \\times z^2}{y^{-3} \\times z^{-1}} = ?$" collapse="true" appearance="minimal"}
+답= $\frac{y^3 \times z^3}{x}$
+
+풀이: $\frac{x^{-1} \times z^2}{y^{-3} \times z^{-1}} = \frac{y^3 \times z^3}{x}$
+:::
+
+문제4.
+
+::: {.callout-note title="$\\left(\\frac{3^2}{4^{-1}}\\right)^{-1} \\div 2^{-3} = ?$" collapse="true" appearance="minimal"}
+답= $\frac{2^5}{3^2}$
+
+풀이: $\left(\frac{3^2}{4^{-1}}\right)^{-1} \div 2^{-3} = \frac{4}{3^2} \times 2^3 = \frac{2^2}{3^2} \times 2^3 =  \frac{2^5}{3^2}$
+:::
+
+문제5.
+
+::: {.callout-note title="$\\frac{(2^{-3})^2 \\times 3^3}{6^{-1}} = ?$" collapse="true" appearance="minimal"}
+답= $\frac{3^4}{2^5}$
+
+풀이: $\frac{(2^{-3})^2 \times 3^3}{6^{-1}} = \frac{2^{-6} \times 3^3}{2^{-1} \times 3^{-1}} = \frac{3^4}{2^5}$
+:::
+
+문제6.
+
+::: {.callout-note title="$\\frac{a^3 \\times b^{-2}}{a^{-1} \\times b^4} = ?$" collapse="true" appearance="minimal"}
+답= $\frac{a^4}{b^6}$
+
+풀이: $\frac{a^3 \times b^{-2}}{a^{-1} \times b^4} = \frac{a^4}{b^6}$
+:::
+
+문제7.
+
+::: {.callout-note title="$\\left(\\frac{3^0 \\times 5^{-2}}{2^3}\\right)^2 = ?$" collapse="true" appearance="minimal"}
+답= $\frac{1}{2^6 \times 5^4}$
+
+풀이: $\left(\frac{3^0 \times 5^{-2}}{2^3}\right)^2 = \frac{1 \times 5^{-4}}{2^{6}} = \frac{1}{2^6 \times 5^4}$
+:::
+
+문제8.
+
+::: {.callout-note title="$\\frac{10^{-3} \\times 5^2}{2^{-1} \\times 25^{-1}} = ?$" collapse="true" appearance="minimal"}
+답= $\frac{5}{2^2}$
+
+풀이: $\frac{10^{-3} \times 5^2}{2^{-1} \times 25^{-1}} = \frac{2^{-3} \times 5^{-3} \times 5^2}{2^{-1} \times 5^{-2}} = \frac{5}{2^2}$
+:::
+
+문제9.
+
+::: {.callout-note title="$\\left(\\frac{4^3}{3^2}\\right)^{-2} \\div 16^2 = ?$" collapse="true" appearance="minimal"}
+답= $\frac{3^4}{2^{20}}$
+
+풀이: $\left(\frac{4^3}{3^2}\right)^{-2} \div 16^2 = \frac{3^4}{4^6} \times \frac{1}{16^2} = \frac{3^4}{4^{10}}=\frac{3^4}{2^{20}}$
+:::
+
+문제10.
+
+::: {.callout-note title="$\\frac{3^3 \\times 2^{-3}}{6^2 \\times 9^{-1}} = ?$" collapse="true" appearance="minimal"}
+답= $\frac{3^3}{2^5}$
+
+풀이: $\frac{3^3 \times 2^{-3}}{6^2 \times 9^{-1}} = \frac{3^3 \times 2^{-3}}{2^2 \times 3^2 \times 3^{-2}} = \frac{3^3}{2^5}$
+:::
+
+문제11.
+
+::: {.callout-note title="$\\frac{(2^2 \\times 3^{-1})^3}{4^3 \\times 3^{-2}} = ?$" collapse="true" appearance="minimal"}
+답= $\frac{1}{3}$
+
+풀이: $\frac{(2^2 \times 3^{-1})^3}{4^3 \times 3^{-2}} = \frac{2^{6} \times 3^{-3}}{2^6 \times 3^{-2}} = \frac{1}{3}$
+:::
+
+문제12.
+
+::: {.callout-note title="$\\frac{x^{-3} \\times y^2}{z^{-1}} \\times z^2 = ?$" collapse="true" appearance="minimal"}
+답= $\frac{y^2 \times z^3}{x^3}$
+
+풀이: $\frac{x^{-3} \times y^2}{z^{-1}} \times z^2 = \frac{y^2 \times z^3}{x^3}$
+:::
+
+문제13.
+
+::: {.callout-note title="$\\frac{(5^0 \\times 2^{-2})}{10^{-1}} = ?$" collapse="true" appearance="minimal"}
+답= $\frac{5}{2}$
+
+풀이: $\frac{(5^0 \times 2^{-2})}{10^{-1}} = \frac{1 \times 2^{-2}}{2^{-1} \times 5^{-1}} = \frac{5}{2}$
+:::
+
+문제14.
+
+::: {.callout-note title="$\\frac{(a^{-2} b^2)^3}{a^4 b^{-3}} = ?$" collapse="true" appearance="minimal"}
+답= $\frac{b^9}{a^{10}}$
+
+풀이: $\frac{(a^{-2} b^2)^3}{a^4 b^{-3}} = \frac{a^{-6} b^6}{a^4 b^{-3}} = \frac{b^9}{a^{10}}$
+:::
+
+문제15.
+
+::: {.callout-note title="$\\frac{(2^{-1})^3 \\times 4}{8^{-2}} = ?$" collapse="true" appearance="minimal"}
+답= $2^5$
+
+풀이: $\frac{(2^{-1})^3 \times 4}{8^{-2}} = \frac{2^{-3} \times 2^2}{2^{-6}} = 2^5$
+:::
+
+문제16.
+
+::: {.callout-note title="$\\frac{6^{-1} \\times 3^3}{2^3 \\times 9^{-2}} = ?$" collapse="true" appearance="minimal"}
+답= $\frac{3^6}{2^4}$
+
+풀이: $\frac{6^{-1} \times 3^3}{2^3 \times 9^{-2}} = \frac{2^{-1} \times 3^{-1} \times 3^3}{2^3 \times 3^{-4}} = \frac{3^6}{2^4}$
+:::
+
+문제17.
+
+::: {.callout-note title="$\\frac{(2^{-2})^2 \\times 6^3}{3^4 \\times 4^{-1}} = ?$" collapse="true" appearance="minimal"}
+답= $\frac{2}{3}$
+
+풀이: $\frac{(2^{-2})^2 \times 6^3}{3^4 \times 4^{-1}} = \frac{2^{-4} \times 2^3 \times 3^3}{3^4 \times 2^{-2}} = \frac{2}{3}$
+:::
+
+문제18.
+
+::: {.callout-note title="$\\frac{(a^{-1} b^2)^2 \\times b^{-4}}{a^2 b^{-3}} = ?$" collapse="true" appearance="minimal"}
+답= $\frac{b^3}{a^4}$
+
+풀이: $\frac{(a^{-1} b^2)^2 \times b^{-4}}{a^2 b^{-3}} = \frac{a^{-2} b^4 \times b^{-4}}{a^2 b^{-3}} = \frac{b^3}{a^4}$
+:::
+
+문제19.
+
+::: {.callout-note title="$\\frac{(3x^2 y^{-1})^3}{x^6 y^{-2} z^0} = ?$" collapse="true" appearance="minimal"}
+답= $\frac{3^3}{y}$
+
+풀이: $\frac{(3x^2 y^{-1})^3}{x^6 y^{-2} z^0} = \frac{3^3 \times x^6 \times y^{-3}}{x^6 \times y^{-2} \times 1} = \frac{3^3}{y}$
+:::
+
+문제20.
+
+::: {.callout-note title="$\\frac{a^{-2} \\times b^3}{a^2 \\times b^{-4}} = ?$" collapse="true" appearance="minimal"}
+답= $\frac{b^7}{a^4}$
+
+풀이: $\frac{a^{-2} \times b^3}{a^2 \times b^{-4}} = \frac{b^7}{a^4}$
+:::
