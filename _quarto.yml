@@ -9,6 +9,8 @@ website:
     left:
       - text: 블로그
         href: index.qmd
+      - text: "중학수학"
+        href: posts/middle/index.qmd        
       - text: "수학I"
         href: posts/math_I/index.qmd
       - text: "Python"
@@ -20,6 +22,17 @@ website:
     search: true
     
   sidebar:
+    - title: "중학수학"
+      collapse-level: 2
+      contents:
+        - posts//middle/index.qmd
+        - section: "수와 연산"
+          contents:
+          - posts/middle/operation/prime_factorization.qmd   
+          - posts/middle/operation/greatest_common_divisor.qmd  
+          - posts/middle/operation/least_common_multiple.qmd 
+          # - posts/middle/operation/rational_numbers.qmd   
+          # - posts/middle/operation/repeating_decimal.qmd             
     - title: "수학I"
       collapse-level: 2
       contents:
@@ -30,7 +43,6 @@ website:
           - posts/math_I/exponent/concept_exponent.qmd
           - posts/math_I/exponent/exercise1.qmd
           - posts/math_I/exponent/exercise2.qmd   
-          # - posts/math_I/exponent/exercise3.qmd 
           - posts/math_I/exponent/exercise4.qmd           
         - section: "사칙연산"
           contents:

@@ -1,0 +1,26 @@
+---
+title: "최소공배수"
+description: "최소공배수의 성질을 이해하고, 이를 구할 수 있다."
+date: "2024-12-28"
+modified-date: "2024-12-28"
+categories: [수학, 중학교, 최소공배수]
+---
+
+문제1.
+
+::: {.callout-note title="공배수의 정의를 말하고 18과 24의 최소공배수를 구하시오." collapse="true" appearance="minimal"}
+
+답= 공배수란 두 정수 a, b의 배수 중 공통된 배수를 말합니다.
+
+$$
+\begin{array}{l}
+2 \underline{) \, 18 \quad 24} \\
+3 \underline{) \, \hspace{0.2cm}9 \quad 12} \\
+\phantom{3)} \, \hspace{0.2cm} 3 \quad 4
+\end{array}
+$$
+최소공배수는 나눗셈 과정에 사용된 소인수와 남은 수를 모두 곱합니다.
+따라서, $2 \times 3 \times 3 \times 4 = 72$입니다.
+
+
+
