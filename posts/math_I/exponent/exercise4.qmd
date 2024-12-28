@@ -11,7 +11,7 @@ categories: [수학, 지수의법칙, 중학교]
 ::: {.callout-note title="$\\frac{2^{-3} \\times 3^4}{6^{-2}} = ?$" collapse="true" appearance="minimal"}
 답= $\frac{3^6}{2}$
 
-풀이: $\frac{2^{-3} \times 3^4}{6^{-2}} = \frac{2^{-3} \times 3^4}{2^{-2} \times 3^{-2}} = 2^{-3 - (-2)} \times 3^{4 - (-2)} = 2^{-1} \times 3^6 = frac{3^6}{2}$
+풀이: $\frac{2^{-3} \times 3^4}{6^{-2}} = \frac{2^{-3} \times 3^4}{2^{-2} \times 3^{-2}} = 2^{-3 - (-2)} \times 3^{4 - (-2)} = 2^{-1} \times 3^6 = \frac{3^6}{2}$
 :::
 
 ## 문제2.
