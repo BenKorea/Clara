@@ -46,7 +46,10 @@ website:
           - posts/math_I/exponent/exercise4.qmd 
           - posts/math_I/exponent/exercise5.qmd 
           - posts/math_I/exponent/exercise6.qmd  
-          - posts/math_I/exponent/exercise7.qmd            
+          - posts/math_I/exponent/exercise7.qmd     
+        - section: "제곱근"
+          contents:
+          - posts/math_I/root/exercise1.qmd
         - section: "사칙연산"
           contents:
           - posts/math_I/sequence/sequence.qmd          
