@@ -1,0 +1,45 @@
+---
+title: "소인수분해"
+description: "소인수분해의 뜻을 알고, 자연수를 소인수분해할 수 있다."
+date: "2024-12-28"
+date-modified: "2024-12-28"
+categories: [수학, 중학교, 소인수, 소인수분해]
+---
+
+문제1.
+
+::: {.callout-note title="소인수의 정의를 말하시오." collapse="true" appearance="minimal"}
+
+답= 소인수는 1과 자기 자신 외에는 약수가 없는 소수로, 어떤 자연수를 나눌 수 있는 소수입니다.
+
+풀이: 예를 들어, 12의 소인수는 $2$와 $3$입니다. 이는 $12 = 2^2 \times 3$으로 표현됩니다.
+:::
+
+문제2.
+
+::: {.callout-note title="1부터 20까지의 소인수를 나열하시오." collapse="true" appearance="minimal"}
+
+답= $2, 3, 5, 7, 11, 13, 17, 19$
+:::
+
+
+## 문제3.
+
+::: {.callout-note title="소인수분해: 60을 소인수분해 하시오." collapse="true" appearance="minimal"}
+
+답= $2^2 \times 3 \times 5$
+
+풀이:
+
+$$
+\begin{array}{l}
+2 \underline{) \, 60} \\
+2 \underline{) \, 30} \\
+3 \underline{) \, 15} \\
+\phantom{3)} \, \hspace{0.2cm} 5
+\end{array}
+$$
+
+따라서 $60 = 2^2 \times 3 \times 5$
+:::
+

@@ -21,24 +21,29 @@ website:
         href: https://github.com/
     search: true
     
-  sidebar:
-    - title: "중학수학"
-      collapse-level: 2
-      contents:
-        - posts//middle/index.qmd
-        - section: "수와 연산"
-          contents:
-          - posts/middle/operation/prime_factorization.qmd   
-          - posts/middle/operation/greatest_common_divisor.qmd  
-          - posts/middle/operation/least_common_multiple.qmd 
-          # - posts/middle/operation/rational_numbers.qmd   
-          # - posts/middle/operation/repeating_decimal.qmd             
-    - title: "수학I"
-      collapse-level: 2
-      contents:
-        - posts//math_I/index.qmd
-        - section: "지수함수와 로그함수"
-          contents:
+sidebar:
+  - title: "중학수학"
+    collapse-level: 3
+    contents:
+      - posts/middle/index.qmd
+      - section: "중1"
+        contents:
+          - section: "수와 연산"
+            contents:
+              - posts/middle/middle1/operation/prime_factorization.qmd
+              - posts/middle/middle1/operation/greatest_common_divisor.qmd
+              - posts/middle/middle1/operation/least_common_multiple.qmd
+      - section: "중2"
+        contents:
+          - section: "함수"
+            contents:
+              - posts/middle/middle2/function/function.qmd
+  - title: "수학I"
+    collapse-level: 2
+    contents:
+      - posts//math_I/index.qmd
+      - section: "지수함수와 로그함수"
+        contents:
           - posts/math_I/exponent/curriculum.qmd 
           - posts/math_I/exponent/concept_exponent.qmd
           - posts/math_I/exponent/exercise1.qmd
@@ -47,16 +52,16 @@ website:
           - posts/math_I/exponent/exercise5.qmd 
           - posts/math_I/exponent/exercise6.qmd  
           - posts/math_I/exponent/exercise7.qmd     
-        - section: "제곱근"
-          contents:
+      - section: "제곱근"
+        contents:
           - posts/math_I/root/exercise1.qmd
-        - section: "사칙연산"
-          contents:
+      - section: "사칙연산"
+        contents:
           - posts/math_I/sequence/sequence.qmd          
-    - title: "Python"
-      collapse-level: 2
-      contents:
-        - posts/python/Python.qmd
+  - title: "Python"
+    collapse-level: 2
+    contents:
+      - posts/python/Python.qmd
 
 format:
   html:
