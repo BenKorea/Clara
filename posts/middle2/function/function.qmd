@@ -1,0 +1,132 @@
+---
+title: "일차함수와 그래프 연습문제"
+description: |
+  함수의 개념을 이해한다.<br>
+  일차함수의 의미를 이해하고, 그래프를 그릴 수 있다.<br>
+  일차함수의 그래프의 성질을 이해하고, 이를 활용하여 문제를 해결할 수 있다.
+date: "2025-01-11"
+date-modified: "2025-01-11"
+categories: [중2수학, 함수, 일차함수, 그래프, 연습문제]
+---
+
+### 문제1.
+
+::: {.callout-note title="함수의 정의를 말하시오." collapse="true" appearance="minimal"}
+두 변수 x, y에 대하여 x의 값이 변함에 따라 y의 값이 하나씩 정해 지는 대응 관계가 있을 때, y를 x의 함수라고 한다.
+:::
+
+### 문제2.
+
+::: {.callout-note title="일차함수에서 x, y 절편의 정의를 말하고, 구하는 방법을 설명하시오.." collapse="true" appearance="minimal"}
+-   x-절편: 그래프가 $x$축과 만나는 점의 $𝑥$ 좌표.
+    이 때 $y=0$
+
+-   y-절편: 그래프가 $y$축과 만나는 점의 $y$ 좌표.
+    이때 $x=0$
+:::
+
+### 문제3.
+
+::: {.callout-note title="$y=-3x+9$의 x, y 절편을 구하시오." collapse="true" appearance="minimal"}
+-   x-절편: -3
+
+-   y-절편: 0
+:::
+
+### 문제4.
+
+::: {.callout-note title="$y = 2x +1$ 그래프를 그리시오" collapse="true" appearance="minimal"}
+답: 쉽게 그릴려면 x, y 절편을 구하고 연결한다.
+
+```{r}
+#| label: answewr4
+#| echo: false
+
+# # x와 y 값 정의
+x <- seq(-2, 2, length.out = 100)  # -2에서 2까지 100개의 점 생성
+y <- 2 * x + 1
+
+# 그래프 그리기
+plot(x, y, type = "l", col = "blue", lwd = 2, 
+     main = "Graph of y = 2x + 1", 
+     xlab = "x", ylab = "y", 
+     xlim = c(-2, 2), ylim = c(-2, 2), asp = 1)  # asp = 1로 동일 스케일 설정
+abline(h = 0, col = "black", lty = 2)  # x축
+abline(v = 0, col = "black", lty = 2)  # y축
+grid()  # 격자 추가
+
+# x-절편 (y=0일 때 x 값)
+x_intercept <- -1 / 2
+points(x_intercept, 0, col = "red", pch = 19)
+text(x_intercept, -0.2, paste("x-intercept =", round(x_intercept, 2)), col = "red", pos = 4)
+
+# y-절편 (x=0일 때 y 값)
+y_intercept <- 1
+points(0, y_intercept, col = "green", pch = 19)
+text(0.2, y_intercept, paste("y-intercept =", round(y_intercept, 2)), col = "green", pos = 4)
+
+```
+:::
+
+### 문제5
+::: {.callout-note title="아래 그래프의 식을 구하시오." collapse="true" appearance="minimal"}
+-   답: $y=-1/2x+3$
+
+-   풀이: 기울기가 $-1/2$, $y$ 절편은 3임을 이용한다.
+:::
+
+
+```{r}
+#| label: question5
+#| echo: false
+
+# x-절편과 y-절편 정의
+x_intercept <- 6  # x-절편
+y_intercept <- 3  # y-절편
+
+# 일차함수의 방정식: y = mx + b
+# x-절편과 y-절편을 사용하여 기울기(m)와 방정식 설정
+m <- -y_intercept / x_intercept  # 기울기 계산
+b <- y_intercept                 # y-절편
+
+# x와 y 값 정의
+x <- seq(-1, 7, length.out = 100)  # 그래프를 위해 x 범위를 설정
+y <- m * x + b
+
+# 그래프 그리기
+plot(x, y, type = "l", col = "blue", lwd = 2,
+     main = "Graph of the line with x-intercept = 6 and y-intercept = 3",
+     xlab = "x", ylab = "y",
+     xlim = c(-1, 7), ylim = c(-1, 4), asp = 1)  # 동일 스케일 유지
+abline(h = 0, col = "black", lty = 2)  # x축
+abline(v = 0, col = "black", lty = 2)  # y축
+grid()  # 격자 추가
+
+# x-절편 표시
+points(x_intercept, 0, col = "red", pch = 19)
+text(x_intercept, -0.2, paste("x-intercept =", x_intercept), col = "red", pos = 4)
+
+# y-절편 표시
+points(0, y_intercept, col = "green", pch = 19)
+text(0.2, y_intercept, paste("y-intercept =", y_intercept), col = "green", pos = 4)
+
+```
+
+
+### 문제6.
+
+::: {.callout-note title="일차방정식의 정의와 연립일차방정식의 정의를 설명하시오." collapse="true" appearance="minimal"}
+-   일차방정식이란 x, 𝑦와 같은 변수의 차수(지수)가 1인 방정식을 말합니다.
+    즉, 변수의 차수가 1이면서, 직선의 형태로 나타낼 수 있는 방정식입니다.
+
+-   연립일차방정식은 두 개 이상의 일차방정식으로 이루어진 시스템으로, 보통 다음과 같이 표현합니다:
+
+\[
+
+\begin{aligned}
+    a_1x + b_1y &= c_1 \quad \text{(식 1)} \\
+    a_2x + b_2y &= c_2 \quad \text{(식 2)}
+\end{aligned}
+
+\]
+:::

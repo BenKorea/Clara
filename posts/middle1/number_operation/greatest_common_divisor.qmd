@@ -1,0 +1,55 @@
+---
+title: "최대공약수 연습문제"
+description: "최대공약수의 성질을 이해하고, 이를 구할 수 있다."
+date: "2024-12-29"
+date-modified: "2024-12-29"
+categories: [중1수학, 최대공약수]
+---
+
+문제1.
+
+::: {.callout-note title="약수의 정의를 말하고 18과 24의 약수들을 나열하시오." collapse="true" appearance="minimal"}
+답= 약수란 어떤 정수를 나누었을 때 나머지가 0이 되는 수를 말합니다.
+
+18의 약수: 1,2,3,6,9,18\
+24의 약수: 1,2,3,4,6,8,12,24
+:::
+
+문제2.
+
+::: {.callout-note title="공약수의 정의를 말하고, 18과 24의 공약수를 구하시오." collapse="true" appearance="minimal"}
+답= 공약수란 두 개 이상의 정수에서 공통으로 나누어 떨어지게 하는 약수를 말합니다.
+
+$$
+\begin{array}{l}
+2 \underline{) \, 18 \quad 24} \\
+3 \underline{) \, \hspace{0.2cm}9 \quad 12} \\
+\phantom{3)} \, \hspace{0.2cm} 3 \quad 4
+\end{array}
+$$ 공약수는 $$
+2^0 \times 3^0=1 \\
+2^1 \times 3^0=2 \\
+2^0 \times 3^1=3 \\
+2^1 \times 3^1 = 6
+$$ 입니다.
+:::
+
+## 문제3.
+
+::: {.callout-note title="최대공약수의 정의를 말하고, 18과 24의 최대공약수를 구하시오" collapse="true" appearance="minimal"}
+답= 공약수 중 가장 큰 수
+
+$$
+\begin{array}{l}
+2 \underline{) \, 18 \quad 24} \\
+3 \underline{) \, \hspace{0.2cm}9 \quad 12} \\
+\phantom{3)} \, \hspace{0.2cm} 3 \quad 4
+\end{array}
+$$ 위의 식에서 2와 3의 곱이 최대공약수가 되어 $2 \times 3 =6$이 됩니다.
+:::
+
+## 문제4.
+
+::: {.callout-note title="모든 소인수는 약수이지만, 모든 약수는 소인수가 아니다. 맞으면 O, 틀리면 X 하시오" collapse="true" appearance="minimal"}
+답= O
+:::

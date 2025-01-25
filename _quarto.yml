@@ -9,60 +9,160 @@ website:
     left:
       - text: 블로그
         href: index.qmd
-      - text: "중학수학"
-        href: posts/middle/index.qmd        
+      - text: "중1수학"
+        href: posts/middle1/curriculum.qmd      
+      - text: "중2수학"
+        href: posts/middle2/curriculum.qmd
+      - text: "중3수학"
+        href: posts/middle3/curriculum.qmd              
+      - text: "공통수학"
+        href: posts/common/curriculum.qmd
       - text: "수학I"
-        href: posts/math_I/index.qmd
-      - text: "Python"
-        href: posts/python/Python.qmd
+        href: posts/I/curriculum.qmd
+      - text: "수학II"
+        href: posts/II/curriculum.qmd  
+      - text: "미적분"
+        href: posts/calculus/curriculum.qmd   
+      - text: "확률과통계"
+        href: posts/probability_statistics/curriculum.qmd           
     right:
       - posts/about.qmd
-      - icon: github
-        href: https://github.com/
     search: true
-    
-sidebar:
-  - title: "중학수학"
-    collapse-level: 3
-    contents:
-      - posts/middle/index.qmd
-      - section: "중1"
-        contents:
-          - section: "수와 연산"
-            contents:
-              - posts/middle/middle1/operation/prime_factorization.qmd
-              - posts/middle/middle1/operation/greatest_common_divisor.qmd
-              - posts/middle/middle1/operation/least_common_multiple.qmd
-      - section: "중2"
-        contents:
-          - section: "함수"
-            contents:
-              - posts/middle/middle2/function/function.qmd
-  - title: "수학I"
-    collapse-level: 2
-    contents:
-      - posts//math_I/index.qmd
-      - section: "지수함수와 로그함수"
-        contents:
-          - posts/math_I/exponent/curriculum.qmd 
-          - posts/math_I/exponent/concept_exponent.qmd
-          - posts/math_I/exponent/exercise1.qmd
-          - posts/math_I/exponent/exercise2.qmd   
-          - posts/math_I/exponent/exercise4.qmd 
-          - posts/math_I/exponent/exercise5.qmd 
-          - posts/math_I/exponent/exercise6.qmd  
-          - posts/math_I/exponent/exercise7.qmd     
-      - section: "제곱근"
-        contents:
-          - posts/math_I/root/exercise1.qmd
-      - section: "사칙연산"
-        contents:
-          - posts/math_I/sequence/sequence.qmd          
-  - title: "Python"
-    collapse-level: 2
-    contents:
-      - posts/python/Python.qmd
 
+  sidebar:
+    - title: "중1수학"
+      collapse-level: 3
+      contents:
+        - posts/middle1/curriculum.qmd
+        - section: "수와 연산"
+          contents:
+            - posts/middle1/number_operation/index.qmd          
+            - posts/middle1/number_operation/prime_factorization.qmd
+            - posts/middle1/number_operation/greatest_common_divisor.qmd
+            - posts/middle1/number_operation/least_common_multiple.qmd
+        - section: "문자와 식"
+          contents:
+            - posts/middle1/algebric_expression/index.qmd     
+        - section: "좌표평면과 그래프"
+          contents:
+            - posts/middle1/coordinate_graph/index.qmd
+        - section: "도형의 기초"
+          contents:
+            - posts/middle1/geometry/index.qmd        
+        - section: "도형의 성질"
+          contents:
+            - posts/middle1/geometry_property/index.qmd
+        - section: "통계"
+          contents:
+            - posts/middle1/statistics/index.qmd            
+    - title: "중2수학"
+      collapse-level: 3
+      contents:
+        - posts/middle2/curriculum.qmd
+        - section: "유리수와 순한소수"
+          contents:
+            - posts/middle2/rational_repeating_decimal/rational_numbers.qmd
+            - posts/middle2//rational_repeating_decimal/repeating_decimal.qmd 
+        - section: "문자와식"
+          contents:
+            - section: "지수법칙"
+              contents:
+                - posts/middle2/exponent/curriculum.qmd
+                - posts/middle2/exponent/concept_exponent.qmd
+                - posts/middle2/exponent/exercise1.qmd
+                - posts/middle2/exponent/exercise2.qmd
+                - posts/middle2/exponent/exercise4.qmd
+                - posts/middle2/exponent/exercise5.qmd
+                - posts/middle2/exponent/exercise6.qmd
+                - posts/middle2/exponent/exercise7.qmd
+            - section: "사칙연산"
+              contents:
+                - posts/I/sequence/sequence.qmd                     
+        - section: "함수"
+          contents:
+            - posts/middle2/function/index.qmd          
+            - posts/middle2/function/function.qmd
+        - section: "도형의 성질"
+          contents:
+            - posts/middle2/geometry_property/index.qmd      
+        - section: "도형의 닮음"
+          contents:
+            - posts/middle2/geometric_similarity/index.qmd    
+        - section: "확률"
+          contents:
+            - posts/middle2/probability/index.qmd                
+    - title: "중3수학"
+      collapse-level: 3
+      contents:
+        - posts/middle3/curriculum.qmd
+        - section: "실수와 그 계산"
+          contents:
+            - posts/middle3/real_number_calculation/learning_objective.qmd                 
+            - posts/middle3/real_number_calculation/square_root_exercise.qmd
+        - section: "다항식과 인수분해"            
+          contents:
+            - posts/middle3/polynomial_factorization/learning_objective.qmd
+        - section: "이차방정식"            
+          contents:
+            - posts/middle3/quadratic_equation/learning_objective.qmd
+        - section: "삼각비"            
+          contents:
+            - posts/middle3/trigonometric_ratio/learning_objective.qmd                        
+        - section: "원의 성질"            
+          contents:
+            - posts/middle3/circle_property/learning_objective.qmd
+        - section: "통계"            
+          contents:
+            - posts/middle3/statistics/learning_objective.qmd                 
+    - title: "공통수학"
+      collapse-level: 3
+      contents:
+        - posts/common/curriculum.qmd
+        - section: "다항식"
+          contents:
+            - posts/common/polynomial_equation/learning_objective.qmd  
+        - section: "방정식과 부등식"
+          contents:
+            - posts/common/equation_inequality/learning_objective.qmd
+        - section: "도형의 방정식"
+          contents:
+            - posts/common/geometric_equation/learning_objective.qmd
+        - section: "집합과 명제"
+          contents:
+            - posts/common/set_proposition/learning_objective.qmd
+        - section: "함수와 그래프"
+          contents:
+            - posts/common/function_graph/learning_objective.qmd
+        - section: "순열과 조합"
+          contents:
+            - posts/common/permutation_combination/learning_objective.qmd
+
+    - title: "수학I"
+      collapse-level: 3
+      contents:
+        - posts/I/curriculum.qmd
+        - section: "지수함수와 로그함수"
+          contents:
+            - posts/I/exponent_log_function/learning_objective.qmd        
+        - section: "삼각함수"
+          contents:
+            - posts/I/trigonometric_function/learning_objective.qmd          
+        - section: "수열"
+          contents:
+            - posts/I/sequence/learning_objective.qmd 
+    - title: "수학II"
+      collapse-level: 3
+      contents:
+        - posts/II/curriculum.qmd            
+    - title: "미적분"
+      collapse-level: 3
+      contents:
+        - posts/calculusII/curriculum.qmd  
+    - title: "확률과 통계"
+      collapse-level: 3
+      contents:
+        - posts/probability_statistics/curriculum.qmd
+        
 format:
   html:
     theme: cosmo
