@@ -1,12 +1,10 @@
 ---
 title: "교과과정"
-description: "2015년 개정  -  공통수학  -  교과과정"
+description: "공통수학   -   2015년 개정"
 date: "2024-12-28"
 date-modified: "2024-12-28"
 categories: [공통수학, 교과과정, 2015년 개정]
-editor: 
-  markdown: 
-    wrap: 72
+toc-depth: 4
 ---
 
 고등학교 공통 과목인 **수학**은 중학교 3학년까지의 수학을 학습한 후

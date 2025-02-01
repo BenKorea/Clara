@@ -36,7 +36,7 @@ website:
         - posts/middle1/curriculum.qmd
         - section: "수와 연산"
           contents:
-            - posts/middle1/number_operation/index.qmd          
+            - posts/middle1/number_operation/learning_objective.qmd          
             - posts/middle1/number_operation/prime_factorization.qmd
             - posts/middle1/number_operation/greatest_common_divisor.qmd
             - posts/middle1/number_operation/least_common_multiple.qmd
@@ -77,7 +77,7 @@ website:
                 - posts/middle2/exponent/exercise7.qmd
             - section: "사칙연산"
               contents:
-                - posts/I/sequence/sequence.qmd                     
+                - posts/middle2/sequence/sequence.qmd                     
         - section: "함수"
           contents:
             - posts/middle2/function/index.qmd          
