@@ -95,1053 +95,29 @@
     ]
   },
   {
-    "objectID": "posts/middle2/exponent/exercise6.html",
-    "href": "posts/middle2/exponent/exercise6.html",
-    "title": "지수의법칙 연습6",
+    "objectID": "posts/middle2/exponent/exercise7.html",
+    "href": "posts/middle2/exponent/exercise7.html",
+    "title": "지수의법칙 연습7",
     "section": "",
-    "text": "문제1.\n\n\n\n\n\n\n\\(\\left(\\frac{3^5 \\times 2^{-3}}{6^3}\\right)^{-1} = ?\\)\n\n\n\n\n\n답= \\(\\frac{2^6}{3^2}\\)\n풀이: \\((\\frac{3^5 \\times 2^{-3}}{6^3})^{-1} = (\\frac{2^3 \\times 3^3}{3^5 \\times 2^{-3}}) = \\frac{2^6}{3^2}\\)\n\n\n\n문제2.\n\n\n\n\n\n\n\\(\\frac{5^3 \\times 10^{-2}}{2^{-3} \\times 25^2} = ?\\)\n\n\n\n\n\n답= \\(\\frac{2}{5^3}\\)\n풀이: \\(\\frac{5^3 \\times 10^{-2}}{2^{-3} \\times 25^2} = \\frac{5^3 \\times 5^{-2} \\times 2^{-2}}{2^{-3} \\times 5^4} = \\frac{2}{5^3}\\)\n\n\n\n문제3.\n\n\n\n\n\n\n\\(\\left(\\frac{4^{-2}}{9^3}\\right)^{-2} \\times 6^4 = ?\\)\n\n\n\n\n\n답= \\(2^{12} \\times 3^{16}\\)\n풀이: \\((\\frac{4^{-2}}{9^3})^{-2} \\times 6^4 = (\\frac{3^6}{2^{-4}})^2 \\times 2^4 \\times 3^4 = \\frac{3^{12} \\times 2^4 \\times 3^4}{2^{-8}} = 2^{12} \\times 3^{16}\\)\n\n\n\n문제4.\n\n\n\n\n\n\n\\(\\frac{(x^2 y^{-3})^4}{z^{-2} \\times y^{-5}} \\div x^6 = ?\\)\n\n\n\n\n\n답= \\(\\frac{x^2 \\times z^2}{y^7} (=x^2 y^{-7} z^2)\\)\n풀이: \\(\\frac{(x^2 y^{-3})^4}{z^{-2} \\times y^{-5}} \\div x^6 = \\frac{x^8 y^{-12}}{z^{-2} \\times y^{-5} \\times x^6} = \\frac{x^2 \\times z^2}{y^7}\\)\n\n\n\n문제5.\n\n\n\n\n\n\n\\(\\frac{2^{-3} \\times 3^5}{6^{-4}} \\div \\left(\\frac{4^2}{9^{-1}}\\right)^{-1} = ?\\)\n\n\n\n\n\n답= \\(2^5 \\times 3^{11}\\)\n풀이: \\(\\frac{2^{-3} \\times 3^5}{6^{-4}} \\div \\left(\\frac{4^2}{9^{-1}}\\right)^{-1} = \\frac{2^{-3} \\times 3^5}{2^{-4} \\times 3^{-4}} \\times \\frac{4^2}{9^{-1}}=\\frac{2^{-3} \\times 3^5 \\times 2^4}{2^{-4} \\times 3^{-4} \\times 3^{-2}} = 2^5 \\times 3^{11}\\)\n\n\n\n문제6.\n\n\n\n\n\n\n\\(\\frac{(a^3 b^{-2})^2}{(a^{-1} b^4)^3} = ?\\)\n\n\n\n\n\n답= \\(\\frac{a^9}{b^{16}} (=a^9 b^{-16})\\)\n풀이: \\(\\frac{(a^3 b^{-2})^2}{(a^{-1} b^4)^3} = \\frac{a^6 b^{-4}}{a^{-3} b^{12}} = \\frac{a^9}{b^{16}}\\)\n\n\n\n문제7.\n\n\n\n\n\n\n\\(\\left(\\frac{5^3 \\times 2^{-2}}{10^{-3}}\\right)^2 \\div 2^{-4} = ?\\)\n\n\n\n\n\n답= \\(5^12 \\times 2^6\\)\n풀이: \\((\\frac{5^3 \\times 2^{-2}}{10^{-3}})^2 \\div 2^{-4} = \\frac{5^6 \\times 2^{-4}}{5^{-6} \\times 2^{-6}} \\times 2^4 = 5^{12} \\times 2^6\\)\n\n\n\n문제8.\n\n\n\n\n\n\n\\(\\frac{6^{-3} \\times 2^4}{3^{-2} \\times 4^{-1}} \\div 8^2 = ?\\)\n\n\n\n\n\n답= \\(\\frac{1}{2^3 \\times 3}\\)\n풀이: \\(\\frac{6^{-3} \\times 2^4}{3^{-2} \\times 4^{-1}} \\div 8^2 = \\frac{2^{-3} \\times 3^{-3} \\times 2^4}{3^{-2} \\times 2^{-2} \\times 2^6} = \\frac{1}{2^3 \\times 3}\\)\n\n\n\n문제9.\n\n\n\n\n\n\n\\(\\frac{10^{-1} \\times 5^2}{2^{-3} \\times 25^{-2}} = ?\\)\n\n\n\n\n\n답= \\(2^2 \\times 5^5\\)\n풀이: \\(\\frac{10^{-1} \\times 5^2}{2^{-3} \\times 25^{-2}} = \\frac{2^{-1} \\times 5^{-1} \\times 5^2}{2^{-3} \\times 5^{-4}} = 2^2 \\times 5^5\\)\n\n\n\n문제10.\n\n\n\n\n\n\n\\(\\frac{x^5 y^{-3}}{z^{-4} \\times x^{-2}} \\div \\left(y^2 z^3\\right)^{-2} = ?\\)\n\n\n\n\n\n답= \\(x^7 y z^{10}\\)\n풀이: \\(\\frac{x^5 y^{-3}}{z^{-4} \\times x^{-2}} \\div \\left(y^2 z^3\\right)^{-2} = \\frac{x^5 y^{-3}}{z^{-4} \\times x^{-2}} \\times (y^2 z^3)^2 = \\frac{x^5 y^{-3} y^4 z^6}{x^{-2} z{-4}} = x^7 y z{10}\\)\n\n\n\n문제11.\n\n\n\n\n\n\n\\(\\frac{(2^3 \\times 3^{-2})^2}{6^4 \\times (4^{-1})^3} = ?\\)\n\n\n\n\n\n답= \\(\\frac{2^8}{3^8}\\)\n풀이: \\(\\frac{(2^3 \\times 3^{-2})^2}{6^4 \\times (4^{-1})^3} = \\frac{2^6 \\times 3^{-4}}{2^4 \\times 3^4 \\times 2^{-6}} = \\frac{2^8}{3^8}\\)\n\n\n\n문제12.\n\n\n\n\n\n\n\\(\\frac{x^{-3} y^2 z^5}{x^4 z^{-1}} \\times y^{-3} z^{-2} = ?\\)\n\n\n\n\n\n답= \\(\\frac{z^2}{x^7 y} (=x^{-7} y^{-1} z^2)\\)\n풀이: \\(\\frac{x^{-3} y^2 z^5}{x^4 z^{-1}} \\times y^{-3} z^{-2} =  \\frac{z^2}{x^7 y}\\)\n\n\n\n문제13.\n\n\n\n\n\n\n\\(\\frac{(3x^2 y^{-1})^4}{x^5 y^{-3} z^2} = ?\\)\n\n\n\n\n\n답= \\(\\frac{3^4 x^3}{y z^2} (=3^4 x^3 y^{-1} z^{-2})\\)\n풀이: \\(\\frac{(3x^2 y^{-1})^4}{x^5 y^{-3} z^2} = \\frac{3^4 x^8 y^{-4}}{x^5 y^{-3} z^2} = \\frac{3^4 x^3}{y z^2}\\)\n\n\n\n문제14.\n\n\n\n\n\n\n\\(\\frac{a^{-3} b^5}{a^4 b^{-1}} \\div \\frac{b^2}{a^{-2}} = ?\\)\n\n\n\n\n\n답= \\(\\frac{b^4}{a^9} (=a^{-9} b^4)\\)\n풀이: \\(\\frac{a^{-3} b^5}{a^4 b^{-1}} \\div \\frac{b^2}{a^{-2}} = \\frac{a^{-3} b^5}{a^4 b^{-1}} \\times \\frac{a^{-2}}{b^2} = \\frac{a^{-3} a^{-2} b^5}{a^4 b^{-1} b^2} = \\frac{b^4}{a^9}\\)\n\n\n\n문제15.\n\n\n\n\n\n\n\\(\\frac{(x^2 y^{-2})^3}{z^{-1} \\times y^{-5}} \\div x^{-4} = ?\\)\n\n\n\n\n\n답= \\(\\frac{x^{10} z}{y} (=x^{10} y^{-1} z)\\)\n풀이: \\(\\frac{(x^2 y^{-2})^3}{z^{-1} \\times y^{-5}} \\div x^{-4} = \\frac{x^{6} y^{-6}}{z^{-1} \\times y^{-5}} \\times x^{4} = \\frac{x^{10} z}{y}\\)\n\n\n\n문제16.\n\n\n\n\n\n\n\\(\\frac{10^2 \\times 5^{-3}}{2^{-1} \\times 25} \\div 2^3 = ?\\)\n\n\n\n\n\n답= \\(\\frac{1}{5}\\)\n풀이: \\(\\frac{10^2 \\times 5^{-3}}{2^{-1} \\times 25} \\div 2^3 = \\frac{(2 \\times 5)^2 \\times 5^{-3}}{2^{-1} \\times 5^2} \\div 2^3 = \\frac{1}{5}\\)\n\n\n\n문제17.\n\n\n\n\n\n\n\\(\\frac{(2^3 \\times 3^2)^{-2}}{6^3} \\times 4^2 = ?\\)\n\n\n\n\n\n답= \\(\\frac{1}{2^5 3^7}\\)\n풀이: \\(\\frac{(2^3 \\times 3^2)^{-2}}{6^3} \\times 4^2 = \\frac{2^{-6} \\times 3^{-4}}{2^3 \\times 3^3} \\times 2^4 = \\frac{1}{2^5 3^7}\\)\n\n\n\n문제18.\n\n\n\n\n\n\n\\(\\frac{(x^{-1} y^3)^{-2}}{x^4 y^{-2}} \\times y^5 = ?\\)\n\n\n\n\n\n답= \\(x^6 y^{11}\\)\n풀이: \\(\\frac{(x^{-1} y^3)^{-2}}{x^4 y^{-2}} \\times y^5 = \\frac{x^{2} y^{-6}}{x^4 y^{-2}} \\times y^5 = x^{2 - 4} y^{-6 + 2 + 5} = x^6 y^{11}\\)\n\n\n\n문제19.\n\n\n\n\n\n\n\\(\\frac{(3x^3 z^{-1})^2}{x^{-4} z^3} \\div 3^{-2} = ?\\)\n\n\n\n\n\n답= \\(\\frac{3^4 x^{10}}{z^5}\\)\n풀이: \\(\\frac{(3x^3 z^{-1})^2}{x^{-4} z^3} \\div 3^{-2} = \\frac{3^2 x^6 z^{-2}}{x^{-4} z^3} \\times 3^2 = \\frac{3^4 x^{10}}{z^5}\\)\n\n\n\n문제20.\n\n\n\n\n\n\n\\(\\frac{(2a^{-1} b^3)^3}{(4a^2 b^{-2})^2} \\times b^4 = ?\\)\n\n\n\n\n\n답= \\(\\frac{b^{17}}{2 a^7}\\)\n풀이: \\(\\frac{(2a^{-1} b^3)^3}{(4a^2 b^{-2})^2} \\times b^4 = \\frac{2^3 a^{-3} b^9}{2^4 a^4 b^{-4}} \\times b^4 = \\frac{b^{17}}{2 a^7}\\)",
+    "text": "문제1.\n\n\n\n\n\n\n\\(\\frac{(2^3 x^{-2})^4}{(3x^{-1} y^2)^3} \\div (2xy^{-1})^{-2} = ?\\)\n\n\n\n\n\n답= \\(\\frac{2^{14}}{3^3 x^3 y^8}\\)\n풀이: \\(\\frac{(2^3 x^{-2})^4}{(3x^{-1} y^2)^3} \\div (2xy^{-1})^{-2} = \\frac{(2^3 x^{-2})^4}{(3x^{-1} y^2)^3} \\times (2xy^{-1})^2 =\\frac{2^{12} x^{-8}}{3^3 x^{-3} y^6} \\times 2^2 x^2 y^{-2} = \\frac{2^{14}}{3^3 x^3 y^8}\\)\n\n\n\n문제2.\n\n\n\n\n\n\n\\(\\frac{(5^{-1} y^2)^{-3}}{10^{-4} x^{-2}} \\div (2x^{-1} y^{-3})^2 = ?\\)\n\n\n\n\n\n답= \\(2^2 5^7 x^4\\)\n풀이: \\(\\frac{(5^{-1} y^2)^{-3}}{10^{-4} x^{-2}} \\div (2x^{-1} y^{-3})^2 = \\frac{5^3 y^{-6}}{2^{-4} 5^{-4} x^{-2}} \\times (2x^{-1} y^{-3})^{-2} = \\frac{5^3 y^{-6}}{2^{-4} 5^{-4} x^{-2}} \\times 2^{-2} x^{2} y^6 = 2^2 5^7 x^4\\)\n\n\n\n문제3.\n\n\n\n\n\n\n\\(\\frac{2^{-2} (3x^2)^{-3}}{(6x^{-1})^2} \\times (4x^3)^{-1} = ?\\)\n\n\n\n\n\n답= \\(\\frac{1}{2^6 3^5 x^7}\\)\n풀이: \\(\\frac{2^{-2} (3x^2)^{-3}}{(6x^{-1})^2} \\times (4x^3)^{-1} = \\frac{2^{-2} 3^{-3} x^{-6}}{2^2 3^2 x^{-2}} \\times 2^{-2} x^{-3} = \\frac{1}{2^6 3^5 x^7}\\)\n\n\n\n문제4.\n\n\n\n\n\n\n\\(\\frac{(a^{-3} b^2)^{-2}}{(2a^2 b^{-1})^3} \\div (4a b^3)^{-1} = ?\\)\n\n\n\n\n\n답= \\(\\frac{ab^2}{2}\\)\n풀이: \\(\\frac{(a^{-3} b^2)^{-2}}{(2a^2 b^{-1})^3} \\div (4a b^3)^{-1} = \\frac{a^6 b^{-4}}{2^3 a^6 b^{-3}} \\times 2^2 a b^3 = \\frac{ab^2}{2}\\)\n\n\n\n문제5.\n\n\n\n\n\n\n\\(\\frac{(3x^{-2} y^3)^3}{(x^{-1} y^{-1})^2} \\div (2x y^2)^4 = ?\\)\n\n\n\n\n\n답= \\(\\frac{3^3 y^{3}}{2^4 x^8}\\)\n풀이: \\(\\frac{(3x^{-2} y^3)^3}{(x^{-1} y^{-1})^2} \\div (2x y^2)^4 = \\frac{3^3 x^{-6} y^9}{x^{-2} y^{-2}} \\times 2^{-4} x^{-4} y^{-8} = \\frac{3^3 y^{3}}{2^4 x^8}\\)\n\n\n\n문제6.\n\n\n\n\n\n\n\\(\\left(\\frac{4x^3}{9y^{-2}}\\right)^{-2} \\div \\left(\\frac{x^{-2}}{3y}\\right)^3 = ?\\)\n\n\n\n\n\n답= \\(\\frac{3^7}{2^4 y}\\)\n풀이: \\((\\frac{4x^3}{9y^{-2}})^{-2} \\div (\\frac{x^{-2}}{3y})^3 = (\\frac{9y^{-2}}{4x^3})^2 \\times (\\frac{3y}{x^{-2}})^3 = \\frac{3^4 y^{-4}}{2^4 x^6} \\times \\frac{3^3 y^3}{x^{-6}} = \\frac{3^7}{2^4 y}\\)\n\n\n\n문제7.\n\n\n\n\n\n\n\\(\\frac{(2^3 a^{-2} b^3)^4}{(4a^3 b^{-1})^3} \\times (8a^{-1} b^2)^{-2} = ?\\)\n\n\n\n\n\n답= \\(\\frac{b^{11}}{a^{15}}\\)\n풀이: \\(\\frac{(2^3 a^{-2} b^3)^4}{(4a^3 b^{-1})^3} \\times (8a^{-1} b^2)^{-2} = \\frac{2^{12} a^{-8} b^{12}}{2^6 a^9 b^{-3}} \\times 2^{-6} a^2 b^{-4} = \\frac{b^{11}}{a^{15}}\\)\n\n\n\n문제8.\n\n\n\n\n\n\n\\(\\frac{(3x^{-1} y^2)^{-3}}{(9x^2 y^{-1})^2} \\div (\\frac{x^3 y}{3})^4 = ?\\)\n\n\n\n\n\n답= \\(\\frac{1}{3^{3} x^{13} y^8}\\)\n풀이: \\(\\frac{(3x^{-1} y^2)^{-3}}{(9x^2 y^{-1})^2} \\div \\left(\\frac{x^3 y}{3}\\right)^4 = \\frac{3^{-3} x^{3} y^{-6}}{3^4 x^4 y^{-2}} \\times \\frac{3^4}{x^{12} y^{4}} = \\frac{1}{3^{3} x^{13} y^8}\\)\n\n\n\n문제9.\n\n\n\n\n\n\n\\(\\frac{(2a^2 b^{-3})^3}{(4a^{-1} b)^2} \\div (8a^{-2} b^{-1})^{-2} = ?\\)\n\n\n\n\n\n답= \\(\\frac{2^5 a^4}{b^{13}}\\)\n풀이: \\(\\frac{(2a^2 b^{-3})^3}{(4a^{-1} b)^2} \\div (8a^{-2} b^{-1})^{-2} = \\frac{2^{3} a^{6} b^{-9}}{2^4 a^{-2} b^2} \\times (2^3 a^{-2} b^{-1})^2 = \\frac{2^{3} a^{6} b^{-9}}{2^4 a^{-2} b^2} \\times 2^6 a^{-4} b^{-2} = \\frac{2^5 a^4}{b^{13}}\\)\n\n\n\n문제10.\n\n\n\n\n\n\n\\(\\frac{(x^{-1} y^2 z^{-3})^2}{(z^2 x^3 y^{-1})^3} \\times \\frac{z^{-4} x^2}{y^3} = ?\\)\n\n\n\n\n\n답= \\(\\frac{y^4}{x^9 z^{16}}\\)\n풀이: \\(\\frac{(x^{-1} y^2 z^{-3})^2}{(z^2 x^3 y^{-1})^3} \\times \\frac{z^{-4} x^2}{y^3} = \\frac{x^{-2} y^4 z^{-6}}{z^6 x^9 y^{-3}} \\times \\frac{z^{-4} x^2}{y^3} = \\frac{y^4}{x^9 z^{16}}\\)",
     "crumbs": [
       "중2수학",
       "문자와식",
       "지수법칙",
-      "지수의법칙 연습6"
+      "지수의법칙 연습7"
     ]
   },
   {
-    "objectID": "posts/middle2/exponent/exercise4.html",
-    "href": "posts/middle2/exponent/exercise4.html",
-    "title": "지수의법칙 연습4",
+    "objectID": "posts/middle2/exponent/exercise5.html",
+    "href": "posts/middle2/exponent/exercise5.html",
+    "title": "지수의법칙 연습5",
     "section": "",
-    "text": "\\(\\frac{2^{-3} \\times 3^4}{6^{-2}} = ?\\)\n\n\n\n\n\n답= \\(\\frac{3^6}{2}\\)\n풀이: \\(\\frac{2^{-3} \\times 3^4}{6^{-2}} = \\frac{2^{-3} \\times 3^4}{2^{-2} \\times 3^{-2}} = 2^{-3 - (-2)} \\times 3^{4 - (-2)} = 2^{-1} \\times 3^6 = \\frac{3^6}{2}\\)",
+    "text": "문제1.\n\n\n\n\n\n\n\\(\\frac{2^4 \\times 3^{-2}}{6^3} = ?\\)\n\n\n\n\n\n답= \\(\\frac{2}{3^4}\\)\n풀이: \\(\\frac{2^4 \\times 3^{-2}}{6^3} = \\frac{2^4 \\times 3^{-2}}{2^3 \\times 3^3} = \\frac{2}{3^5}\\)\n\n\n\n문제2.\n\n\n\n\n\n\n\\(\\left(5^{-2} \\times 2^3\\right) \\div 10^1 = ?\\)\n\n\n\n\n\n답= \\(2^2 \\times 5^{-3}\\)\n풀이: \\(\\left(5^{-2} \\times 2^3\\right) \\div 10^1 = \\frac{5^{-2} \\times 2^3}{10^1} = \\frac{5^{-2} \\times 2^3}{5^1 \\times 2^1} = \\frac{2^2}{5^3}\\)\n\n\n\n문제3.\n\n\n\n\n\n\n\\(\\frac{x^{-1} \\times z^2}{y^{-3} \\times z^{-1}} = ?\\)\n\n\n\n\n\n답= \\(\\frac{y^3 \\times z^3}{x}\\)\n풀이: \\(\\frac{x^{-1} \\times z^2}{y^{-3} \\times z^{-1}} = \\frac{y^3 \\times z^3}{x}\\)\n\n\n\n문제4.\n\n\n\n\n\n\n\\(\\left(\\frac{3^2}{4^{-1}}\\right)^{-1} \\div 2^{-3} = ?\\)\n\n\n\n\n\n답= \\(\\frac{2^5}{3^2}\\)\n풀이: \\(\\left(\\frac{3^2}{4^{-1}}\\right)^{-1} \\div 2^{-3} = \\frac{4}{3^2} \\times 2^3 = \\frac{2^2}{3^2} \\times 2^3 =  \\frac{2^5}{3^2}\\)\n\n\n\n문제5.\n\n\n\n\n\n\n\\(\\frac{(2^{-3})^2 \\times 3^3}{6^{-1}} = ?\\)\n\n\n\n\n\n답= \\(\\frac{3^4}{2^5}\\)\n풀이: \\(\\frac{(2^{-3})^2 \\times 3^3}{6^{-1}} = \\frac{2^{-6} \\times 3^3}{2^{-1} \\times 3^{-1}} = \\frac{3^4}{2^5}\\)\n\n\n\n문제6.\n\n\n\n\n\n\n\\(\\frac{a^3 \\times b^{-2}}{a^{-1} \\times b^4} = ?\\)\n\n\n\n\n\n답= \\(\\frac{a^4}{b^6}\\)\n풀이: \\(\\frac{a^3 \\times b^{-2}}{a^{-1} \\times b^4} = \\frac{a^4}{b^6}\\)\n\n\n\n문제7.\n\n\n\n\n\n\n\\(\\left(\\frac{3^0 \\times 5^{-2}}{2^3}\\right)^2 = ?\\)\n\n\n\n\n\n답= \\(\\frac{1}{2^6 \\times 5^4}\\)\n풀이: \\(\\left(\\frac{3^0 \\times 5^{-2}}{2^3}\\right)^2 = \\frac{1 \\times 5^{-4}}{2^{6}} = \\frac{1}{2^6 \\times 5^4}\\)\n\n\n\n문제8.\n\n\n\n\n\n\n\\(\\frac{10^{-3} \\times 5^2}{2^{-1} \\times 25^{-1}} = ?\\)\n\n\n\n\n\n답= \\(\\frac{5}{2^2}\\)\n풀이: \\(\\frac{10^{-3} \\times 5^2}{2^{-1} \\times 25^{-1}} = \\frac{2^{-3} \\times 5^{-3} \\times 5^2}{2^{-1} \\times 5^{-2}} = \\frac{5}{2^2}\\)\n\n\n\n문제9.\n\n\n\n\n\n\n\\(\\left(\\frac{4^3}{3^2}\\right)^{-2} \\div 16^2 = ?\\)\n\n\n\n\n\n답= \\(\\frac{3^4}{2^{20}}\\)\n풀이: \\(\\left(\\frac{4^3}{3^2}\\right)^{-2} \\div 16^2 = \\frac{3^4}{4^6} \\times \\frac{1}{16^2} = \\frac{3^4}{4^{10}}=\\frac{3^4}{2^{20}}\\)\n\n\n\n문제10.\n\n\n\n\n\n\n\\(\\frac{3^3 \\times 2^{-3}}{6^2 \\times 9^{-1}} = ?\\)\n\n\n\n\n\n답= \\(\\frac{3^3}{2^5}\\)\n풀이: \\(\\frac{3^3 \\times 2^{-3}}{6^2 \\times 9^{-1}} = \\frac{3^3 \\times 2^{-3}}{2^2 \\times 3^2 \\times 3^{-2}} = \\frac{3^3}{2^5}\\)\n\n\n\n문제11.\n\n\n\n\n\n\n\\(\\frac{(2^2 \\times 3^{-1})^3}{4^3 \\times 3^{-2}} = ?\\)\n\n\n\n\n\n답= \\(\\frac{1}{3}\\)\n풀이: \\(\\frac{(2^2 \\times 3^{-1})^3}{4^3 \\times 3^{-2}} = \\frac{2^{6} \\times 3^{-3}}{2^6 \\times 3^{-2}} = \\frac{1}{3}\\)\n\n\n\n문제12.\n\n\n\n\n\n\n\\(\\frac{x^{-3} \\times y^2}{z^{-1}} \\times z^2 = ?\\)\n\n\n\n\n\n답= \\(\\frac{y^2 \\times z^3}{x^3}\\)\n풀이: \\(\\frac{x^{-3} \\times y^2}{z^{-1}} \\times z^2 = \\frac{y^2 \\times z^3}{x^3}\\)\n\n\n\n문제13.\n\n\n\n\n\n\n\\(\\frac{(5^0 \\times 2^{-2})}{10^{-1}} = ?\\)\n\n\n\n\n\n답= \\(\\frac{5}{2}\\)\n풀이: \\(\\frac{(5^0 \\times 2^{-2})}{10^{-1}} = \\frac{1 \\times 2^{-2}}{2^{-1} \\times 5^{-1}} = \\frac{5}{2}\\)\n\n\n\n문제14.\n\n\n\n\n\n\n\\(\\frac{(a^{-2} b^2)^3}{a^4 b^{-3}} = ?\\)\n\n\n\n\n\n답= \\(\\frac{b^9}{a^{10}}\\)\n풀이: \\(\\frac{(a^{-2} b^2)^3}{a^4 b^{-3}} = \\frac{a^{-6} b^6}{a^4 b^{-3}} = \\frac{b^9}{a^{10}}\\)\n\n\n\n문제15.\n\n\n\n\n\n\n\\(\\frac{(2^{-1})^3 \\times 4}{8^{-2}} = ?\\)\n\n\n\n\n\n답= \\(2^5\\)\n풀이: \\(\\frac{(2^{-1})^3 \\times 4}{8^{-2}} = \\frac{2^{-3} \\times 2^2}{2^{-6}} = 2^5\\)\n\n\n\n문제16.\n\n\n\n\n\n\n\\(\\frac{6^{-1} \\times 3^3}{2^3 \\times 9^{-2}} = ?\\)\n\n\n\n\n\n답= \\(\\frac{3^6}{2^4}\\)\n풀이: \\(\\frac{6^{-1} \\times 3^3}{2^3 \\times 9^{-2}} = \\frac{2^{-1} \\times 3^{-1} \\times 3^3}{2^3 \\times 3^{-4}} = \\frac{3^6}{2^4}\\)\n\n\n\n문제17.\n\n\n\n\n\n\n\\(\\frac{(2^{-2})^2 \\times 6^3}{3^4 \\times 4^{-1}} = ?\\)\n\n\n\n\n\n답= \\(\\frac{2}{3}\\)\n풀이: \\(\\frac{(2^{-2})^2 \\times 6^3}{3^4 \\times 4^{-1}} = \\frac{2^{-4} \\times 2^3 \\times 3^3}{3^4 \\times 2^{-2}} = \\frac{2}{3}\\)\n\n\n\n문제18.\n\n\n\n\n\n\n\\(\\frac{(a^{-1} b^2)^2 \\times b^{-4}}{a^2 b^{-3}} = ?\\)\n\n\n\n\n\n답= \\(\\frac{b^3}{a^4}\\)\n풀이: \\(\\frac{(a^{-1} b^2)^2 \\times b^{-4}}{a^2 b^{-3}} = \\frac{a^{-2} b^4 \\times b^{-4}}{a^2 b^{-3}} = \\frac{b^3}{a^4}\\)\n\n\n\n문제19.\n\n\n\n\n\n\n\\(\\frac{(3x^2 y^{-1})^3}{x^6 y^{-2} z^0} = ?\\)\n\n\n\n\n\n답= \\(\\frac{3^3}{y}\\)\n풀이: \\(\\frac{(3x^2 y^{-1})^3}{x^6 y^{-2} z^0} = \\frac{3^3 \\times x^6 \\times y^{-3}}{x^6 \\times y^{-2} \\times 1} = \\frac{3^3}{y}\\)\n\n\n\n문제20.\n\n\n\n\n\n\n\\(\\frac{a^{-2} \\times b^3}{a^2 \\times b^{-4}} = ?\\)\n\n\n\n\n\n답= \\(\\frac{b^7}{a^4}\\)\n풀이: \\(\\frac{a^{-2} \\times b^3}{a^2 \\times b^{-4}} = \\frac{b^7}{a^4}\\)",
     "crumbs": [
       "중2수학",
       "문자와식",
       "지수법칙",
-      "지수의법칙 연습4"
-    ]
-  },
-  {
-    "objectID": "posts/middle2/exponent/exercise4.html#문제1.",
-    "href": "posts/middle2/exponent/exercise4.html#문제1.",
-    "title": "지수의법칙 연습4",
-    "section": "",
-    "text": "\\(\\frac{2^{-3} \\times 3^4}{6^{-2}} = ?\\)\n\n\n\n\n\n답= \\(\\frac{3^6}{2}\\)\n풀이: \\(\\frac{2^{-3} \\times 3^4}{6^{-2}} = \\frac{2^{-3} \\times 3^4}{2^{-2} \\times 3^{-2}} = 2^{-3 - (-2)} \\times 3^{4 - (-2)} = 2^{-1} \\times 3^6 = \\frac{3^6}{2}\\)",
-    "crumbs": [
-      "중2수학",
-      "문자와식",
-      "지수법칙",
-      "지수의법칙 연습4"
-    ]
-  },
-  {
-    "objectID": "posts/middle2/exponent/exercise4.html#문제2.",
-    "href": "posts/middle2/exponent/exercise4.html#문제2.",
-    "title": "지수의법칙 연습4",
-    "section": "문제2.",
-    "text": "문제2.\n\n\n\n\n\n\n\\(\\left(5^{-1} \\times 2^3\\right) \\div 10^{-2} = ?\\)\n\n\n\n\n\n답= \\(5 \\times 2^5\\)\n풀이: \\(\\left(5^{-1} \\times 2^3\\right) \\div 10^{-2} = \\frac{5^{-1} \\times 2^3}{10^{-2}} = \\frac{5^{-1} \\times 2^3}{5^{-2} \\times 2^{-2}} = 5^{-1 - (-2)} \\times 2^{3 - (-2)} = 5^1 \\times 2^5 = 5 \\times 2^5\\)",
-    "crumbs": [
-      "중2수학",
-      "문자와식",
-      "지수법칙",
-      "지수의법칙 연습4"
-    ]
-  },
-  {
-    "objectID": "posts/middle2/exponent/exercise4.html#문제3.",
-    "href": "posts/middle2/exponent/exercise4.html#문제3.",
-    "title": "지수의법칙 연습4",
-    "section": "문제3.",
-    "text": "문제3.\n\n\n\n\n\n\n\\(\\frac{x^0}{y^{-3} \\times z^2} \\div z^{-1} = ?\\)\n\n\n\n\n\n답= \\(\\frac{y^3}{z}\\)\n풀이: \\(\\frac{x^0}{y^{-3} \\times z^2} \\div z^{-1} = \\frac{1}{y^{-3} \\times z^2} \\times z^1 = \\frac{y^3}{z}\\)",
-    "crumbs": [
-      "중2수학",
-      "문자와식",
-      "지수법칙",
-      "지수의법칙 연습4"
-    ]
-  },
-  {
-    "objectID": "posts/middle2/exponent/exercise4.html#문제4.",
-    "href": "posts/middle2/exponent/exercise4.html#문제4.",
-    "title": "지수의법칙 연습4",
-    "section": "문제4.",
-    "text": "문제4.\n\n\n\n\n\n\n\\(\\frac{4^{-1} \\times 3^2}{6^3} = ?\\)\n\n\n\n\n\n답= \\(2^{-5} \\times 3^{-1} = \\frac{1}{2^5 \\times 3}\\)\n풀이: \\(\\frac{4^{-1} \\times 3^2}{6^3} = \\frac{(2^2)^{-1} \\times 3^2}{(2 \\times 3)^3} = \\frac{2^{-2} \\times 3^2}{2^3 \\times 3^3} = 2^{-2 - 3} \\times 3^{2 - 3} = 2^{-5} \\times 3^{-1} = \\frac{1}{2^5 \\times 3}\\)",
-    "crumbs": [
-      "중2수학",
-      "문자와식",
-      "지수법칙",
-      "지수의법칙 연습4"
-    ]
-  },
-  {
-    "objectID": "posts/middle2/exponent/exercise4.html#문제5.",
-    "href": "posts/middle2/exponent/exercise4.html#문제5.",
-    "title": "지수의법칙 연습4",
-    "section": "문제5.",
-    "text": "문제5.\n\n\n\n\n\n\n\\(\\left(\\frac{2^3}{3^2}\\right)^{-2} = ?\\)\n\n\n\n\n\n답= \\(\\frac{3^4}{2^6}\\)\n풀이: \\(\\left(\\frac{2^3}{3^2}\\right)^{-2} = \\frac{3^{2 \\times 2}}{2^{3 \\times 2}} = \\frac{3^4}{2^6}\\)",
-    "crumbs": [
-      "중2수학",
-      "문자와식",
-      "지수법칙",
-      "지수의법칙 연습4"
-    ]
-  },
-  {
-    "objectID": "posts/middle2/exponent/exercise4.html#문제6.",
-    "href": "posts/middle2/exponent/exercise4.html#문제6.",
-    "title": "지수의법칙 연습4",
-    "section": "문제6.",
-    "text": "문제6.\n\n\n\n\n\n\n\\(\\frac{a^{-4} \\times b^3}{a^2 \\times b^{-5}} = ?\\)\n\n\n\n\n\n답= \\(a^{-6}b^8\\)\n풀이: \\(\\frac{a^{-4} \\times b^3}{a^2 \\times b^{-5}} = a^{-4 - 2} \\times b^{3 - (-5)} = a^{-6} \\times b^8\\)",
-    "crumbs": [
-      "중2수학",
-      "문자와식",
-      "지수법칙",
-      "지수의법칙 연습4"
-    ]
-  },
-  {
-    "objectID": "posts/middle2/exponent/exercise4.html#문제7.",
-    "href": "posts/middle2/exponent/exercise4.html#문제7.",
-    "title": "지수의법칙 연습4",
-    "section": "문제7.",
-    "text": "문제7.\n\n\n\n\n\n\n\\(\\left(3^0 \\times 4^{-2}\\right) \\div 2^3 = ?\\)\n\n\n\n\n\n답= \\(2^{-7}\\)\n풀이: \\(\\left(3^0 \\times 4^{-2}\\right) \\div 2^3 = \\frac{1 \\times (2^2)^{-2}}{2^3} = \\frac{1 \\times 2^{-4}}{2^3} = 2^{-4 - 3} = 2^{-7}\\)",
-    "crumbs": [
-      "중2수학",
-      "문자와식",
-      "지수법칙",
-      "지수의법칙 연습4"
-    ]
-  },
-  {
-    "objectID": "posts/middle2/exponent/exercise4.html#문제8.",
-    "href": "posts/middle2/exponent/exercise4.html#문제8.",
-    "title": "지수의법칙 연습4",
-    "section": "문제8.",
-    "text": "문제8.\n\n\n\n\n\n\n\\(\\frac{5^2 \\times 10^{-3}}{25^{-1}} = ?\\)\n\n\n\n\n\n답= \\(10^{-3}\\)\n풀이: \\(\\frac{5^2 \\times 10^{-3}}{25^{-1}} = \\frac{5^2 \\times (2 \\times 5)^{-3}}{5^{-2}} = 5^{2 - (-3) -(-2)} \\times 2^{-3} = 5^7 \\times 2^{-3}\\)",
-    "crumbs": [
-      "중2수학",
-      "문자와식",
-      "지수법칙",
-      "지수의법칙 연습4"
-    ]
-  },
-  {
-    "objectID": "posts/middle2/exponent/exercise4.html#문제9.",
-    "href": "posts/middle2/exponent/exercise4.html#문제9.",
-    "title": "지수의법칙 연습4",
-    "section": "문제9.",
-    "text": "문제9.\n\n\n\n\n\n\n\\(\\left(\\frac{1}{3^3}\\right) \\div 9^{-2} = ?\\)\n\n\n\n\n\n답= \\(3\\)\n풀이: \\(\\left(\\frac{1}{3^3}\\right) \\div 9^{-2} = 3^{-3} \\div (3^2)^{-2} = 3^{-3 - (-4)} = 3^1\\)",
-    "crumbs": [
-      "중2수학",
-      "문자와식",
-      "지수법칙",
-      "지수의법칙 연습4"
-    ]
-  },
-  {
-    "objectID": "posts/middle2/exponent/exercise4.html#문제10.",
-    "href": "posts/middle2/exponent/exercise4.html#문제10.",
-    "title": "지수의법칙 연습4",
-    "section": "문제10.",
-    "text": "문제10.\n\n\n\n\n\n\n\\(\\frac{4^2 \\times 2^{-3}}{8^2} = ?\\)\n\n\n\n\n\n답= \\(2^{-5}=\\frac{1}{2^5}\\)\n풀이: \\(\\frac{4^2 \\times 2^{-3}}{8^2} = \\frac{(2^2)^2 \\times 2^{-3}}{(2^3)^2} = \\frac{2^4 \\times 2^{-3}}{2^6} = 2^{4 - 3 - 6} = 2^{-5}\\)",
-    "crumbs": [
-      "중2수학",
-      "문자와식",
-      "지수법칙",
-      "지수의법칙 연습4"
-    ]
-  },
-  {
-    "objectID": "posts/middle2/exponent/exercise4.html#문제11.",
-    "href": "posts/middle2/exponent/exercise4.html#문제11.",
-    "title": "지수의법칙 연습4",
-    "section": "문제11.",
-    "text": "문제11.\n\n\n\n\n\n\n\\(\\frac{(2^{-1} \\times 3^2)^3}{6^3 \\times (4^{-1})^2} = ?\\)\n\n\n\n\n\n답= \\(2^{-5} \\times 3^3 = \\frac{3^3}{2^5}\\)\n풀이: \\(\\frac{(2^{-1} \\times 3^2)^3}{6^3 \\times (4^{-1})^2} = \\frac{2^{-3} \\times 3^6}{(2^2 \\times 3)^3 \\times 2^{-4}} = \\frac{2^{-3} \\times 3^6}{2^2 \\times 3^3} = 2^{-3 - 2} \\times 3^{6 - 3} = 2^{-5} \\times 3^3 = \\frac{3^3}{2^5}\\)",
-    "crumbs": [
-      "중2수학",
-      "문자와식",
-      "지수법칙",
-      "지수의법칙 연습4"
-    ]
-  },
-  {
-    "objectID": "posts/middle2/exponent/exercise4.html#문제12.",
-    "href": "posts/middle2/exponent/exercise4.html#문제12.",
-    "title": "지수의법칙 연습4",
-    "section": "문제12.",
-    "text": "문제12.\n\n\n\n\n\n\n\\(\\frac{x^{-2} \\times y^0}{\\left(z^{-1}\\right)^{-3}} \\times z^{-2} = ?\\)\n\n\n\n\n\n답= \\(x^{-2}z^{-5}\\)\n풀이: \\(\\frac{x^{-2} \\times y^0}{\\left(z^{-1}\\right)^{-3}} \\times z^{-2} = \\frac{x^{-2} \\times 1}{z^3} \\times z^{-2} = x^{-2} \\times z^{-3 - 2} = x^{-2}z^{-5}\\)",
-    "crumbs": [
-      "중2수학",
-      "문자와식",
-      "지수법칙",
-      "지수의법칙 연습4"
-    ]
-  },
-  {
-    "objectID": "posts/middle2/exponent/exercise4.html#문제13.",
-    "href": "posts/middle2/exponent/exercise4.html#문제13.",
-    "title": "지수의법칙 연습4",
-    "section": "문제13.",
-    "text": "문제13.\n\n\n\n\n\n\n\\(\\left(\\frac{5^{-1} \\times 2^{-3}}{10^{-2}}\\right)^2 = ?\\)\n\n\n\n\n\n답= \\(\\frac{5^2}{2^2}\\)\n풀이: \\(\\left(\\frac{5^{-1} \\times 2^{-3}}{10^{-2}}\\right)^2 = \\left(\\frac{5^{-1} \\times 2^{-3}}{5^{-2} \\times 2^{-2}}\\right)^2 = \\left(5^{-1 - (-2)} \\times 2^{-3 - (-2)}\\right)^2 = \\left(5^1 \\times 2^{-1}\\right)^2 = 5^2 \\times 2^{-2} = \\frac{5^2}{2^2}\\)",
-    "crumbs": [
-      "중2수학",
-      "문자와식",
-      "지수법칙",
-      "지수의법칙 연습4"
-    ]
-  },
-  {
-    "objectID": "posts/middle2/exponent/exercise4.html#문제14.",
-    "href": "posts/middle2/exponent/exercise4.html#문제14.",
-    "title": "지수의법칙 연습4",
-    "section": "문제14.",
-    "text": "문제14.\n\n\n\n\n\n\n\\(\\frac{(a^{-1} b^2)^3}{a^3 b^{-4}} = ?\\)\n\n\n\n\n\n답= \\(a^{-6}b^{10}\\)\n풀이: \\(\\frac{(a^{-1} b^2)^3}{a^3 b^{-4}} = \\frac{a^{-3} \\times b^6}{a^3 \\times b^{-4}} = a^{-3 - 3} \\times b^{6 - (-4)} = a^{-6} \\times b^{10}\\)",
-    "crumbs": [
-      "중2수학",
-      "문자와식",
-      "지수법칙",
-      "지수의법칙 연습4"
-    ]
-  },
-  {
-    "objectID": "posts/middle2/exponent/exercise4.html#문제15.",
-    "href": "posts/middle2/exponent/exercise4.html#문제15.",
-    "title": "지수의법칙 연습4",
-    "section": "문제15.",
-    "text": "문제15.\n\n\n\n\n\n\n\\(\\frac{\\left(\\frac{1}{2}\\right)^{-3} \\times 4^{-2}}{8^{-1}} = ?\\)\n\n\n\n\n\n답= \\(2^2=4\\)\n풀이: \\(\\frac{\\left(\\frac{1}{2}\\right)^{-3} \\times 4^{-2}}{8^{-1}} = \\frac{2^3 \\times (2^2)^{-2}}{2^{-3}} = \\frac{2^3 \\times 2^{-4}}{2^{-3}} = 2^{3 - 4 + 3} = 2^{2}\\)",
-    "crumbs": [
-      "중2수학",
-      "문자와식",
-      "지수법칙",
-      "지수의법칙 연습4"
-    ]
-  },
-  {
-    "objectID": "posts/middle2/exponent/exercise4.html#문제16.",
-    "href": "posts/middle2/exponent/exercise4.html#문제16.",
-    "title": "지수의법칙 연습4",
-    "section": "문제16.",
-    "text": "문제16.\n\n\n\n\n\n\n\\(\\frac{(3x^2 y^{-1})^3}{x^6 y^{-2} z^0} = ?\\)\n\n\n\n\n\n답= \\(3^3y^{-1}=\\frac{27}{y}\\)\n풀이: \\(\\frac{(3x^2 y^{-1})^3}{x^6 y^{-2} z^0} = \\frac{3^3 \\times x^6 \\times y^{-3}}{x^6 \\times y^{-2} \\times 1} = 3^3 \\times x^{6 - 6} \\times y^{-3 - (-2)} = 3^3 \\times y^{-1}\\)",
-    "crumbs": [
-      "중2수학",
-      "문자와식",
-      "지수법칙",
-      "지수의법칙 연습4"
-    ]
-  },
-  {
-    "objectID": "posts/middle2/exponent/exercise4.html#문제17.",
-    "href": "posts/middle2/exponent/exercise4.html#문제17.",
-    "title": "지수의법칙 연습4",
-    "section": "문제17.",
-    "text": "문제17.\n\n\n\n\n\n\n\\(\\frac{2^{-3} \\times 3^3}{6^{-2} \\times (4^{-1})^2} = ?\\)\n\n\n\n\n\n답= \\(2^3 \\times 3^5\\)\n풀이: \\(\\frac{2^{-3} \\times 3^3}{6^{-2} \\times (4^{-1})^2} = \\frac{2^{-3} \\times 3^3}{2^{-2} \\times 3^{-2} \\times 2^{-4}} = 2^{-3 - (-2) - (-4)} \\times 3^{3 - (-2)} = 2^3 \\times 3^5\\)",
-    "crumbs": [
-      "중2수학",
-      "문자와식",
-      "지수법칙",
-      "지수의법칙 연습4"
-    ]
-  },
-  {
-    "objectID": "posts/middle2/exponent/exercise4.html#문제18.",
-    "href": "posts/middle2/exponent/exercise4.html#문제18.",
-    "title": "지수의법칙 연습4",
-    "section": "문제18.",
-    "text": "문제18.\n\n\n\n\n\n\n\\(\\left(\\frac{1}{x^{-3} y^2}\\right) \\div x^4 y^{-5} = ?\\)\n\n\n\n\n\n답= \\(x^{-1} \\times y^{3}=\\frac{y^3}{x}\\)\n풀이: \\(\\left(\\frac{1}{x^{-3} y^2}\\right) \\div x^4 y^{-5} = x^3 y^{-2} \\div x^4 y^{-5} = x^{3 - 4} \\times y^{-2 - (-5)} = x^{-1} \\times y^{3}=\\frac{y^3}{x}\\)",
-    "crumbs": [
-      "중2수학",
-      "문자와식",
-      "지수법칙",
-      "지수의법칙 연습4"
-    ]
-  },
-  {
-    "objectID": "posts/middle2/exponent/exercise4.html#문제19.",
-    "href": "posts/middle2/exponent/exercise4.html#문제19.",
-    "title": "지수의법칙 연습4",
-    "section": "문제19.",
-    "text": "문제19.\n\n\n\n\n\n\n\\(\\frac{(a^{-2} b^3)^2}{(a b^{-1})^4} = ?\\)\n\n\n\n\n\n답= \\(a^{-8}b^{10}\\)\n풀이: \\(\\frac{(a^{-2} b^3)^2}{(a b^{-1})^4} = \\frac{a^{-4} b^6}{a^4 b^{-4}} = a^{-4 - 4} \\times b^{6 - (-4)} = a^{-8} \\times b^{10}\\)",
-    "crumbs": [
-      "중2수학",
-      "문자와식",
-      "지수법칙",
-      "지수의법칙 연습4"
-    ]
-  },
-  {
-    "objectID": "posts/middle2/exponent/exercise4.html#문제20.",
-    "href": "posts/middle2/exponent/exercise4.html#문제20.",
-    "title": "지수의법칙 연습4",
-    "section": "문제20.",
-    "text": "문제20.\n\n\n\n\n\n\n\\(\\frac{5^{-3} \\times 2^{-2}}{\\left(10^{-1}\\right)^3 \\div 2^{-1}} = ?\\)\n\n\n\n\n\n답= \\(1\\)\n풀이: \\(\\frac{5^{-3} \\times 2^{-2}}{\\left(10^{-1}\\right)^3 \\div 2^{-1}} = \\frac{5^{-3} \\times 2^{-2}}{10^{-3} \\times 2^1} = \\frac{5^{-3} \\times 2^{-2}}{(2 \\times 5)^{-3} \\times 2^1} = 5^{-3 - (-3)} \\times 2^{-2 - (-3) - 1} = 5^0 \\times 2^0 = 1\\)",
-    "crumbs": [
-      "중2수학",
-      "문자와식",
-      "지수법칙",
-      "지수의법칙 연습4"
-    ]
-  },
-  {
-    "objectID": "posts/middle2/exponent/exercise1.html",
-    "href": "posts/middle2/exponent/exercise1.html",
-    "title": "지수의 법칙 연습1",
-    "section": "",
-    "text": "\\(2^3 \\times 2^4 = ?\\)\n\n\n\n\n\n답= \\(2^7\\)",
-    "crumbs": [
-      "중2수학",
-      "문자와식",
-      "지수법칙",
-      "지수의 법칙 연습1"
-    ]
-  },
-  {
-    "objectID": "posts/middle2/exponent/exercise1.html#문제1.",
-    "href": "posts/middle2/exponent/exercise1.html#문제1.",
-    "title": "지수의 법칙 연습1",
-    "section": "",
-    "text": "\\(2^3 \\times 2^4 = ?\\)\n\n\n\n\n\n답= \\(2^7\\)",
-    "crumbs": [
-      "중2수학",
-      "문자와식",
-      "지수법칙",
-      "지수의 법칙 연습1"
-    ]
-  },
-  {
-    "objectID": "posts/middle2/exponent/exercise1.html#문제2.",
-    "href": "posts/middle2/exponent/exercise1.html#문제2.",
-    "title": "지수의 법칙 연습1",
-    "section": "문제2.",
-    "text": "문제2.\n\n\n\n\n\n\n\\(5^6 \\div 5^2 = ?\\)\n\n\n\n\n\n답= \\(5^4\\)",
-    "crumbs": [
-      "중2수학",
-      "문자와식",
-      "지수법칙",
-      "지수의 법칙 연습1"
-    ]
-  },
-  {
-    "objectID": "posts/middle2/exponent/exercise1.html#문제3.",
-    "href": "posts/middle2/exponent/exercise1.html#문제3.",
-    "title": "지수의 법칙 연습1",
-    "section": "문제3.",
-    "text": "문제3.\n\n\n\n\n\n\n\\((3^2)^3 = ?\\)\n\n\n\n\n\n답= \\(3^6\\)",
-    "crumbs": [
-      "중2수학",
-      "문자와식",
-      "지수법칙",
-      "지수의 법칙 연습1"
-    ]
-  },
-  {
-    "objectID": "posts/middle2/exponent/exercise1.html#문제4.",
-    "href": "posts/middle2/exponent/exercise1.html#문제4.",
-    "title": "지수의 법칙 연습1",
-    "section": "문제4.",
-    "text": "문제4.\n\n\n\n\n\n\n\\(2^4 \\times 2^3 \\div 2^2 = ?\\)\n\n\n\n\n\n답= \\(2^5\\)",
-    "crumbs": [
-      "중2수학",
-      "문자와식",
-      "지수법칙",
-      "지수의 법칙 연습1"
-    ]
-  },
-  {
-    "objectID": "posts/middle2/exponent/exercise1.html#문제5.",
-    "href": "posts/middle2/exponent/exercise1.html#문제5.",
-    "title": "지수의 법칙 연습1",
-    "section": "문제5.",
-    "text": "문제5.\n\n\n\n\n\n\n\\(7^0 = ?\\)\n\n\n\n\n\n답= \\(1\\)",
-    "crumbs": [
-      "중2수학",
-      "문자와식",
-      "지수법칙",
-      "지수의 법칙 연습1"
-    ]
-  },
-  {
-    "objectID": "posts/middle2/exponent/exercise1.html#문제6.",
-    "href": "posts/middle2/exponent/exercise1.html#문제6.",
-    "title": "지수의 법칙 연습1",
-    "section": "문제6.",
-    "text": "문제6.\n\n\n\n\n\n\n\\(10^{-3} = ?\\)\n\n\n\n\n\n답= \\(\\frac{1}{10^3}\\)",
-    "crumbs": [
-      "중2수학",
-      "문자와식",
-      "지수법칙",
-      "지수의 법칙 연습1"
-    ]
-  },
-  {
-    "objectID": "posts/middle2/exponent/exercise1.html#문제7.",
-    "href": "posts/middle2/exponent/exercise1.html#문제7.",
-    "title": "지수의 법칙 연습1",
-    "section": "문제7.",
-    "text": "문제7.\n\n\n\n\n\n\n\\(2 \\times 3^2 \\times 2^3 = ?\\)\n\n\n\n\n\n답= \\(2^4 \\times 3^2 = 16 \\times 9 = 144\\)",
-    "crumbs": [
-      "중2수학",
-      "문자와식",
-      "지수법칙",
-      "지수의 법칙 연습1"
-    ]
-  },
-  {
-    "objectID": "posts/middle2/exponent/exercise1.html#문제8.",
-    "href": "posts/middle2/exponent/exercise1.html#문제8.",
-    "title": "지수의 법칙 연습1",
-    "section": "문제8.",
-    "text": "문제8.\n\n\n\n\n\n\n\\((4^2 \\div 4)^3 = ?\\)\n\n\n\n\n\n답= \\(4^3 = 64\\)",
-    "crumbs": [
-      "중2수학",
-      "문자와식",
-      "지수법칙",
-      "지수의 법칙 연습1"
-    ]
-  },
-  {
-    "objectID": "posts/middle2/exponent/exercise1.html#문제9.",
-    "href": "posts/middle2/exponent/exercise1.html#문제9.",
-    "title": "지수의 법칙 연습1",
-    "section": "문제9.",
-    "text": "문제9.\n\n\n\n\n\n\n\\((2^3)^2 \\times 2^{-4} = ?\\)\n\n\n\n\n\n답= \\(2^{6 - 4} = 2^2 = 4\\)",
-    "crumbs": [
-      "중2수학",
-      "문자와식",
-      "지수법칙",
-      "지수의 법칙 연습1"
-    ]
-  },
-  {
-    "objectID": "posts/middle2/exponent/exercise1.html#문제10.",
-    "href": "posts/middle2/exponent/exercise1.html#문제10.",
-    "title": "지수의 법칙 연습1",
-    "section": "문제10.",
-    "text": "문제10.\n\n\n\n\n\n\n\\(6^2 \\div 6^{-3} = ?\\)\n\n\n\n\n\n답= \\(6^{2 + 3} = 6^5\\)",
-    "crumbs": [
-      "중2수학",
-      "문자와식",
-      "지수법칙",
-      "지수의 법칙 연습1"
-    ]
-  },
-  {
-    "objectID": "posts/middle2/exponent/exercise1.html#문제11.",
-    "href": "posts/middle2/exponent/exercise1.html#문제11.",
-    "title": "지수의 법칙 연습1",
-    "section": "문제11.",
-    "text": "문제11.\n\n\n\n\n\n\n\\((2^3 \\times 3^2)^2 \\div 2^4 = ?\\)\n\n\n\n\n\n답= \\(2^{6 - 4} \\times 3^4 = 2^2 \\times 81 = 4 \\times 81 = 324\\)",
-    "crumbs": [
-      "중2수학",
-      "문자와식",
-      "지수법칙",
-      "지수의 법칙 연습1"
-    ]
-  },
-  {
-    "objectID": "posts/middle2/exponent/exercise1.html#문제12.",
-    "href": "posts/middle2/exponent/exercise1.html#문제12.",
-    "title": "지수의 법칙 연습1",
-    "section": "문제12.",
-    "text": "문제12.\n\n\n\n\n\n\n\\((5^2)^3 \\div 5^4 \\cdot 5^{-1} = ?\\)\n\n\n\n\n\n답= \\(5^{6 - 4 - 1} = 5^1 = 5\\)",
-    "crumbs": [
-      "중2수학",
-      "문자와식",
-      "지수법칙",
-      "지수의 법칙 연습1"
-    ]
-  },
-  {
-    "objectID": "posts/middle2/exponent/exercise1.html#문제13.",
-    "href": "posts/middle2/exponent/exercise1.html#문제13.",
-    "title": "지수의 법칙 연습1",
-    "section": "문제13.",
-    "text": "문제13.\n\n\n\n\n\n\n\\(\\frac{3^{-2}}{3^3 \\times 3^{-1}} = ?\\)\n\n\n\n\n\n답= \\(3^{-2 - 3 + 1} = 3^{-4} = \\frac{1}{81}\\)",
-    "crumbs": [
-      "중2수학",
-      "문자와식",
-      "지수법칙",
-      "지수의 법칙 연습1"
-    ]
-  },
-  {
-    "objectID": "posts/middle2/exponent/exercise1.html#문제14.",
-    "href": "posts/middle2/exponent/exercise1.html#문제14.",
-    "title": "지수의 법칙 연습1",
-    "section": "문제14.",
-    "text": "문제14.\n\n\n\n\n\n\n\\((4^3 \\times 2^2)^2 \\div (2^3 \\times 4)^3 = ?\\)\n\n\n\n\n\n답= \\(2^{12 + 4 - 9 - 6} = 2^1 = 2\\)",
-    "crumbs": [
-      "중2수학",
-      "문자와식",
-      "지수법칙",
-      "지수의 법칙 연습1"
-    ]
-  },
-  {
-    "objectID": "posts/middle2/exponent/exercise1.html#문제15.",
-    "href": "posts/middle2/exponent/exercise1.html#문제15.",
-    "title": "지수의 법칙 연습1",
-    "section": "문제15.",
-    "text": "문제15.\n\n\n\n\n\n\n\\((10^{-2} \\cdot 5^3)^2 \\div (2 \\cdot 5)^3 = ?\\)\n\n\n\n\n\n답= \\(10^{-4} \\times 5^6 \\div 2^3 \\times 5^3 = \\frac{5^9}{2^3 \\times 10^4} = \\frac{5^9}{2^3 \\times 2^4 \\times 5^4} = \\frac{5^5}{2^7}\\)",
-    "crumbs": [
-      "중2수학",
-      "문자와식",
-      "지수법칙",
-      "지수의 법칙 연습1"
-    ]
-  },
-  {
-    "objectID": "posts/middle2/exponent/concept_exponent.html",
-    "href": "posts/middle2/exponent/concept_exponent.html",
-    "title": "지수의 개념",
-    "section": "",
-    "text": "문제1.\n\n\n\n\n\n\n처음 세균의 개수는 10개이며, 매 1시간마다 2배로 증가합니다. 6시간 후의 세균 수를 구하세요.\n\n\n\n\n\n답= \\(640\\)\n풀이: 처음 세균의 개수는 10개이며, 매 1시간마다 2배로 증가하므로 6시간 후의 세균 수는 \\(10 \\times 2^6 = 10 \\times 64 = 640\\)\n\n\n\n문제2.\n\n\n\n\n\n\n연 이자율 10%의 복리로 3년 후 금액을 계산하세요. 원금은 1000원입니다.\n\n\n\n\n\n답= \\(1331\\)\n풀이: 연 이자율 10%의 복리로 3년 후 금액은 \\(1000 \\times (1.1)^3 = 1000 \\times 1.331 = 1331\\)\n\n\n\n문제3.\n\n\n\n\n\n\n두 물체 사이의 거리가 3배 증가하면 중력은 몇 배로 변합니까? 거리의 제곱에 반비례한다고 가정합니다.\n\n\n\n\n\n답= \\(\\frac{1}{9}\\)\n풀이: 두 물체 사이의 거리가 3배 증가하면 중력은 거리의 제곱에 반비례하므로, \\(\\frac{1}{3^2} = \\frac{1}{9}\\)배로 감소합니다.",
-    "crumbs": [
-      "중2수학",
-      "문자와식",
-      "지수법칙",
-      "지수의 개념"
-    ]
-  },
-  {
-    "objectID": "posts/middle2/algebric_expression/index.html",
-    "href": "posts/middle2/algebric_expression/index.html",
-    "title": "학습목표",
-    "section": "",
-    "text": "[9수02-06]지수법칙을 이해한다. [9수02-07]다항식의 덧셈과 뺄셈의 원리를 이해하고, 그 계산을 할 수 있다. [9수02-08]‘(단항식)×(다항식)’, ’(다항식)÷(단항식)’과 같은 곱셈과 나눗셈의 원리를 이해하고, 그 계산을 할 수 있다.\n\n\n\n[9수02-09]부등식과 그 해의 의미를 알고, 부등식의 성질을 이해한다. [9수02-10]일차부등식을 풀 수 있고, 이를 활용하여 문제를 해결할 수 있다. [9수02-11]미지수가 2개인 연립일차방정식을 풀 수 있고, 이를 활용하여 문제를 해결할 수 있다.\n\n\n\n\n단항식의 곱셈과 나눗셈의 원리를 이해하고, 그 계산을 할 수 있다.\n\n\n\n\n\n다항식의 덧셈과 뺄셈의 원리를 이해하고, 그 계산을 할 수 있다.\n’(단항식)_(다항식)’, ’(다항식)/(단항식)’과 같은 곱셈과 나눗셈의 원리를 이해하고, 그 계산을 할 수 있다."
-  },
-  {
-    "objectID": "posts/middle2/algebric_expression/index.html#문자와-식",
-    "href": "posts/middle2/algebric_expression/index.html#문자와-식",
-    "title": "학습목표",
-    "section": "",
-    "text": "[9수02-06]지수법칙을 이해한다. [9수02-07]다항식의 덧셈과 뺄셈의 원리를 이해하고, 그 계산을 할 수 있다. [9수02-08]‘(단항식)×(다항식)’, ’(다항식)÷(단항식)’과 같은 곱셈과 나눗셈의 원리를 이해하고, 그 계산을 할 수 있다.\n\n\n\n[9수02-09]부등식과 그 해의 의미를 알고, 부등식의 성질을 이해한다. [9수02-10]일차부등식을 풀 수 있고, 이를 활용하여 문제를 해결할 수 있다. [9수02-11]미지수가 2개인 연립일차방정식을 풀 수 있고, 이를 활용하여 문제를 해결할 수 있다.\n\n\n\n\n단항식의 곱셈과 나눗셈의 원리를 이해하고, 그 계산을 할 수 있다.\n\n\n\n\n\n다항식의 덧셈과 뺄셈의 원리를 이해하고, 그 계산을 할 수 있다.\n’(단항식)_(다항식)’, ’(다항식)/(단항식)’과 같은 곱셈과 나눗셈의 원리를 이해하고, 그 계산을 할 수 있다."
-  },
-  {
-    "objectID": "posts/middle1/number_operation/prime_factorization.html",
-    "href": "posts/middle1/number_operation/prime_factorization.html",
-    "title": "소인수분해 연습문제",
-    "section": "",
-    "text": "문제1.\n문제2.",
-    "crumbs": [
-      "중1수학",
-      "수와 연산",
-      "소인수분해 연습문제"
-    ]
-  },
-  {
-    "objectID": "posts/middle1/number_operation/prime_factorization.html#문제3.",
-    "href": "posts/middle1/number_operation/prime_factorization.html#문제3.",
-    "title": "소인수분해 연습문제",
-    "section": "문제3.",
-    "text": "문제3.\n\n\n\n\n\n\n소인수분해: 60을 소인수분해 하시오.\n\n\n\n\n\n답= \\(2^2 \\times 3 \\times 5\\)\n풀이:\n\\[\n\\begin{array}{l}\n2 \\underline{) \\, 60} \\\\\n2 \\underline{) \\, 30} \\\\\n3 \\underline{) \\, 15} \\\\\n\\phantom{3)} \\, \\hspace{0.2cm} 5\n\\end{array}\n\\]\n따라서 \\(60 = 2^2 \\times 3 \\times 5\\)",
-    "crumbs": [
-      "중1수학",
-      "수와 연산",
-      "소인수분해 연습문제"
-    ]
-  },
-  {
-    "objectID": "posts/middle1/number_operation/learning_objective.html",
-    "href": "posts/middle1/number_operation/learning_objective.html",
-    "title": "학습목표",
-    "section": "",
-    "text": "수와 연산\n수는 방정식의 해의 존재를 보장하기 위해 정수, 유리수, 실수 등으로 확장되고, 각각의 수체계에서 사칙계산이 정의되고 연산의 성질이 일관되게 성립한다. 수는 수학에서 다루는 가장 기본적인 개념으로, 실생활뿐 아니라 타 교과나 수학의 다른 영역을 학습하는 데 필수적이다. 또한 수의 연산은 수학 학습에서 습득해야 할 가장 기본적인 기능 중 하나로, 이후 학습을 위한 기초가 된다.\n\n1. 소인수분해\n\n소인수분해의 뜻을 알고, 자연수를 소인수분해할 수 있다.\n최대공약수와 최소공배수의 성질을 이해하고, 이를 구할 수 있다.\n\n\n\n2. 정수와 유리수\n\n양수와 음수, 정수와 유리수의 개념을 이해한다.\n정수와 유리수의 대소 관계를 판단할 수 있다.\n정수와 유리수의 사칙계산의 원리를 이해하고, 그 계산을 할 수 있다.\n\n\n\n3. 유리수와 순환소수\n\n순환소수의 뜻을 알고, 유리수와 순환소수의 관계를 이해한다.\n\n\n\n4. 제곱근과 실수\n\n제곱근의 뜻을 알고, 그 성질을 이해한다.\n무리수의 개념을 이해한다.\n실수의 대소 관계를 판단할 수 있다.\n근호를 포함한 식의 사칙계산을 할 수 있다.",
-    "crumbs": [
-      "중1수학",
-      "수와 연산",
-      "학습목표"
-    ]
-  },
-  {
-    "objectID": "posts/middle1/curriculum.html",
-    "href": "posts/middle1/curriculum.html",
-    "title": "교육과정",
-    "section": "",
-    "text": "[9수01-01]소인수분해의 뜻을 알고, 자연수를 소인수분해할 수 있다.\n[9수01-02]최대공약수와 최소공배수의 성질을 이해하고, 이를 구할 수 있다.\n\n\n\n\n\n[9수01-03]양수와 음수, 정수와 유리수의 개념을 이해한다.\n[9수01-04]정수와 유리수의 대소 관계를 판단할 수 있다.\n[9수01-05]정수와 유리수의 사칙계산의 원리를 이해하고, 그 계산을 할 수 있다.\n\n\n\n\n\n\n\n\n[9수02-01]다양한 상황을 문자를 사용한 식으로 나타낼 수 있다.\n[9수02-02]식의 값을 구할 수 있다.\n[9수02-03]일차식의 덧셈과 뺄셈의 원리를 이해하고, 그 계산을 할 수 있다.\n\n\n\n\n[9수02-04]방정식과 그 해의 의미를 알고, 등식의 성질을 이해한다. [9수02-05]일차방정식을 풀 수 있고, 이를 활용하여 문제를 해결할 수 있다.\n\n\n\n\n\n\n\n[9수03-01]순서쌍과 좌표를 이해한다.\n[9수03-02]다양한 상황을 그래프로 나타내고, 주어진 그래프를 해석할 수 있다.\n[9수03-03]정비례, 반비례 관계를 이해하고, 그 관계를 표, 식, 그래프로 나타낼 수 있다.\n\n\n\n\n\n\n\n\n[9수04-01]점, 선, 면, 각을 이해하고, 점, 직선, 평면의 위치 관계를 설명할 수 있다.\n[9수04-02]평행선에서 동위각과 엇각의 성질을 이해한다.\n\n\n\n\n\n[9수04-03]삼각형을 작도할 수 있다.\n[9수04-04]삼각형의 합동 조건을 이해하고, 이를 이용하여 두 삼각형이 합동인지 판별할 수 있다.\n\n\n\n\n\n\n\n\n[9수05-01]자료를 줄기와 잎 그림, 도수분포표, 히스토그램, 도수분포다각형으로 나타내고 해석할 수 있다.\n[9수05-02]상대도수를 구하며, 이를 그래프로 나타내고, 상대도수의 분포를 이해한다.\n[9수05-03]공학적 도구를 이용하여 실생활과 관련된 자료를 수집하고 표나 그래프로 정리하고 해석할 수 있다.",
-    "crumbs": [
-      "중1수학",
-      "교육과정"
-    ]
-  },
-  {
-    "objectID": "posts/middle1/curriculum.html#중1과정",
-    "href": "posts/middle1/curriculum.html#중1과정",
-    "title": "교육과정",
-    "section": "",
-    "text": "[9수01-01]소인수분해의 뜻을 알고, 자연수를 소인수분해할 수 있다.\n[9수01-02]최대공약수와 최소공배수의 성질을 이해하고, 이를 구할 수 있다.\n\n\n\n\n\n[9수01-03]양수와 음수, 정수와 유리수의 개념을 이해한다.\n[9수01-04]정수와 유리수의 대소 관계를 판단할 수 있다.\n[9수01-05]정수와 유리수의 사칙계산의 원리를 이해하고, 그 계산을 할 수 있다.\n\n\n\n\n\n\n\n\n[9수02-01]다양한 상황을 문자를 사용한 식으로 나타낼 수 있다.\n[9수02-02]식의 값을 구할 수 있다.\n[9수02-03]일차식의 덧셈과 뺄셈의 원리를 이해하고, 그 계산을 할 수 있다.\n\n\n\n\n[9수02-04]방정식과 그 해의 의미를 알고, 등식의 성질을 이해한다. [9수02-05]일차방정식을 풀 수 있고, 이를 활용하여 문제를 해결할 수 있다.\n\n\n\n\n\n\n\n[9수03-01]순서쌍과 좌표를 이해한다.\n[9수03-02]다양한 상황을 그래프로 나타내고, 주어진 그래프를 해석할 수 있다.\n[9수03-03]정비례, 반비례 관계를 이해하고, 그 관계를 표, 식, 그래프로 나타낼 수 있다.\n\n\n\n\n\n\n\n\n[9수04-01]점, 선, 면, 각을 이해하고, 점, 직선, 평면의 위치 관계를 설명할 수 있다.\n[9수04-02]평행선에서 동위각과 엇각의 성질을 이해한다.\n\n\n\n\n\n[9수04-03]삼각형을 작도할 수 있다.\n[9수04-04]삼각형의 합동 조건을 이해하고, 이를 이용하여 두 삼각형이 합동인지 판별할 수 있다.\n\n\n\n\n\n\n\n\n[9수05-01]자료를 줄기와 잎 그림, 도수분포표, 히스토그램, 도수분포다각형으로 나타내고 해석할 수 있다.\n[9수05-02]상대도수를 구하며, 이를 그래프로 나타내고, 상대도수의 분포를 이해한다.\n[9수05-03]공학적 도구를 이용하여 실생활과 관련된 자료를 수집하고 표나 그래프로 정리하고 해석할 수 있다.",
-    "crumbs": [
-      "중1수학",
-      "교육과정"
-    ]
-  },
-  {
-    "objectID": "posts/middle1/curriculum.html#중학교-전체과정",
-    "href": "posts/middle1/curriculum.html#중학교-전체과정",
-    "title": "교육과정",
-    "section": "중학교 전체과정",
-    "text": "중학교 전체과정\n\n1. 수와 연산\n수는 방정식의 해의 존재를 보장하기 위해 정수, 유리수, 실수 등으로 확장되고, 각각의 수체계에서 사칙계산이 정의되고 연산의 성질이 일관되게 성립한다. 수는 수학에서 다루는 가장 기본적인 개념으로, 실생활뿐 아니라 타 교과나 수학의 다른 영역을 학습하는 데 필수적이다. 또한 수의 연산은 수학 학습에서 습득해야 할 가장 기본적인 기능 중 하나로, 이후 학습을 위한 기초가 된다.\n\n소인수분해\n\n[9수01-01]소인수분해의 뜻을 알고, 자연수를 소인수분해할 수 있다.\n[9수01-02]최대공약수와 최소공배수의 성질을 이해하고, 이를 구할 수 있다.\n\n\n\n정수와 유리수\n\n[9수01-03]양수와 음수, 정수와 유리수의 개념을 이해한다.\n[9수01-04]정수와 유리수의 대소 관계를 판단할 수 있다.\n[9수01-05]정수와 유리수의 사칙계산의 원리를 이해하고, 그 계산을 할 수 있다.\n\n\n\n유리수와 순환소수\n\n[9수01-06]순환소수의 뜻을 알고, 유리수와 순환소수의 관계를 이해한다.\n\n\n\n제곱근과 실수\n\n[9수01-07]제곱근의 뜻을 알고, 그 성질을 이해한다.\n[9수01-08]무리수의 개념을 이해한다.\n[9수01-09]실수의 대소 관계를 판단할 수 있다.\n[9수01-10]근호를 포함한 식의 사칙계산을 할 수 있다.\n\n\n\n\n2. 문자와 식\n문자는 수량 관계를 명확하고 간결하게 표현하는 수학적 언어이다. 문자를 통해 수량 사이의 관계를 일반화함으로써 산술에서 대수로 이행하며, 수에 대한 사칙연산과 소인수분해는 다항식으로 확장되어 적용된다. 또한 방정식과 부등식은 양 사이의 관계를 나타내며, 적절한 절차를 따라 이를 만족시키는 해를 구할 수 있다. 문자는 수학적 의사소통을 원활히 할 수 있도록 도와주고, 문자를 이용한 방정식과 부등식은 여러 가지 문제를 해결하는 중요한 도구가 된다.\n\n문자의 사용과 식의 계산\n\n[9수02-01]다양한 상황을 문자를 사용한 식으로 나타낼 수 있다.\n[9수02-02]식의 값을 구할 수 있다.\n[9수02-03]일차식의 덧셈과 뺄셈의 원리를 이해하고, 그 계산을 할 수 있다.\n\n\n\n일차방정식\n[9수02-04]방정식과 그 해의 의미를 알고, 등식의 성질을 이해한다. [9수02-05]일차방정식을 풀 수 있고, 이를 활용하여 문제를 해결할 수 있다.\n\n\n식의 계산\n[9수02-06]지수법칙을 이해한다. [9수02-07]다항식의 덧셈과 뺄셈의 원리를 이해하고, 그 계산을 할 수 있다. [9수02-08]‘(단항식)×(다항식)’, ’(다항식)÷(단항식)’과 같은 곱셈과 나눗셈의 원리를 이해하고, 그 계산을 할 수 있다.\n\n\n일차부등식과 연립일차방정식\n[9수02-09]부등식과 그 해의 의미를 알고, 부등식의 성질을 이해한다. [9수02-10]일차부등식을 풀 수 있고, 이를 활용하여 문제를 해결할 수 있다. [9수02-11]미지수가 2개인 연립일차방정식을 풀 수 있고, 이를 활용하여 문제를 해결할 수 있다.\n\n\n다항식의 곱셈과 인수분해\n[9수02-12]다항식의 곱셈과 인수분해를 할 수 있다.\n\n\n이차방정식\n[9수02-13]이차방정식을 풀 수 있고, 이를 활용하여 문제를 해결할 수 있다.\n\n\n\n3. 함수\n변화하는 양 사이의 관계를 나타내는 함수는 대응과 종속의 의미를 포함하며, 그래프는 함수를 시각적으로 표현하는 도구이다. 여러 가지 현상에서 관찰할 수 있는 규칙 중에는 한 값이 변하면 다른 값도 일정한 규칙에 따라 변하는 것들이 많이 있다. 함수는 다양한 변화 현상 속의 수학적 관계를 이해하고 표현함으로써 여러 가지 문제를 해결하는 데 도움이 된다.\n\n좌표평면과 그래프\n\n[9수03-01]순서쌍과 좌표를 이해한다.\n[9수03-02]다양한 상황을 그래프로 나타내고, 주어진 그래프를 해석할 수 있다.\n[9수03-03]정비례, 반비례 관계를 이해하고, 그 관계를 표, 식, 그래프로 나타낼 수 있다.\n\n\n\n일차함수와 그래프\n\n[9수03-04]함수의 개념을 이해한다.\n[9수03-05]일차함수의 의미를 이해하고, 그 그래프를 그릴 수 있다.\n[9수03-06]일차함수의 그래프의 성질을 이해하고, 이를 활용하여 문제를 해결할 수 있다.\n\n\n\n일차함수와 일차방정식의 관계\n\n[9수03-07]일차함수와 미지수가 2개인 일차방정식의 관계를 이해한다.\n[9수03-08]두 일차함수의 그래프와 연립일차방정식의 관계를 이해한다.\n\n\n\n이차함수와 그래프\n\n[9수03-09]이차함수의 의미를 이해하고, 그 그래프를 그릴 수 있다.\n[9수03-10]이차함수의 그래프의 성질을 이해한다.\n\n\n\n\n4. 기하\n주변의 형태는 여러 가지 평면도형이나 입체도형으로 범주화 되고, 각각의 평면도형이나 입체도형은 고유한 성질을 갖는다. 평면도형이나 입체도형의 성질에 대한 이해는 다양한 분야의 실생활 문제를 해결하는 데 기초가 되며, 수학의 다른 영역의 개념과 밀접하게 관련되어 있다. 도형의 성질을 정당화하는 과정에서 요구되는 연역적 추론은 수학적 소양을 기르는 데 도움이 된다.\n\n기본 도형\n\n[9수04-01]점, 선, 면, 각을 이해하고, 점, 직선, 평면의 위치 관계를 설명할 수 있다.\n[9수04-02]평행선에서 동위각과 엇각의 성질을 이해한다.\n\n\n\n작도와 합동\n\n[9수04-03]삼각형을 작도할 수 있다.\n[9수04-04]삼각형의 합동 조건을 이해하고, 이를 이용하여 두 삼각형이 합동인지 판별할 수 있다.\n\n\n\n평면도형의 성질\n\n[9수04-05]다각형의 성질을 이해한다.\n[9수04-06]부채꼴의 중심각과 호의 관계를 이해하고, 이를 이용하여 부채꼴의 넓이와 호의 길이를 구할 수 있다.\n\n\n\n입체도형의 성질\n\n[9수04-07]다면체의 성질을 이해한다.\n[9수04-08]회전체의 성질을 이해한다.\n[9수04-09]입체도형의 겉넓이와 부피를 구할 수 있다.\n\n\n\n삼각형과 사각형의 성질\n\n[9수04-10]이등변삼각형의 성질을 이해하고 설명할 수 있다.\n[9수04-11]삼각형의 외심과 내심의 성질을 이해하고 설명할 수 있다.\n[9수04-12]사각형의 성질을 이해하고 설명할 수 있다.\n\n\n\n도형의 닮음\n\n[9수04-13]도형의 닮음의 의미와 닮은 도형의 성질을 이해한다.\n[9수04-14]삼각형의 닮음 조건을 이해하고, 이를 이용하여 두 삼각형이 닮음인지 판별할 수 있다.\n[9수04-15]평행선 사이의 선분의 길이의 비를 구할 수 있다.\n\n\n\n피타고라스 정리\n\n[9수04-16]피타고라스 정리를 이해하고 설명할 수 있다.\n\n\n\n삼각비\n\n[9수04-17]삼각비의 뜻을 알고, 간단한 삼각비의 값을 구할 수 있다.\n[9수04-18]삼각비를 활용하여 여러 가지 문제를 해결할 수 있다.\n\n\n\n원의 성질\n\n[9수04-19]원의 현에 관한 성질과 접선에 관한 성질을 이해한다.\n[9수04-20]원주각의 성질을 이해한다.\n\n\n\n\n5. 확률과 통계\n사건이 일어날 가능성을 수치화한 확률, 그리고 자료를 수집, 정리, 해석하는 통계는 현대 정보화 사회의 불확실성을 이해하는 중요한 도구이다. 다양한 자료를 수집, 정리, 해석하고, 확률을 이해함으로써, 미래를 예측하고 합리적인 의사 결정을 하는 민주 시민으로서의 기본 소양을 기를 수 있다.\n\n자료의 정리와 해석\n\n[9수05-01]자료를 줄기와 잎 그림, 도수분포표, 히스토그램, 도수분포다각형으로 나타내고 해석할 수 있다.\n[9수05-02]상대도수를 구하며, 이를 그래프로 나타내고, 상대도수의 분포를 이해한다.\n[9수05-03]공학적 도구를 이용하여 실생활과 관련된 자료를 수집하고 표나 그래프로 정리하고 해석할 수 있다.\n\n\n\n확률과 그 기본 성질\n\n[9수05-04]경우의 수를 구할 수 있다.\n[9수05-05]확률의 개념과 그 기본 성질을 이해하고, 확률을 구할 수 있다.\n\n\n\n대푯값과 산포도\n\n[9수05-06]중앙값, 최빈값, 평균의 의미를 이해하고, 이를 구할 수 있다.\n[9수05-07]분산과 표준편차의 의미를 이해하고, 이를 구할 수 있다.\n\n\n\n상관관계\n\n[9수05-08]자료를 산점도로 나타내고, 이를 이용하여 상관관계를 말할 수 있다.",
-    "crumbs": [
-      "중1수학",
-      "교육과정"
-    ]
-  },
-  {
-    "objectID": "posts/I/trigonometric_function/learning_objective.html",
-    "href": "posts/I/trigonometric_function/learning_objective.html",
-    "title": "학습목표",
-    "section": "",
-    "text": "삼각함수\n삼각함수는 삼각비를 일반화시킨 개념으로, 자연 현상이나 사회 현상 가운데 나타나는 주기적인 현상을 수학적으로 표현하여 설명하고 분석할 수 있는 유용한 주기함수이다. 사인법칙과 코사인법칙을 포함한 삼각함수의 성질은 삼각형으로 나타낼 수 있는 대상의 길이, 넓이, 각도 등의 측정과 관련된 다양한 문제의 해결에 활용된다.\n\n1. 삼각함수\n\n[12수학Ⅰ02-01]일반각과 호도법의 뜻을 안다.\n[12수학Ⅰ02-02]삼각함수의 뜻을 알고, 사인함수, 코사인함수, 탄젠트함수의 그래프를 그릴 수 있다.\n[12수학Ⅰ02-03]사인법칙과 코사인법칙을 이해하고, 이를 활용할 수 있다.\n\n\n\n\n학습요소\n\n시초선\n동경\n일반각\n호도법\n라디안\n사인함수\n코사인함수\n탄젠트함수\n사인 법칙\n코사인 법칙\n삼각함수\n주기\n주기함수\n(\\(\\sin x\\))\n(\\(\\cos x\\))\n(\\(\\tan x\\))\n\n\n\n교수･학습 방법 및 유의사항\n\n삼각함수의 개념은 중학교에서 학습한 삼각비와 연계하여 이해하게 한다.\n삼각함수의 성질은 삼각함수의 그래프의 성질을 이해하는 데 필요한 정도로 간단히 다룬다.\n삼각함수의 그래프를 그리거나 삼각함수와 관련된 문제를 해결할 때 공학적 도구를 이용할 수 있다. - 사인법칙과 코사인법칙을 이용하여 삼각형의 각의 크기와 변의 길이 사이의 관계를 이해하고 삼각형의 넓이를 다양한 방법으로 구할 수 있게 한다.\n사인법칙과 코사인법칙을 활용하여 여러 가지 문제를 해결해봄으로써 삼각함수의 유용성과 가치를 인식하게 한다.\n삼각함수가 포함된 방정식과 부등식은 삼각함수의 그래프를 해석하거나 사인법칙과 코사인법칙을 활용하여 문제를 해결하는 과정에서 나타나는 간단한 경우만 다루되, 주어진 구간 안에서 해를 구하는 것만 다룬다.\n\n\n\n평가 방법 및 유의 사항\n\n삼각함수와 그 그래프의 성질에 대한 평가에서는 기본적인 삼각함수의 그래프와 그 성질에 대한 이해 능력을 평가하는 데 중점을 두고, 복잡한 합성함수나 절댓값이 여러 개 포함된 함수와 같이 지나치게 복잡한 삼각함수를 포함하는 문제는 다루지 않는다.\n\n\n\n사전 학습\n\n중2수학\n\n함수\n\n\n일차함수와 그래프 단원에서 함수의 정의를 이해하고, 일차함수의 특징을 이해하고 예시 그래프를 그릴 수 있어야 한다.\n\n\n\n중3수학\n\n함수\n\n\n이차함수와 그래프 단원에서 이차함수의 특징을 이해하고 예시 그래프를 그릴 수 있어야 한다.\n\n\n기하\n\n\n삼각비 단원에서 삼각비의 뜻을 알고, 삼각비의 값을 구할 수 있어야 한다.\n\n\n\n공통수학\n\n함수와 그래프\n\n\n역함수의 개념을 이해하고, 예시 그래프를 그릴 수 있어야 한다.",
-    "crumbs": [
-      "수학I",
-      "삼각함수",
-      "학습목표"
-    ]
-  },
-  {
-    "objectID": "posts/I/exponent_log_function/learning_objective.html",
-    "href": "posts/I/exponent_log_function/learning_objective.html",
-    "title": "학습목표",
-    "section": "",
-    "text": "지수함수와 로그함수\n지수함수는 빠르게 증가하거나 감소하는 수량이나 현상을 다루는 데 유용한 함수이고, 로그함수는 지수함수의 역함수이다. 지수함수와 로그함수는 자연 현상이나 사회 현상을 설명하고 분석하기 위한 수학적 모델이다.\n\n1. 지수와 로그\n\n[12수학Ⅰ01-01]거듭제곱과 거듭제곱근의 뜻을 알고, 그 성질을 이해한다.\n[12수학Ⅰ01-02]지수가 유리수, 실수까지 확장될 수 있음을 이해한다.\n[12수학Ⅰ01-03]지수법칙을 이해하고, 이를 이용하여 식을 간단히 나타낼 수 있다.\n[12수학Ⅰ01-04]로그의 뜻을 알고, 그 성질을 이해한다.\n[12수학Ⅰ01-05]상용로그를 이해하고, 이를 활용할 수 있다.\n\n\n\n2. 지수함수와 로그함수\n\n[12수학Ⅰ01-06]지수함수와 로그함수의 뜻을 안다.\n[12수학Ⅰ01-07]지수함수와 로그함수의 그래프를 그릴 수 있고, 그 성질을 이해한다.\n[12수학Ⅰ01-08]지수함수와 로그함수를 활용하여 문제를 해결할 수 있다.\n\n\n\n\n학습요소\n\n거듭제곱근\n로그\n(로그의) 밑\n진수\n상용로그\n지수함수\n로그함수\n\\(\\sqrt[n]{a}\\)\n\\(log_aN\\)\n\\(logN\\)\n\n\n\n교수･학습 방법 및 유의 사항\n\n지수가 유리수 및 실수인 경우는 밑이 양수인 조건이 필요함을 이해하게 한다.\n지수가 실수인 경우는 직관적으로 다룬다.\n로그의 성질은 지수의 성질과 관련지어 이해하게 한다.\n지수함수와 로그함수는 역함수 관계임을 그래프를 통해 확인하게 한다.\n지수와 로그 및 지수함수와 로그함수를 다룰 때 공학적 도구를 이용할 수 있다.\n구체적인 자연 현상이나 사회 현상을 지수함수와 로그함수로 표현하고 이 과정에서 나타나는 간단한 방정식과 부등식을 풀어 문제를 해결해봄으로써 지수함수와 로그함수의 유용성과 가치를 인식하게 한다.\n\n\n\n평가 방법 및 유의 사항\n\n지수와 로그의 성질에 대한 평가에서는 지수와 로그의 기본 성질을 이해하고 활용할 수 있는 능력을 평가하는 데 중점을 두고, 지나치게 복잡한 계산을 포함하는 문제는 다루지 않는다.\n\n\n\n사전 학습\n\n중1수학\n\n수와 연산\n\n\n정수와 유리수 단원에서 유리수의 정의를 이해하고 계산할 수 있어야 한다.\n\n\n\n중2수학\n\n문자와 식\n\n\n식의 계산 단원에서 지수의 법칙을 이해하고, 계산할 수 있어야 한다.\n\n\n함수\n\n\n일차함수와 그래프 단원에서 함수의 정의를 이해하고, 일차함수의 특징을 이해하고 예시 그래프를 그릴 수 있어야 한다.\n\n\n\n중3수학\n\n수와 연산\n\n\n제곱근과 실수 단원에서 제곱근과 실수의 정의를 이해하고 근호를 포함한 식의 사칙계산을 할 수 있어야 한다.\n\n\n함수\n\n\n이차함수와 그래프 단원에서 이차함수의 특징을 이해하고 예시 그래프를 그릴 수 있어야 한다.\n\n\n\n공통수학\n\n함수와 그래프\n\n\n역함수의 개념을 이해하고, 예시 그래프를 그릴 수 있어야 한다.",
-    "crumbs": [
-      "수학I",
-      "지수함수와 로그함수",
-      "학습목표"
-    ]
-  },
-  {
-    "objectID": "posts/common/set_proposition/learning_objective.html",
-    "href": "posts/common/set_proposition/learning_objective.html",
-    "title": "학습목표",
-    "section": "",
-    "text": "집합, 원소, 공집합, 부분집합, 합집합, 교집합, 여집합\n드모르간 법칙, 충분조건, 필요조건\n\n\n\n\n\n집합의 연산 및 명제 이해\n충분조건과 필요조건의 구분\n\n\n\n\n벤 다이어그램 활용\n간단한 명제 증명 중심",
-    "crumbs": [
-      "공통수학",
-      "집합과 명제",
-      "학습목표"
-    ]
-  },
-  {
-    "objectID": "posts/common/set_proposition/learning_objective.html#iv.-집합과-명제",
-    "href": "posts/common/set_proposition/learning_objective.html#iv.-집합과-명제",
-    "title": "학습목표",
-    "section": "",
-    "text": "집합, 원소, 공집합, 부분집합, 합집합, 교집합, 여집합\n드모르간 법칙, 충분조건, 필요조건\n\n\n\n\n\n집합의 연산 및 명제 이해\n충분조건과 필요조건의 구분\n\n\n\n\n벤 다이어그램 활용\n간단한 명제 증명 중심",
-    "crumbs": [
-      "공통수학",
-      "집합과 명제",
-      "학습목표"
-    ]
-  },
-  {
-    "objectID": "posts/common/permutation_combination/learning_objective.html",
-    "href": "posts/common/permutation_combination/learning_objective.html",
-    "title": "학습목표",
-    "section": "",
-    "text": "합의 법칙, 곱의 법칙, 순열, 조합\n\n\n\n\n\n경우의 수 계산법 이해\n순열과 조합의 의미 및 계산\n\n\n\n\n실생활 문제를 통해 순열과 조합의 유용성 인식\n지나치게 복잡한 문제는 다루지 않음",
-    "crumbs": [
-      "공통수학",
-      "순열과 조합",
-      "학습목표"
-    ]
-  },
-  {
-    "objectID": "posts/common/permutation_combination/learning_objective.html#vi.-순열과-조합",
-    "href": "posts/common/permutation_combination/learning_objective.html#vi.-순열과-조합",
-    "title": "학습목표",
-    "section": "",
-    "text": "합의 법칙, 곱의 법칙, 순열, 조합\n\n\n\n\n\n경우의 수 계산법 이해\n순열과 조합의 의미 및 계산\n\n\n\n\n실생활 문제를 통해 순열과 조합의 유용성 인식\n지나치게 복잡한 문제는 다루지 않음",
-    "crumbs": [
-      "공통수학",
-      "순열과 조합",
-      "학습목표"
-    ]
-  },
-  {
-    "objectID": "posts/common/function_graph/learning_objective.html",
-    "href": "posts/common/function_graph/learning_objective.html",
-    "title": "학습목표",
-    "section": "",
-    "text": "정의역, 치역, 공역, 합성함수, 역함수\n\n\n\n\n\n함수의 개념 및 그래프 이해\n유리함수와 무리함수의 그래프\n\n\n\n\n공학적 도구 활용 가능\n복잡한 문제는 다루지 않음",
-    "crumbs": [
-      "공통수학",
-      "함수와 그래프",
-      "학습목표"
-    ]
-  },
-  {
-    "objectID": "posts/common/function_graph/learning_objective.html#v.-함수와-그래프",
-    "href": "posts/common/function_graph/learning_objective.html#v.-함수와-그래프",
-    "title": "학습목표",
-    "section": "",
-    "text": "정의역, 치역, 공역, 합성함수, 역함수\n\n\n\n\n\n함수의 개념 및 그래프 이해\n유리함수와 무리함수의 그래프\n\n\n\n\n공학적 도구 활용 가능\n복잡한 문제는 다루지 않음",
-    "crumbs": [
-      "공통수학",
-      "함수와 그래프",
-      "학습목표"
-    ]
-  },
-  {
-    "objectID": "posts/common/curriculum.html",
-    "href": "posts/common/curriculum.html",
-    "title": "교과과정",
-    "section": "",
-    "text": "고등학교 공통 과목인 수학은 중학교 3학년까지의 수학을 학습한 후 고등학교의 모든 학생들이 필수적으로 이수하는 과목입니다. 수학의 내용은 초등학교 및 중학교 수학과 연계하여 다음과 같은 5개 영역으로 구성됩니다:\n구체적인 목차는 아래와 같습니다.",
-    "crumbs": [
-      "공통수학",
-      "교과과정"
-    ]
-  },
-  {
-    "objectID": "posts/common/curriculum.html#i.-다항식",
-    "href": "posts/common/curriculum.html#i.-다항식",
-    "title": "교과과정",
-    "section": "I. 다항식",
-    "text": "I. 다항식",
-    "crumbs": [
-      "공통수학",
-      "교과과정"
-    ]
-  },
-  {
-    "objectID": "posts/common/curriculum.html#ii.-방정식과-부등식",
-    "href": "posts/common/curriculum.html#ii.-방정식과-부등식",
-    "title": "교과과정",
-    "section": "II. 방정식과 부등식",
-    "text": "II. 방정식과 부등식",
-    "crumbs": [
-      "공통수학",
-      "교과과정"
-    ]
-  },
-  {
-    "objectID": "posts/common/curriculum.html#iii.-도형의-방정식",
-    "href": "posts/common/curriculum.html#iii.-도형의-방정식",
-    "title": "교과과정",
-    "section": "III. 도형의 방정식",
-    "text": "III. 도형의 방정식",
-    "crumbs": [
-      "공통수학",
-      "교과과정"
-    ]
-  },
-  {
-    "objectID": "posts/common/curriculum.html#iv.-집합과-명제",
-    "href": "posts/common/curriculum.html#iv.-집합과-명제",
-    "title": "교과과정",
-    "section": "IV. 집합과 명제",
-    "text": "IV. 집합과 명제",
-    "crumbs": [
-      "공통수학",
-      "교과과정"
-    ]
-  },
-  {
-    "objectID": "posts/common/curriculum.html#v.-함수와-그래프",
-    "href": "posts/common/curriculum.html#v.-함수와-그래프",
-    "title": "교과과정",
-    "section": "V. 함수와 그래프",
-    "text": "V. 함수와 그래프",
-    "crumbs": [
-      "공통수학",
-      "교과과정"
-    ]
-  },
-  {
-    "objectID": "posts/common/curriculum.html#vi.-순열과-조합",
-    "href": "posts/common/curriculum.html#vi.-순열과-조합",
-    "title": "교과과정",
-    "section": "VI. 순열과 조합",
-    "text": "VI. 순열과 조합",
-    "crumbs": [
-      "공통수학",
-      "교과과정"
-    ]
-  },
-  {
-    "objectID": "posts/about.html",
-    "href": "posts/about.html",
-    "title": "사이트사용법",
-    "section": "",
-    "text": "블로그\n\n이 웹사이트는 top tiitle 메뉴 하부에 sidebar 메뉴에 각 웹페이지가 속하도록 구성되어 있습니다.\n\n큰 주제에 속하는 하위의 특정주제 웹페이지를 찾아가는 일반적인 구조입니다.\n\n이 웹사이트의 블로그는 위에서의 웹페이지들을 날짜순으로 재배열하여 보여줍니다.\n\n이 웹사이트는 두 가지 날짜가 있습니다.\n\nPUBLISHED는 최초작성일에 해당하는 개념입니다.\nMODIFIED는 최종수정일에 해당하는 개념입니다.\n\n블로그는 MIDIFIED를 기준으로 최신으로 정렬하여 보여줍니다.\n\nMODIFIED(=최종수정일)가 최신이어서 블로그에서 상위에 링크된 웹샅이느는 최근에 갱신된 내용이 있으므로 다시 볼 필요가 있임을 시사합니다.\n\n\n\n\n\n댓글\n\n댓글 기능은 guthub에 가입해야 가능합니다.\n아직 개발중인 기능이라 웹페이지가 갱신될 때 기존 댓글이 사라질 수 있으니 독자분들의 양해를 바랍니다."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "blog",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n사이트사용법\n\n\n\n\n\n\n사용법\n\n\n\n이 웹사이트 고유의 사용법이 설명되어 있습니다.\n\n\n\n\n\nDec 20, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n중1수학\n\n\n문자와 식\n\n\n학습목표\n\n\n\n2015 개정 - 중1수학 - 문자와 식\n\n\n\n\n\nJan 18, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n중1수학\n\n\n도형의 기초\n\n\n\n2015 개정 교육과정 중학교 수학과 과목\n\n\n\n\n\nJan 18, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n중1수학\n\n\n도형의 성질\n\n\n\n2015 개정 교육과정 중학교 수학과 과목\n\n\n\n\n\nJan 18, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n중1수학\n\n\n통계\n\n\n\n2015 개정 교육과정 중학교 수학과 과목\n\n\n\n\n\nJan 18, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n제곱근 연습문제\n\n\n\n\n\n\n중3수학\n\n\n제곱근\n\n\n연습문제\n\n\n\n\n\n\n\n\n\nJan 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n최소공배수 연습문제\n\n\n\n\n\n\n중1수학\n\n\n최소공배수\n\n\n\n최소공배수의 성질을 이해하고, 이를 구할 수 있다.\n\n\n\n\n\nDec 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n최대공약수 연습문제\n\n\n\n\n\n\n중1수학\n\n\n최대공약수\n\n\n\n최대공약수의 성질을 이해하고, 이를 구할 수 있다.\n\n\n\n\n\nDec 29, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n중학수학\n\n\n\n\n\n\n수학\n\n\n중학교\n\n\n\n2015 개정 교육과정 중학교 수학과 과목\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n교과과정\n\n\n\n\n\n\n공통수학\n\n\n교과과정\n\n\n2015년 개정\n\n\n\n공통수학 - 2015년 개정\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n공통수학\n\n\n방정식과 부등식\n\n\n학습목표\n\n\n\n2015년 개정 - 공통수학 - 방정식과 부등식\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n공통수학\n\n\n함수와 그래프\n\n\n학습목표\n\n\n\n2015년 개정 - 공통수학 - 함수와 그래프\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n공통수학\n\n\n도형의 방정식\n\n\n학습목표\n\n\n\n2015년 개정 - 공통수학 - 도형의 방정식\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n공통수학\n\n\n순열과 조합\n\n\n학습목표\n\n\n\n2015년 개정 - 공통수학 - 순열과 조합\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n공통수학\n\n\n다항식\n\n\n학습목표\n\n\n\n2015년 개정 - 공통수학 - 다항식\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n공통수학\n\n\n집합과 명제\n\n\n학습목표\n\n\n\n2015년 개정 - 공통수학 - 집합과 명제\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n교육과정\n\n\n\n\n\n\n수학I\n\n\n교육과정\n\n\n2015년 개정\n\n\n\n수학I - 2015년 개정\n\n\n\n\n\nDec 21, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n수학I\n\n\n지수함수와 로그함수\n\n\n학습목표\n\n\n2015년 개정\n\n\n\n수학I - 지수함수와 로그함수 - 2015년 개정\n\n\n\n\n\nJan 18, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n수학I\n\n\n수열\n\n\n학습목표\n\n\n2015년 개정\n\n\n\n수학I - 수열 - 2015년 개정\n\n\n\n\n\nJan 18, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n수학I\n\n\n삼각함수\n\n\n학습목표\n\n\n2015년 개정\n\n\n\n수학I - 삼각함수 - 2015년 개정\n\n\n\n\n\nJan 18, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n중2수학\n\n\n도형의 닮음\n\n\n\n2015 개정 교육과정 중학교 수학과 과목\n\n\n\n\n\nJan 18, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n중2수학\n\n\n도형의 성질\n\n\n\n2015 개정 교육과정 중학교 수학과 과목\n\n\n\n\n\nJan 18, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n중2수학\n\n\n확률\n\n\n\n2015 개정 교육과정 중학교 수학과 과목\n\n\n\n\n\nJan 18, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n일차함수와 그래프 연습문제\n\n\n\n\n\n\n중2수학\n\n\n함수\n\n\n일차함수\n\n\n그래프\n\n\n연습문제\n\n\n\n함수의 개념을 이해한다. 일차함수의 의미를 이해하고, 그래프를 그릴 수 있다. 일차함수의 그래프의 성질을 이해하고, 이를 활용하여 문제를 해결할 수 있다. \n\n\n\n\n\nJan 11, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n지수의법칙 연습7\n\n\n\n\n\n\n수학\n\n\n지수의법칙\n\n\n중학교\n\n\n\n지수연산 연습문제 10개 난이도-상\n\n\n\n\n\nJan 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n지수의법칙 연습6\n\n\n\n\n\n\n수학\n\n\n지수의법칙\n\n\n중학교\n\n\n\n중학교 수준의 지수의법칙 연습문제 20개\n\n\n\n\n\nDec 31, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n지수의법칙 연습5\n\n\n\n\n\n\n수학\n\n\n지수의법칙\n\n\n중학교\n\n\n\n중학교 수준의 지수의법칙 연습문제 20개\n\n\n\n\n\nDec 29, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n중2수학\n\n\n\n\n\n\n중2수학\n\n\n\n2015 개정 교육과정 중학교 수학과 과목\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n중1수학\n\n\n좌표평면과 그래프\n\n\n학습목표\n\n\n\n2015 개정 - 중1수학 - 좌표평면과 그래프\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n교육과정\n\n\n\n\n\n\n중1수학\n\n\n교육과정\n\n\n2015년 개정\n\n\n\n중1수학 - 2015년 개정\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n중1수학\n\n\n수와 연산\n\n\n\n2015 개정 - 중1수학 - 수와 연산\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n소인수분해 연습문제\n\n\n\n\n\n\n중1수학\n\n\n소인수분해\n\n\n\n소인수분해의 뜻을 알고, 자연수를 소인수분해할 수 있다.\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n중2수학\n\n\n문자와 식\n\n\n학습목표\n\n\n\n2015년 개정 - 중2수학 - 문자와 식\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n교육과정\n\n\n\n\n\n\n중2수학\n\n\n교육과정\n\n\n2015년 개정\n\n\n\n중2수학 - 2015년 개정\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n지수의법칙 연습4\n\n\n\n\n\n\n수학\n\n\n지수의법칙\n\n\n중학교\n\n\n\n중학교 수준의 지수의법칙 연습문제 20개\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n중2수학\n\n\n함수\n\n\n학습목표\n\n\n\n2015년 개정 - 중2수학 - 함수\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n중2수학\n\n\n유리수와 순환소수\n\n\n학습목표\n\n\n\n2015년 개정 - 중2수학 - 유리수와 순환소수\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n중3수학\n\n\n원의 성질\n\n\n학습목표\n\n\n\n2015년 개정 - 중3수학 - 원의 성질\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n교육과정\n\n\n\n\n\n\n중3수학\n\n\n교육과정\n\n\n2015년 개정\n\n\n\n중3수학 - 2015년 개정\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n중3수학\n\n\n다항식의 곱셈과 인수분해\n\n\n학습목표\n\n\n\n2015년 개정 - 중3수학 - 다항식의 곱셈과 인수분해\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n중3수학\n\n\n이차방정식\n\n\n학습목표\n\n\n\n2015년 개정 - 중3수학 - 이차방정식\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n중3수학\n\n\n실수와 그 계산\n\n\n학습목표\n\n\n\n2015년 개정 - 중3수학 - 실수와 그 계산\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n중3수학\n\n\n통계\n\n\n학습목표\n\n\n\n2015년 개정 - 중3수학 - 통계\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n중3수학\n\n\n삼각비\n\n\n학습목표\n\n\n2015년 개정\n\n\n\n중3수학 - 삼각비 - 2015년 개정\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n중학수학\n\n\n\n\n\n\n수학\n\n\n중학교\n\n\n\n2015 개정 교육과정 중학교 수학과 과목\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n지수의법칙 연습2\n\n\n\n\n\n\n수학\n\n\n지수의법칙\n\n\n중학교\n\n\n\n중학교수준 연습문제 20개\n\n\n\n\n\nDec 25, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n지수/로그 학습목표\n\n\n\n\n\n\n수학\n\n\n수학I\n\n\n지수함수\n\n\n\n2015 개정 교육과정 고등학교 수학과 과목 (’18~’24 高1)\n\n\n\n\n\nDec 21, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n지수의 법칙 연습1\n\n\n\n\n\n\n수학\n\n\n지수의법칙\n\n\n중학교\n\n\n\n중학교수준 연습문제 15문제\n\n\n\n\n\nDec 21, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n지수의 개념\n\n\n\n\n\n\n수학\n\n\n지수의법칙\n\n\n중학교\n\n\n\n중학교 수준의 지수의 개념\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n유리수\n\n\n\n\n\n\n중1수학\n\n\n유리수\n\n\n\n2015 개정 교육과정 중학교 수학과 과목\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n순환소수\n\n\n\n\n\n\n수학\n\n\n중학교\n\n\n\n2015 개정 교육과정 중학교 수학과 과목\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/calculus/curriculum.html",
-    "href": "posts/calculus/curriculum.html",
-    "title": "중학수학",
-    "section": "",
-    "text": "수와 연산\n\n소인수분해 [9수01-01]소인수분해의 뜻을 알고, 자연수를 소인수분해할 수 있다. [9수01-02]최대공약수와 최소공배수의 성질을 이해하고, 이를 구할 수 있다.\n정수와 유리수 [9수01-03]양수와 음수, 정수와 유리수의 개념을 이해한다. [9수01-04]정수와 유리수의 대소 관계를 판단할 수 있다. [9수01-05]정수와 유리수의 사칙계산의 원리를 이해하고, 그 계산을 할 수 있다.\n유리수와 순환소수 [9수01-06]순환소수의 뜻을 알고, 유리수와 순환소수의 관계를 이해한다.\n제곱근과 실수 [9수01-07]제곱근의 뜻을 알고, 그 성질을 이해한다. [9수01-08]무리수의 개념을 이해한다. [9수01-09]실수의 대소 관계를 판단할 수 있다. [9수01-10]근호를 포함한 식의 사칙계산을 할 수 있다.\n\n\n\n문자와 식\n\n문자의 사용과 식의 계산 [9수02-01]다양한 상황을 문자를 사용한 식으로 나타낼 수 있다. [9수02-02]식의 값을 구할 수 있다. [9수02-03]일차식의 덧셈과 뺄셈의 원리를 이해하고, 그 계산을 할 수 있다.\n일차방정식 [9수02-04]방정식과 그 해의 의미를 알고, 등식의 성질을 이해한다. [9수02-05]일차방정식을 풀 수 있고, 이를 활용하여 문제를 해결할 수 있다.\n식의 계산 [9수02-06]지수법칙을 이해한다. [9수02-07]다항식의 덧셈과 뺄셈의 원리를 이해하고, 그 계산을 할 수 있다. [9수02-08]‘(단항식)×(다항식)’, ’(다항식)÷(단항식)’과 같은 곱셈과 나눗셈의 원리를 이해하고, 그 계산을 할 수 있다.\n일차부등식과 연립일차방정식 [9수02-09]부등식과 그 해의 의미를 알고, 부등식의 성질을 이해한다. [9수02-10]일차부등식을 풀 수 있고, 이를 활용하여 문제를 해결할 수 있다. [9수02-11]미지수가 2개인 연립일차방정식을 풀 수 있고, 이를 활용하여 문제를 해결할 수 있다.\n다항식의 곱셈과 인수분해 [9수02-12]다항식의 곱셈과 인수분해를 할 수 있다.\n이차방정식 [9수02-13]이차방정식을 풀 수 있고, 이를 활용하여 문제를 해결할 수 있다.\n\n\n\n함수\n\n좌표평면과 그래프 [9수03-01]순서쌍과 좌표를 이해한다. [9수03-02]다양한 상황을 그래프로 나타내고, 주어진 그래프를 해석할 수 있다. [9수03-03]정비례, 반비례 관계를 이해하고, 그 관계를 표, 식, 그래프로 나타낼 수 있다.\n일차함수와 그래프 [9수03-04]함수의 개념을 이해한다. [9수03-05]일차함수의 의미를 이해하고, 그 그래프를 그릴 수 있다. [9수03-06]일차함수의 그래프의 성질을 이해하고, 이를 활용하여 문제를 해결할 수 있다.\n일차함수와 일차방정식의 관계 [9수03-07]일차함수와 미지수가 2개인 일차방정식의 관계를 이해한다. [9수03-08]두 일차함수의 그래프와 연립일차방정식의 관계를 이해한다.\n이차함수와 그래프 [9수03-09]이차함수의 의미를 이해하고, 그 그래프를 그릴 수 있다. [9수03-10]이차함수의 그래프의 성질을 이해한다.\n\n\n\n기하\n\n기본 도형 [9수04-01]점, 선, 면, 각을 이해하고, 점, 직선, 평면의 위치 관계를 설명할 수 있다. [9수04-02]평행선에서 동위각과 엇각의 성질을 이해한다.\n작도와 합동 [9수04-03]삼각형을 작도할 수 있다. [9수04-04]삼각형의 합동 조건을 이해하고, 이를 이용하여 두 삼각형이 합동인지 판별할 수 있다.\n평면도형의 성질 [9수04-05]다각형의 성질을 이해한다. [9수04-06]부채꼴의 중심각과 호의 관계를 이해하고, 이를 이용하여 부채꼴의 넓이와 호의 길이를 구할 수 있다.\n입체도형의 성질 [9수04-07]다면체의 성질을 이해한다. [9수04-08]회전체의 성질을 이해한다. [9수04-09]입체도형의 겉넓이와 부피를 구할 수 있다.\n삼각형과 사각형의 성질 [9수04-10]이등변삼각형의 성질을 이해하고 설명할 수 있다. [9수04-11]삼각형의 외심과 내심의 성질을 이해하고 설명할 수 있다. [9수04-12]사각형의 성질을 이해하고 설명할 수 있다.\n도형의 닮음 [9수04-13]도형의 닮음의 의미와 닮은 도형의 성질을 이해한다. [9수04-14]삼각형의 닮음 조건을 이해하고, 이를 이용하여 두 삼각형이 닮음인지 판별할 수 있다. [9수04-15]평행선 사이의 선분의 길이의 비를 구할 수 있다.\n피타고라스 정리 [9수04-16]피타고라스 정리를 이해하고 설명할 수 있다.\n삼각비 [9수04-17]삼각비의 뜻을 알고, 간단한 삼각비의 값을 구할 수 있다. [9수04-18]삼각비를 활용하여 여러 가지 문제를 해결할 수 있다.\n원의 성질 [9수04-19]원의 현에 관한 성질과 접선에 관한 성질을 이해한다. [9수04-20]원주각의 성질을 이해한다.\n\n\n\n확률과 통계\n\n자료의 정리와 해석 [9수05-01]자료를 줄기와 잎 그림, 도수분포표, 히스토그램, 도수분포다각형으로 나타내고 해석할 수 있다. [9수05-02]상대도수를 구하며, 이를 그래프로 나타내고, 상대도수의 분포를 이해한다. [9수05-03]공학적 도구를 이용하여 실생활과 관련된 자료를 수집하고 표나 그래프로 정리하고 해석할 수 있다.\n확률과 그 기본 성질 [9수05-04]경우의 수를 구할 수 있다. [9수05-05]확률의 개념과 그 기본 성질을 이해하고, 확률을 구할 수 있다.\n대푯값과 산포도 [9수05-06]중앙값, 최빈값, 평균의 의미를 이해하고, 이를 구할 수 있다. [9수05-07]분산과 표준편차의 의미를 이해하고, 이를 구할 수 있다.\n상관관계 [9수05-08]자료를 산점도로 나타내고, 이를 이용하여 상관관계를 말할 수 있다."
-  },
-  {
-    "objectID": "posts/common/equation_inequality/learning_objective.html",
-    "href": "posts/common/equation_inequality/learning_objective.html",
-    "title": "학습목표",
-    "section": "",
-    "text": "허수 단위, 복소수, 실근, 허근, 판별식\n연립부등식, 이차부등식\n\n\n\n\n\n복소수의 사칙연산\n이차방정식의 실근과 허근의 뜻\n이차방정식의 판별식 이해\n여러 가지 방정식 및 부등식 풀이\n\n\n\n\n복잡한 문제는 다루지 않음\n실생활 문제 해결을 통해 수학의 유용성 인식",
-    "crumbs": [
-      "공통수학",
-      "방정식과 부등식",
-      "학습목표"
-    ]
-  },
-  {
-    "objectID": "posts/common/equation_inequality/learning_objective.html#ii.-방정식과-부등식",
-    "href": "posts/common/equation_inequality/learning_objective.html#ii.-방정식과-부등식",
-    "title": "학습목표",
-    "section": "",
-    "text": "허수 단위, 복소수, 실근, 허근, 판별식\n연립부등식, 이차부등식\n\n\n\n\n\n복소수의 사칙연산\n이차방정식의 실근과 허근의 뜻\n이차방정식의 판별식 이해\n여러 가지 방정식 및 부등식 풀이\n\n\n\n\n복잡한 문제는 다루지 않음\n실생활 문제 해결을 통해 수학의 유용성 인식",
-    "crumbs": [
-      "공통수학",
-      "방정식과 부등식",
-      "학습목표"
-    ]
-  },
-  {
-    "objectID": "posts/common/geometric_equation/learning_objective.html",
-    "href": "posts/common/geometric_equation/learning_objective.html",
-    "title": "학습목표",
-    "section": "",
-    "text": "내분, 외분, 대칭이동\n\n\n\n\n\n두 점 사이의 거리, 내분점과 외분점 좌표 구하기\n직선 및 원의 방정식 이해\n\n\n\n\n좌표축의 평행이동은 다루지 않음\n공학적 도구 활용 가능",
-    "crumbs": [
-      "공통수학",
-      "도형의 방정식",
-      "학습목표"
-    ]
-  },
-  {
-    "objectID": "posts/common/geometric_equation/learning_objective.html#iii.-도형의-방정식",
-    "href": "posts/common/geometric_equation/learning_objective.html#iii.-도형의-방정식",
-    "title": "학습목표",
-    "section": "",
-    "text": "내분, 외분, 대칭이동\n\n\n\n\n\n두 점 사이의 거리, 내분점과 외분점 좌표 구하기\n직선 및 원의 방정식 이해\n\n\n\n\n좌표축의 평행이동은 다루지 않음\n공학적 도구 활용 가능",
-    "crumbs": [
-      "공통수학",
-      "도형의 방정식",
-      "학습목표"
-    ]
-  },
-  {
-    "objectID": "posts/common/polynomial_equation/learning_objective.html",
-    "href": "posts/common/polynomial_equation/learning_objective.html",
-    "title": "학습목표",
-    "section": "",
-    "text": "미정계수법\n나머지정리\n인수정리\n조립제법\n\n\n\n\n\n다항식의 사칙연산\n나머지정리 및 항등식의 성질 이해\n다항식의 인수분해\n\n\n\n\n\\(a^2 + b^2 + c^2 + 2ab + 2bc + 2ca = (a+b+c)^2\\)\n\\(a^3 + 3a^2b + 3ab^2 + b^3 = (a+b)^3\\)\n\\(a^3 - 3a^2b + 3ab^2 - b^3 = (a-b)^3\\)\n\\(a^3 + b^3 = (a+b)(a^2 - ab + b^2)\\)\n\\(a^3 - b^3 = (a-b)(a^2 + ab + b^2)\\)\n\n\n\n\n\n조립제법은 다항식을 단항식으로 나누는 연산과 연계하여 지도\n복잡한 인수분해 문제는 다루지 않음",
-    "crumbs": [
-      "공통수학",
-      "다항식",
-      "학습목표"
-    ]
-  },
-  {
-    "objectID": "posts/common/polynomial_equation/learning_objective.html#i.-다항식",
-    "href": "posts/common/polynomial_equation/learning_objective.html#i.-다항식",
-    "title": "학습목표",
-    "section": "",
-    "text": "미정계수법\n나머지정리\n인수정리\n조립제법\n\n\n\n\n\n다항식의 사칙연산\n나머지정리 및 항등식의 성질 이해\n다항식의 인수분해\n\n\n\n\n\\(a^2 + b^2 + c^2 + 2ab + 2bc + 2ca = (a+b+c)^2\\)\n\\(a^3 + 3a^2b + 3ab^2 + b^3 = (a+b)^3\\)\n\\(a^3 - 3a^2b + 3ab^2 - b^3 = (a-b)^3\\)\n\\(a^3 + b^3 = (a+b)(a^2 - ab + b^2)\\)\n\\(a^3 - b^3 = (a-b)(a^2 + ab + b^2)\\)\n\n\n\n\n\n조립제법은 다항식을 단항식으로 나누는 연산과 연계하여 지도\n복잡한 인수분해 문제는 다루지 않음",
-    "crumbs": [
-      "공통수학",
-      "다항식",
-      "학습목표"
-    ]
-  },
-  {
-    "objectID": "posts/I/curriculum.html",
-    "href": "posts/I/curriculum.html",
-    "title": "교육과정",
-    "section": "",
-    "text": "1. 성격\n수학과는 수학의 개념, 원리, 법칙을 이해하고 기능을 습득하여 주변의 여러 가지 현상을 수학적으로 관찰하고 해석하며 논리적으로 사고하고 합리적으로 문제를 해결하는 능력과 태도를 기르는 교과이다. 수학은 오랜 역사를 통해 인류 문명 발전의 원동력이 되어 왔으며, 세계화･정보화가 가속화되는 미래 사회의 구성원에게 필수적인 역량을 제공한다. 수학 학습을 통해 학생들은 수학의 규칙성과 구조의 아름다움을 음미할 수 있고, 수학의 지식과 기능을 활용하여 수학 문제뿐만 아니라 실생활과 다른 교과의 문제를 창의적으로 해결할 수 있으며, 나아가 세계 공동체의 시민으로서 갖추어야 할 합리적 의사 결정 능력과 민주적 소통 능력을 함양할 수 있다.\n일반 선택 과목인 &lt;수학Ⅰ&gt;은 공통 과목인 &lt;수학&gt;을 학습한 후, 더 높은 수준의 수학을 학습하기를 원하는 학생들이 선택할 수 있는 과목이다. &lt;수학Ⅰ&gt;의 내용은 ʻ지수함수와 로그함수ʼ, ʻ삼각함수ʼ, ʻ수열ʼ의 3개 핵심 개념 영역으로 구성된다. ʻ지수함수와 로그함수ʼ 영역에서는 지수와 로그, 지수함수와 로그함수를, ʻ삼각함수ʼ 영역에서는 일반각과 호도법, 삼각함수의 뜻과 그래프, 사인법칙과 코사인법칙을, ʻ수열ʼ 영역에서는 등차수열과 등비수열, 수열의 합, 수학적 귀납법을 다룬다.\n&lt;수학Ⅰ&gt;에서 학습한 수학의 지식과 기능은 자신의 진로와 적성을 고려하여 선택할 수 있는 수학 일반 선택 과목과 진로 선택 과목, 수학 전문 교과 과목을 학습하기 위한 토대가 되고, 자연과학, 공학, 의학뿐만 아니라 경제･경영학을 포함한 사회과학, 인문학, 예술 및 체육 분야를 학습하는 데 기초가 되며, 나아가 창의적 역량을 갖춘 융합 인재로 성장할 수 있는 기반을 제공한다. 이를 위해 학생들은 &lt;수학Ⅰ&gt;의 지식을 이해하고 기능을 습득하는 것과 더불어 문제 해결, 추론, 창의･융합, 의사소통, 정보 처리, 태도 및 실천의 6가지 수학 교과 역량을 길러야 한다.\n교과 역량으로서의 문제 해결은 해결 방법을 알고 있지 않은 문제 상황에서 수학의 지식과 기능을 활용하여 해결 전략을 탐색하고 최적의 해결 방안을 선택하여 주어진 문제를 해결하는 능력이고, 추론은 수학적 사실을 추측하고 논리적으로 분석하고 정당화하며 그 과정을 반성하는 능력이다. 창의･융합은 수학의 지식과 기능을 토대로 새롭고 의미 있는 아이디어를 다양하고 풍부하게 산출하고 정교화하며, 여러 수학적 지식, 기능, 경험을 연결하거나 타 교과나 실생활의 지식, 기능, 경험을 수학과 연결･융합하여 새로운 지식, 기능, 경험을 생성하고 문제를 해결하는 능력이다. 의사소통은 수학 지식이나 아이디어, 수학적 활동의 결과, 문제 해결 과정, 신념과 태도 등을 말이나 글, 그림, 기호로 표현하고 다른 사람의 아이디어를 이해하는 능력이고, 정보 처리는 다양한 자료와 정보를 수집, 정리, 분석, 활용하고 적절한 공학적 도구나 교구를 선택, 이용하여 자료와 정보를 효과적으로 처리하는 능력이다. 끝으로, 태도 및 실천은 수학의 가치를 인식하고 자주적 수학 학습 태도와 민주 시민 의식을 갖추어 실천하는 능력이다.\n수학 교과 역량 함양을 통해 학생들은 복잡하고 전문화되어 가는 미래 사회에서 사회 구성원의 역할을 성공적으로 수행할 수 있고, 개인의 잠재력과 재능을 발현할 수 있으며, 수학의 필요성과 유용성을 이해하고, 수학 학습의 즐거움을 느끼며, 수학에 대한 흥미와 자신감을 기를 수 있다.\n\n\n2. 목표\n수학의 개념, 원리, 법칙을 이해하고 기능을 습득하며 수학적으로 추론하고 의사소통하는 능력을 길러, 생활 주변과 사회 및 자연 현상을 수학적으로 이해하고 문제를 합리적이고 창의적으로 해결하며, 수학 학습자로서 바람직한 태도와 실천 능력을 기른다.\n가. 사회 및 자연 현상을 수학적으로 관찰, 분석, 조직, 표현하는 경험을 통하여 지수함수와 로그함수, 삼각함수, 수열에 관련된 개념, 원리, 법칙과 이들 사이의 관계를 이해하고 수학의 기능을 습득한다. 나. 수학적으로 추론하고 의사소통하며, 창의･융합적 사고와 정보 처리 능력을 바탕으로 사회 및 자연 현상을 수학적으로 이해하고 문제를 합리적이고 창의적으로 해결한다. 다. 수학에 대한 흥미와 자신감을 갖고 수학의 역할과 가치를 이해하며 수학 학습자로서 바람직한 태도와 실천 능력을 기른다.\n\n\n지수함수와 로그함수\n지수함수는 빠르게 증가하거나 감소하는 수량이나 현상을 다루는 데 유용한 함수이고, 로그함수는 지수함수의 역함수이다. 지수함수와 로그함수는 자연 현상이나 사회 현상을 설명하고 분석하기 위한 수학적 모델이다.\n\n1. 지수와 로그\n\n[12수학Ⅰ01-01]거듭제곱과 거듭제곱근의 뜻을 알고, 그 성질을 이해한다.\n[12수학Ⅰ01-02]지수가 유리수, 실수까지 확장될 수 있음을 이해한다.\n[12수학Ⅰ01-03]지수법칙을 이해하고, 이를 이용하여 식을 간단히 나타낼 수 있다.\n[12수학Ⅰ01-04]로그의 뜻을 알고, 그 성질을 이해한다.\n[12수학Ⅰ01-05]상용로그를 이해하고, 이를 활용할 수 있다.\n\n\n\n2. 지수함수와 로그함수\n\n[12수학Ⅰ01-06]지수함수와 로그함수의 뜻을 안다.\n[12수학Ⅰ01-07]지수함수와 로그함수의 그래프를 그릴 수 있고, 그 성질을 이해한다.\n[12수학Ⅰ01-08]지수함수와 로그함수를 활용하여 문제를 해결할 수 있다.\n\n\n\n\n삼각함수\n삼각함수는 삼각비를 일반화시킨 개념으로, 자연 현상이나 사회 현상 가운데 나타나는 주기적인 현상을 수학적으로 표현하여 설명하고 분석할 수 있는 유용한 주기함수이다. 사인법칙과 코사인법칙을 포함한 삼각함수의 성질은 삼각형으로 나타낼 수 있는 대상의 길이, 넓이, 각도 등의 측정과 관련된 다양한 문제의 해결에 활용된다.\n\n1. 삼각함수\n\n[12수학Ⅰ02-01]일반각과 호도법의 뜻을 안다.\n[12수학Ⅰ02-02]삼각함수의 뜻을 알고, 사인함수, 코사인함수, 탄젠트함수의 그래프를 그릴 수 있다.\n[12수학Ⅰ02-03]사인법칙과 코사인법칙을 이해하고, 이를 활용할 수 있다.\n\n\n\n\n수열\n수열은 규칙적으로 나열된 수로 나타낼 수 있는 현상을 탐구하는 데 유용한 함수이다. 수열을 통해 자연 현상이나 사회 현상에 내재되어 있는 다양한 규칙성을 찾아 일반화된 식으로 표현하고 수학적으로 정당화함으로써 수학의 유용성과 가치를 경험하고 귀납적 추론 능력과 연역적 추론 능력을 기를 수 있다.\n\n1. 등차수열과 등비수열\n\n[12수학Ⅰ03-01]수열의 뜻을 안다.\n[12수학Ⅰ03-02]등차수열의 뜻을 알고, 일반항, 첫째항부터 제\\(n\\)항까지의 합을 구할 수 있다.\n[12수학Ⅰ03-03]등비수열의 뜻을 알고, 일반항, 첫째항부터 제\\(n\\)항까지의 합을 구할 수 있다.\n\n\n\n2. 수열의 합\n\n[12수학Ⅰ03-04]\\(\\Sigma\\)의 뜻을 알고, 그 성질을 이해하고, 이를 활용할 수 있다.\n[12수학Ⅰ03-05]여러 가지 수열의 첫째항부터 제\\(n\\)항까지의 합을 구할 수 있다.\n\n\n\n3. 수학적 귀납법\n\n[12수학Ⅰ03-06]수열의 귀납적 정의를 이해한다.\n[12수학Ⅰ03-07]수학적 귀납법의 원리를 이해한다.\n[12수학Ⅰ03-08]수학적 귀납법을 이용하여 명제를 증명할 수 있다.",
-    "crumbs": [
-      "수학I",
-      "교육과정"
-    ]
-  },
-  {
-    "objectID": "posts/I/sequence/learning_objective.html",
-    "href": "posts/I/sequence/learning_objective.html",
-    "title": "학습목표",
-    "section": "",
-    "text": "수열\n수열은 규칙적으로 나열된 수로 나타낼 수 있는 현상을 탐구하는 데 유용한 함수이다. 수열을 통해 자연 현상이나 사회 현상에 내재되어 있는 다양한 규칙성을 찾아 일반화된 식으로 표현하고 수학적으로 정당화함으로써 수학의 유용성과 가치를 경험하고 귀납적 추론 능력과 연역적 추론 능력을 기를 수 있다.\n\n1. 등차수열과 등비수열\n\n[12수학Ⅰ03-01]수열의 뜻을 안다.\n[12수학Ⅰ03-02]등차수열의 뜻을 알고, 일반항, 첫째항부터 제\\(n\\)항까지의 합을 구할 수 있다.\n[12수학Ⅰ03-03]등비수열의 뜻을 알고, 일반항, 첫째항부터 제\\(n\\)항까지의 합을 구할 수 있다.\n\n\n\n2. 수열의 합\n\n[12수학Ⅰ03-04]\\(\\Sigma\\)의 뜻을 알고, 그 성질을 이해하고, 이를 활용할 수 있다.\n[12수학Ⅰ03-05]여러 가지 수열의 첫째항부터 제\\(n\\)항까지의 합을 구할 수 있다.\n\n\n\n3. 수학적 귀납법\n\n[12수학Ⅰ03-06]수열의 귀납적 정의를 이해한다.\n[12수학Ⅰ03-07]수학적 귀납법의 원리를 이해한다.\n[12수학Ⅰ03-08]수학적 귀납법을 이용하여 명제를 증명할 수 있다.\n\n\n\n\n학습요소\n\n수열\n항\n일반항\n공차\n등차수열\n등차중항\n공비\n등비수열\n등비중항\n귀납적 정의\n수학적 귀납법\n\\(a_n\\)\n\\({a_n}\\)\n\\[\\sum_{k=1}^n a_k\\]\n\n\n\n교수･학습 방법 및 유의 사항\n\n여러 가지 수열의 합에서는 자연수의 거듭제곱의 합 \\[ \\sum_{k=1}^n k,\\sum_{k=1}^n k^2, \\sum_{k=1}^n k^3 \\] 과 수열의 합이 간단한 것만 다룬다.\n수열과 관련된 여러 가지 문제를 귀납적으로 표현할 수 있게 하고, 귀납적으로 정의된 수열의 일반항을 구하는 문제는 다루지 않는다.\n수학적 귀납법에 의한 증명은 원리를 이해할 수 있는 정도로 간단하게 다룬다.\n수학적 귀납법은 자연수 \\(n\\)에 대한 명제의 증명 방법으로서 그 유용성과 가치를 인식하게 한다.\n\\(S_{n}\\) 기호는 교수･학습 상황에서 사용할 수 있다.\n\n\n\n평가 방법 및 유의 사항\n\n등비수열과 그 합을 이용하여 문제를 해결할 수 있는 능력을 평가할 때, 연금의 일시 지급이나 대출금 상환 등과 같이 지나치게 복잡한 상황을 포함하는 문제는 다루지 않는다.",
-    "crumbs": [
-      "수학I",
-      "수열",
-      "학습목표"
-    ]
-  },
-  {
-    "objectID": "posts/II/curriculum.html",
-    "href": "posts/II/curriculum.html",
-    "title": "중2수학",
-    "section": "",
-    "text": "[9수01-06]순환소수의 뜻을 알고, 유리수와 순환소수의 관계를 이해한다.",
-    "crumbs": [
-      "수학II",
-      "중2수학"
-    ]
-  },
-  {
-    "objectID": "posts/II/curriculum.html#유리수와-순환소수",
-    "href": "posts/II/curriculum.html#유리수와-순환소수",
-    "title": "중2수학",
-    "section": "",
-    "text": "[9수01-06]순환소수의 뜻을 알고, 유리수와 순환소수의 관계를 이해한다.",
-    "crumbs": [
-      "수학II",
-      "중2수학"
-    ]
-  },
-  {
-    "objectID": "posts/II/curriculum.html#문자와-식",
-    "href": "posts/II/curriculum.html#문자와-식",
-    "title": "중2수학",
-    "section": "문자와 식",
-    "text": "문자와 식\n\n문자의 사용과 식의 계산 [9수02-01]다양한 상황을 문자를 사용한 식으로 나타낼 수 있다. [9수02-02]식의 값을 구할 수 있다. [9수02-03]일차식의 덧셈과 뺄셈의 원리를 이해하고, 그 계산을 할 수 있다.\n일차방정식 [9수02-04]방정식과 그 해의 의미를 알고, 등식의 성질을 이해한다. [9수02-05]일차방정식을 풀 수 있고, 이를 활용하여 문제를 해결할 수 있다.\n식의 계산 [9수02-06]지수법칙을 이해한다. [9수02-07]다항식의 덧셈과 뺄셈의 원리를 이해하고, 그 계산을 할 수 있다. [9수02-08]‘(단항식)×(다항식)’, ’(다항식)÷(단항식)’과 같은 곱셈과 나눗셈의 원리를 이해하고, 그 계산을 할 수 있다.\n일차부등식과 연립일차방정식 [9수02-09]부등식과 그 해의 의미를 알고, 부등식의 성질을 이해한다. [9수02-10]일차부등식을 풀 수 있고, 이를 활용하여 문제를 해결할 수 있다. [9수02-11]미지수가 2개인 연립일차방정식을 풀 수 있고, 이를 활용하여 문제를 해결할 수 있다.\n다항식의 곱셈과 인수분해 [9수02-12]다항식의 곱셈과 인수분해를 할 수 있다.\n이차방정식 [9수02-13]이차방정식을 풀 수 있고, 이를 활용하여 문제를 해결할 수 있다.",
-    "crumbs": [
-      "수학II",
-      "중2수학"
-    ]
-  },
-  {
-    "objectID": "posts/II/curriculum.html#함수",
-    "href": "posts/II/curriculum.html#함수",
-    "title": "중2수학",
-    "section": "함수",
-    "text": "함수\n\n좌표평면과 그래프 [9수03-01]순서쌍과 좌표를 이해한다. [9수03-02]다양한 상황을 그래프로 나타내고, 주어진 그래프를 해석할 수 있다. [9수03-03]정비례, 반비례 관계를 이해하고, 그 관계를 표, 식, 그래프로 나타낼 수 있다.\n일차함수와 그래프 [9수03-04]함수의 개념을 이해한다. [9수03-05]일차함수의 의미를 이해하고, 그 그래프를 그릴 수 있다. [9수03-06]일차함수의 그래프의 성질을 이해하고, 이를 활용하여 문제를 해결할 수 있다.\n일차함수와 일차방정식의 관계 [9수03-07]일차함수와 미지수가 2개인 일차방정식의 관계를 이해한다. [9수03-08]두 일차함수의 그래프와 연립일차방정식의 관계를 이해한다.\n이차함수와 그래프 [9수03-09]이차함수의 의미를 이해하고, 그 그래프를 그릴 수 있다. [9수03-10]이차함수의 그래프의 성질을 이해한다.",
-    "crumbs": [
-      "수학II",
-      "중2수학"
-    ]
-  },
-  {
-    "objectID": "posts/II/curriculum.html#도형의-성질",
-    "href": "posts/II/curriculum.html#도형의-성질",
-    "title": "중2수학",
-    "section": "도형의 성질",
-    "text": "도형의 성질\n\n기본 도형 [9수04-01]점, 선, 면, 각을 이해하고, 점, 직선, 평면의 위치 관계를 설명할 수 있다. [9수04-02]평행선에서 동위각과 엇각의 성질을 이해한다.\n작도와 합동 [9수04-03]삼각형을 작도할 수 있다. [9수04-04]삼각형의 합동 조건을 이해하고, 이를 이용하여 두 삼각형이 합동인지 판별할 수 있다.\n평면도형의 성질 [9수04-05]다각형의 성질을 이해한다. [9수04-06]부채꼴의 중심각과 호의 관계를 이해하고, 이를 이용하여 부채꼴의 넓이와 호의 길이를 구할 수 있다.\n입체도형의 성질 [9수04-07]다면체의 성질을 이해한다. [9수04-08]회전체의 성질을 이해한다. [9수04-09]입체도형의 겉넓이와 부피를 구할 수 있다.\n삼각형과 사각형의 성질 [9수04-10]이등변삼각형의 성질을 이해하고 설명할 수 있다. [9수04-11]삼각형의 외심과 내심의 성질을 이해하고 설명할 수 있다. [9수04-12]사각형의 성질을 이해하고 설명할 수 있다.",
-    "crumbs": [
-      "수학II",
-      "중2수학"
-    ]
-  },
-  {
-    "objectID": "posts/II/curriculum.html#도형의-닮음",
-    "href": "posts/II/curriculum.html#도형의-닮음",
-    "title": "중2수학",
-    "section": "도형의 닮음",
-    "text": "도형의 닮음\n[9수04-13]도형의 닮음의 의미와 닮은 도형의 성질을 이해한다. [9수04-14]삼각형의 닮음 조건을 이해하고, 이를 이용하여 두 삼각형이 닮음인지 판별할 수 있다. [9수04-15]평행선 사이의 선분의 길이의 비를 구할 수 있다.",
-    "crumbs": [
-      "수학II",
-      "중2수학"
-    ]
-  },
-  {
-    "objectID": "posts/II/curriculum.html#피타고라스-정리",
-    "href": "posts/II/curriculum.html#피타고라스-정리",
-    "title": "중2수학",
-    "section": "피타고라스 정리",
-    "text": "피타고라스 정리\n[9수04-16]피타고라스 정리를 이해하고 설명할 수 있다. 8. 삼각비 [9수04-17]삼각비의 뜻을 알고, 간단한 삼각비의 값을 구할 수 있다. [9수04-18]삼각비를 활용하여 여러 가지 문제를 해결할 수 있다. 9. 원의 성질 [9수04-19]원의 현에 관한 성질과 접선에 관한 성질을 이해한다. [9수04-20]원주각의 성질을 이해한다.\n\n확률과 통계\n\n자료의 정리와 해석 [9수05-01]자료를 줄기와 잎 그림, 도수분포표, 히스토그램, 도수분포다각형으로 나타내고 해석할 수 있다. [9수05-02]상대도수를 구하며, 이를 그래프로 나타내고, 상대도수의 분포를 이해한다. [9수05-03]공학적 도구를 이용하여 실생활과 관련된 자료를 수집하고 표나 그래프로 정리하고 해석할 수 있다.\n확률과 그 기본 성질 [9수05-04]경우의 수를 구할 수 있다. [9수05-05]확률의 개념과 그 기본 성질을 이해하고, 확률을 구할 수 있다.\n대푯값과 산포도 [9수05-06]중앙값, 최빈값, 평균의 의미를 이해하고, 이를 구할 수 있다. [9수05-07]분산과 표준편차의 의미를 이해하고, 이를 구할 수 있다.\n상관관계 [9수05-08]자료를 산점도로 나타내고, 이를 이용하여 상관관계를 말할 수 있다.",
-    "crumbs": [
-      "수학II",
-      "중2수학"
-    ]
-  },
-  {
-    "objectID": "posts/middle1/number_operation/greatest_common_divisor.html",
-    "href": "posts/middle1/number_operation/greatest_common_divisor.html",
-    "title": "최대공약수 연습문제",
-    "section": "",
-    "text": "문제1.\n문제2.",
-    "crumbs": [
-      "중1수학",
-      "수와 연산",
-      "최대공약수 연습문제"
-    ]
-  },
-  {
-    "objectID": "posts/middle1/number_operation/greatest_common_divisor.html#문제3.",
-    "href": "posts/middle1/number_operation/greatest_common_divisor.html#문제3.",
-    "title": "최대공약수 연습문제",
-    "section": "문제3.",
-    "text": "문제3.\n\n\n\n\n\n\n최대공약수의 정의를 말하고, 18과 24의 최대공약수를 구하시오\n\n\n\n\n\n답= 공약수 중 가장 큰 수\n\\[\n\\begin{array}{l}\n2 \\underline{) \\, 18 \\quad 24} \\\\\n3 \\underline{) \\, \\hspace{0.2cm}9 \\quad 12} \\\\\n\\phantom{3)} \\, \\hspace{0.2cm} 3 \\quad 4\n\\end{array}\n\\] 위의 식에서 2와 3의 곱이 최대공약수가 되어 \\(2 \\times 3 =6\\)이 됩니다.",
-    "crumbs": [
-      "중1수학",
-      "수와 연산",
-      "최대공약수 연습문제"
-    ]
-  },
-  {
-    "objectID": "posts/middle1/number_operation/greatest_common_divisor.html#문제4.",
-    "href": "posts/middle1/number_operation/greatest_common_divisor.html#문제4.",
-    "title": "최대공약수 연습문제",
-    "section": "문제4.",
-    "text": "문제4.\n\n\n\n\n\n\n모든 소인수는 약수이지만, 모든 약수는 소인수가 아니다. 맞으면 O, 틀리면 X 하시오\n\n\n\n\n\n답= O",
-    "crumbs": [
-      "중1수학",
-      "수와 연산",
-      "최대공약수 연습문제"
-    ]
-  },
-  {
-    "objectID": "posts/middle1/number_operation/least_common_multiple.html",
-    "href": "posts/middle1/number_operation/least_common_multiple.html",
-    "title": "최소공배수 연습문제",
-    "section": "",
-    "text": "문제1.\n\n\n\n\n\n\n공배수의 정의를 말하고 18과 24의 최소공배수를 구하시오.\n\n\n\n\n\n답= 공배수란 두 정수 a, b의 배수 중 공통된 배수를 말합니다.\n\\[\n\\begin{array}{l}\n2 \\underline{) \\, 18 \\quad 24} \\\\\n3 \\underline{) \\, \\hspace{0.2cm}9 \\quad 12} \\\\\n\\phantom{3)} \\, \\hspace{0.2cm} 3 \\quad 4\n\\end{array}\n\\] 최소공배수는 나눗셈 과정에 사용된 소인수와 남은 수를 모두 곱합니다. 따라서, \\(2 \\times 3 \\times 3 \\times 4 = 72\\)입니다.",
-    "crumbs": [
-      "중1수학",
-      "수와 연산",
-      "최소공배수 연습문제"
-    ]
-  },
-  {
-    "objectID": "posts/middle2/curriculum.html",
-    "href": "posts/middle2/curriculum.html",
-    "title": "교육과정",
-    "section": "",
-    "text": "[9수01-06]순환소수의 뜻을 알고, 유리수와 순환소수의 관계를 이해한다.\n\n\n\n\n\n\n\n[9수02-06]지수법칙을 이해한다. [9수02-07]다항식의 덧셈과 뺄셈의 원리를 이해하고, 그 계산을 할 수 있다. [9수02-08]‘(단항식)×(다항식)’, ’(다항식)÷(단항식)’과 같은 곱셈과 나눗셈의 원리를 이해하고, 그 계산을 할 수 있다.\n\n\n\n[9수02-09]부등식과 그 해의 의미를 알고, 부등식의 성질을 이해한다. [9수02-10]일차부등식을 풀 수 있고, 이를 활용하여 문제를 해결할 수 있다. [9수02-11]미지수가 2개인 연립일차방정식을 풀 수 있고, 이를 활용하여 문제를 해결할 수 있다.\n\n\n\n\n\n\n\n[9수03-04]함수의 개념을 이해한다.\n[9수03-05]일차함수의 의미를 이해하고, 그 그래프를 그릴 수 있다.\n[9수03-06]일차함수의 그래프의 성질을 이해하고, 이를 활용하여 문제를 해결할 수 있다.\n\n\n\n\n\n[9수03-07]일차함수와 미지수가 2개인 일차방정식의 관계를 이해한다.\n[9수03-08]두 일차함수의 그래프와 연립일차방정식의 관계를 이해한다.\n\n\n\n\n\n\n\n\n[9수04-05]다각형의 성질을 이해한다.\n[9수04-06]부채꼴의 중심각과 호의 관계를 이해하고, 이를 이용하여 부채꼴의 넓이와 호의 길이를 구할 수 있다.\n\n\n\n\n\n[9수04-07]다면체의 성질을 이해한다.\n[9수04-08]회전체의 성질을 이해한다.\n[9수04-09]입체도형의 겉넓이와 부피를 구할 수 있다.\n\n\n\n\n\n[9수04-10]이등변삼각형의 성질을 이해하고 설명할 수 있다.\n[9수04-11]삼각형의 외심과 내심의 성질을 이해하고 설명할 수 있다.\n[9수04-12]사각형의 성질을 이해하고 설명할 수 있다.\n\n\n\n\n\n[9수04-13]도형의 닮음의 의미와 닮은 도형의 성질을 이해한다.\n[9수04-14]삼각형의 닮음 조건을 이해하고, 이를 이용하여 두 삼각형이 닮음인지 판별할 수 있다.\n[9수04-15]평행선 사이의 선분의 길이의 비를 구할 수 있다.\n\n\n\n\n\n[9수04-16]피타고라스 정리를 이해하고 설명할 수 있다.\n\n\n\n\n\n\n\n\n[9수05-04]경우의 수를 구할 수 있다.\n[9수05-05]확률의 개념과 그 기본 성질을 이해하고, 확률을 구할 수 있다.",
-    "crumbs": [
-      "중2수학",
-      "교육과정"
-    ]
-  },
-  {
-    "objectID": "posts/middle2/curriculum.html#중2과정",
-    "href": "posts/middle2/curriculum.html#중2과정",
-    "title": "교육과정",
-    "section": "",
-    "text": "[9수01-06]순환소수의 뜻을 알고, 유리수와 순환소수의 관계를 이해한다.\n\n\n\n\n\n\n\n[9수02-06]지수법칙을 이해한다. [9수02-07]다항식의 덧셈과 뺄셈의 원리를 이해하고, 그 계산을 할 수 있다. [9수02-08]‘(단항식)×(다항식)’, ’(다항식)÷(단항식)’과 같은 곱셈과 나눗셈의 원리를 이해하고, 그 계산을 할 수 있다.\n\n\n\n[9수02-09]부등식과 그 해의 의미를 알고, 부등식의 성질을 이해한다. [9수02-10]일차부등식을 풀 수 있고, 이를 활용하여 문제를 해결할 수 있다. [9수02-11]미지수가 2개인 연립일차방정식을 풀 수 있고, 이를 활용하여 문제를 해결할 수 있다.\n\n\n\n\n\n\n\n[9수03-04]함수의 개념을 이해한다.\n[9수03-05]일차함수의 의미를 이해하고, 그 그래프를 그릴 수 있다.\n[9수03-06]일차함수의 그래프의 성질을 이해하고, 이를 활용하여 문제를 해결할 수 있다.\n\n\n\n\n\n[9수03-07]일차함수와 미지수가 2개인 일차방정식의 관계를 이해한다.\n[9수03-08]두 일차함수의 그래프와 연립일차방정식의 관계를 이해한다.\n\n\n\n\n\n\n\n\n[9수04-05]다각형의 성질을 이해한다.\n[9수04-06]부채꼴의 중심각과 호의 관계를 이해하고, 이를 이용하여 부채꼴의 넓이와 호의 길이를 구할 수 있다.\n\n\n\n\n\n[9수04-07]다면체의 성질을 이해한다.\n[9수04-08]회전체의 성질을 이해한다.\n[9수04-09]입체도형의 겉넓이와 부피를 구할 수 있다.\n\n\n\n\n\n[9수04-10]이등변삼각형의 성질을 이해하고 설명할 수 있다.\n[9수04-11]삼각형의 외심과 내심의 성질을 이해하고 설명할 수 있다.\n[9수04-12]사각형의 성질을 이해하고 설명할 수 있다.\n\n\n\n\n\n[9수04-13]도형의 닮음의 의미와 닮은 도형의 성질을 이해한다.\n[9수04-14]삼각형의 닮음 조건을 이해하고, 이를 이용하여 두 삼각형이 닮음인지 판별할 수 있다.\n[9수04-15]평행선 사이의 선분의 길이의 비를 구할 수 있다.\n\n\n\n\n\n[9수04-16]피타고라스 정리를 이해하고 설명할 수 있다.\n\n\n\n\n\n\n\n\n[9수05-04]경우의 수를 구할 수 있다.\n[9수05-05]확률의 개념과 그 기본 성질을 이해하고, 확률을 구할 수 있다.",
-    "crumbs": [
-      "중2수학",
-      "교육과정"
-    ]
-  },
-  {
-    "objectID": "posts/middle2/curriculum.html#중학교-전체과정",
-    "href": "posts/middle2/curriculum.html#중학교-전체과정",
-    "title": "교육과정",
-    "section": "중학교 전체과정",
-    "text": "중학교 전체과정\n\n1. 수와 연산\n수는 방정식의 해의 존재를 보장하기 위해 정수, 유리수, 실수 등으로 확장되고, 각각의 수체계에서 사칙계산이 정의되고 연산의 성질이 일관되게 성립한다. 수는 수학에서 다루는 가장 기본적인 개념으로, 실생활뿐 아니라 타 교과나 수학의 다른 영역을 학습하는 데 필수적이다. 또한 수의 연산은 수학 학습에서 습득해야 할 가장 기본적인 기능 중 하나로, 이후 학습을 위한 기초가 된다.\n\n소인수분해\n\n[9수01-01]소인수분해의 뜻을 알고, 자연수를 소인수분해할 수 있다.\n[9수01-02]최대공약수와 최소공배수의 성질을 이해하고, 이를 구할 수 있다.\n\n\n\n정수와 유리수\n\n[9수01-03]양수와 음수, 정수와 유리수의 개념을 이해한다.\n[9수01-04]정수와 유리수의 대소 관계를 판단할 수 있다.\n[9수01-05]정수와 유리수의 사칙계산의 원리를 이해하고, 그 계산을 할 수 있다.\n\n\n\n유리수와 순환소수\n\n[9수01-06]순환소수의 뜻을 알고, 유리수와 순환소수의 관계를 이해한다.\n\n\n\n제곱근과 실수\n\n[9수01-07]제곱근의 뜻을 알고, 그 성질을 이해한다.\n[9수01-08]무리수의 개념을 이해한다.\n[9수01-09]실수의 대소 관계를 판단할 수 있다.\n[9수01-10]근호를 포함한 식의 사칙계산을 할 수 있다.\n\n\n\n\n2. 문자와 식\n문자는 수량 관계를 명확하고 간결하게 표현하는 수학적 언어이다. 문자를 통해 수량 사이의 관계를 일반화함으로써 산술에서 대수로 이행하며, 수에 대한 사칙연산과 소인수분해는 다항식으로 확장되어 적용된다. 또한 방정식과 부등식은 양 사이의 관계를 나타내며, 적절한 절차를 따라 이를 만족시키는 해를 구할 수 있다. 문자는 수학적 의사소통을 원활히 할 수 있도록 도와주고, 문자를 이용한 방정식과 부등식은 여러 가지 문제를 해결하는 중요한 도구가 된다.\n\n문자의 사용과 식의 계산\n\n[9수02-01]다양한 상황을 문자를 사용한 식으로 나타낼 수 있다.\n[9수02-02]식의 값을 구할 수 있다.\n[9수02-03]일차식의 덧셈과 뺄셈의 원리를 이해하고, 그 계산을 할 수 있다.\n\n\n\n일차방정식\n[9수02-04]방정식과 그 해의 의미를 알고, 등식의 성질을 이해한다. [9수02-05]일차방정식을 풀 수 있고, 이를 활용하여 문제를 해결할 수 있다.\n\n\n식의 계산\n[9수02-06]지수법칙을 이해한다. [9수02-07]다항식의 덧셈과 뺄셈의 원리를 이해하고, 그 계산을 할 수 있다. [9수02-08]‘(단항식)×(다항식)’, ’(다항식)÷(단항식)’과 같은 곱셈과 나눗셈의 원리를 이해하고, 그 계산을 할 수 있다.\n\n\n일차부등식과 연립일차방정식\n[9수02-09]부등식과 그 해의 의미를 알고, 부등식의 성질을 이해한다. [9수02-10]일차부등식을 풀 수 있고, 이를 활용하여 문제를 해결할 수 있다. [9수02-11]미지수가 2개인 연립일차방정식을 풀 수 있고, 이를 활용하여 문제를 해결할 수 있다.\n\n\n다항식의 곱셈과 인수분해\n[9수02-12]다항식의 곱셈과 인수분해를 할 수 있다.\n\n\n이차방정식\n[9수02-13]이차방정식을 풀 수 있고, 이를 활용하여 문제를 해결할 수 있다.\n\n\n\n3. 함수\n변화하는 양 사이의 관계를 나타내는 함수는 대응과 종속의 의미를 포함하며, 그래프는 함수를 시각적으로 표현하는 도구이다. 여러 가지 현상에서 관찰할 수 있는 규칙 중에는 한 값이 변하면 다른 값도 일정한 규칙에 따라 변하는 것들이 많이 있다. 함수는 다양한 변화 현상 속의 수학적 관계를 이해하고 표현함으로써 여러 가지 문제를 해결하는 데 도움이 된다.\n\n좌표평면과 그래프\n\n[9수03-01]순서쌍과 좌표를 이해한다.\n[9수03-02]다양한 상황을 그래프로 나타내고, 주어진 그래프를 해석할 수 있다.\n[9수03-03]정비례, 반비례 관계를 이해하고, 그 관계를 표, 식, 그래프로 나타낼 수 있다.\n\n\n\n일차함수와 그래프\n\n[9수03-04]함수의 개념을 이해한다.\n[9수03-05]일차함수의 의미를 이해하고, 그 그래프를 그릴 수 있다.\n[9수03-06]일차함수의 그래프의 성질을 이해하고, 이를 활용하여 문제를 해결할 수 있다.\n\n\n\n일차함수와 일차방정식의 관계\n\n[9수03-07]일차함수와 미지수가 2개인 일차방정식의 관계를 이해한다.\n[9수03-08]두 일차함수의 그래프와 연립일차방정식의 관계를 이해한다.\n\n\n\n이차함수와 그래프\n\n[9수03-09]이차함수의 의미를 이해하고, 그 그래프를 그릴 수 있다.\n[9수03-10]이차함수의 그래프의 성질을 이해한다.\n\n\n\n\n4. 기하\n주변의 형태는 여러 가지 평면도형이나 입체도형으로 범주화 되고, 각각의 평면도형이나 입체도형은 고유한 성질을 갖는다. 평면도형이나 입체도형의 성질에 대한 이해는 다양한 분야의 실생활 문제를 해결하는 데 기초가 되며, 수학의 다른 영역의 개념과 밀접하게 관련되어 있다. 도형의 성질을 정당화하는 과정에서 요구되는 연역적 추론은 수학적 소양을 기르는 데 도움이 된다.\n\n기본 도형\n\n[9수04-01]점, 선, 면, 각을 이해하고, 점, 직선, 평면의 위치 관계를 설명할 수 있다.\n[9수04-02]평행선에서 동위각과 엇각의 성질을 이해한다.\n\n\n\n작도와 합동\n\n[9수04-03]삼각형을 작도할 수 있다.\n[9수04-04]삼각형의 합동 조건을 이해하고, 이를 이용하여 두 삼각형이 합동인지 판별할 수 있다.\n\n\n\n평면도형의 성질\n\n[9수04-05]다각형의 성질을 이해한다.\n[9수04-06]부채꼴의 중심각과 호의 관계를 이해하고, 이를 이용하여 부채꼴의 넓이와 호의 길이를 구할 수 있다.\n\n\n\n입체도형의 성질\n\n[9수04-07]다면체의 성질을 이해한다.\n[9수04-08]회전체의 성질을 이해한다.\n[9수04-09]입체도형의 겉넓이와 부피를 구할 수 있다.\n\n\n\n삼각형과 사각형의 성질\n\n[9수04-10]이등변삼각형의 성질을 이해하고 설명할 수 있다.\n[9수04-11]삼각형의 외심과 내심의 성질을 이해하고 설명할 수 있다.\n[9수04-12]사각형의 성질을 이해하고 설명할 수 있다.\n\n\n\n도형의 닮음\n\n[9수04-13]도형의 닮음의 의미와 닮은 도형의 성질을 이해한다.\n[9수04-14]삼각형의 닮음 조건을 이해하고, 이를 이용하여 두 삼각형이 닮음인지 판별할 수 있다.\n[9수04-15]평행선 사이의 선분의 길이의 비를 구할 수 있다.\n\n\n\n피타고라스 정리\n\n[9수04-16]피타고라스 정리를 이해하고 설명할 수 있다.\n\n\n\n삼각비\n\n[9수04-17]삼각비의 뜻을 알고, 간단한 삼각비의 값을 구할 수 있다.\n[9수04-18]삼각비를 활용하여 여러 가지 문제를 해결할 수 있다.\n\n\n\n원의 성질\n\n[9수04-19]원의 현에 관한 성질과 접선에 관한 성질을 이해한다.\n[9수04-20]원주각의 성질을 이해한다.\n\n\n\n\n5. 확률과 통계\n사건이 일어날 가능성을 수치화한 확률, 그리고 자료를 수집, 정리, 해석하는 통계는 현대 정보화 사회의 불확실성을 이해하는 중요한 도구이다. 다양한 자료를 수집, 정리, 해석하고, 확률을 이해함으로써, 미래를 예측하고 합리적인 의사 결정을 하는 민주 시민으로서의 기본 소양을 기를 수 있다.\n\n자료의 정리와 해석\n\n[9수05-01]자료를 줄기와 잎 그림, 도수분포표, 히스토그램, 도수분포다각형으로 나타내고 해석할 수 있다.\n[9수05-02]상대도수를 구하며, 이를 그래프로 나타내고, 상대도수의 분포를 이해한다.\n[9수05-03]공학적 도구를 이용하여 실생활과 관련된 자료를 수집하고 표나 그래프로 정리하고 해석할 수 있다.\n\n\n\n확률과 그 기본 성질\n\n[9수05-04]경우의 수를 구할 수 있다.\n[9수05-05]확률의 개념과 그 기본 성질을 이해하고, 확률을 구할 수 있다.\n\n\n\n대푯값과 산포도\n\n[9수05-06]중앙값, 최빈값, 평균의 의미를 이해하고, 이를 구할 수 있다.\n[9수05-07]분산과 표준편차의 의미를 이해하고, 이를 구할 수 있다.\n\n\n\n상관관계\n\n[9수05-08]자료를 산점도로 나타내고, 이를 이용하여 상관관계를 말할 수 있다.",
-    "crumbs": [
-      "중2수학",
-      "교육과정"
-    ]
-  },
-  {
-    "objectID": "posts/middle2/exponent/curriculum.html",
-    "href": "posts/middle2/exponent/curriculum.html",
-    "title": "지수/로그 학습목표",
-    "section": "",
-    "text": "지수와 로그\n\n거듭제곱과 거듭제곱근의 뜻을 알고, 그 성질을 이해한다.\n지수가 유리수, 실수까지 확장될 수 있음을 이해한다.\n지수법칙을 이해하고, 이를 이용하여 식을 간단히 나타낼 수 있다.\n로그의 뜻을 알고, 그 성질을 이해한다.\n상용로그를 이해하고, 이를 활용할 수 있다.\n\n\n\n지수함수와 로그함수\n\n지수함수와 로그함수의 뜻을 안다.\n지수함수와 로그함수의 그래프를 그릴 수 있고, 그 성질을 이해한다.\n지수함수와 로그함수를 활용하여 문제를 해결할 수 있다.\n\n\n\n교수･학습 및 평가 방법 유의사항\n\n지수가 유리수 및 실수인 경우는 밑이 양수인 조건이 필요함을 이해하게 한다.\n지수가 실수인 경우는 직관적으로 다룬다.\n로그의 성질은 지수의 성질과 관련지어 이해하게 한다.\n지수함수와 로그함수는 역함수 관계임을 그래프를 통해 확인하게 한다.\n지수와 로그 및 지수함수와 로그함수를 다룰 때 공학적 도구를 이용할 수 있다.\n구체적인 자연 현상이나 사회 현상을 지수함수와 로그함수로 표현하고 이 과정에서 나타나는 간단한 방정식과 부등식을 풀어 문제를 해결해봄으로써 지수함수와 로그함수의 유용성과 가치를 인식하게 한다.\n지수와 로그의 성질에 대한 평가에서는 지수와 로그의 기본 성질을 이해하고 활용할 수 있는 능력을 평가하는 데 중점을 두고, 지나치게 복잡한 계산을 포함하는 문제는 다루지 않는다.",
-    "crumbs": [
-      "중2수학",
-      "문자와식",
-      "지수법칙",
-      "지수/로그 학습목표"
+      "지수의법칙 연습5"
     ]
   },
   {
@@ -1418,29 +394,967 @@
     ]
   },
   {
-    "objectID": "posts/middle2/exponent/exercise5.html",
-    "href": "posts/middle2/exponent/exercise5.html",
-    "title": "지수의법칙 연습5",
+    "objectID": "posts/middle2/curriculum.html",
+    "href": "posts/middle2/curriculum.html",
+    "title": "교육과정",
     "section": "",
-    "text": "문제1.\n\n\n\n\n\n\n\\(\\frac{2^4 \\times 3^{-2}}{6^3} = ?\\)\n\n\n\n\n\n답= \\(\\frac{2}{3^4}\\)\n풀이: \\(\\frac{2^4 \\times 3^{-2}}{6^3} = \\frac{2^4 \\times 3^{-2}}{2^3 \\times 3^3} = \\frac{2}{3^5}\\)\n\n\n\n문제2.\n\n\n\n\n\n\n\\(\\left(5^{-2} \\times 2^3\\right) \\div 10^1 = ?\\)\n\n\n\n\n\n답= \\(2^2 \\times 5^{-3}\\)\n풀이: \\(\\left(5^{-2} \\times 2^3\\right) \\div 10^1 = \\frac{5^{-2} \\times 2^3}{10^1} = \\frac{5^{-2} \\times 2^3}{5^1 \\times 2^1} = \\frac{2^2}{5^3}\\)\n\n\n\n문제3.\n\n\n\n\n\n\n\\(\\frac{x^{-1} \\times z^2}{y^{-3} \\times z^{-1}} = ?\\)\n\n\n\n\n\n답= \\(\\frac{y^3 \\times z^3}{x}\\)\n풀이: \\(\\frac{x^{-1} \\times z^2}{y^{-3} \\times z^{-1}} = \\frac{y^3 \\times z^3}{x}\\)\n\n\n\n문제4.\n\n\n\n\n\n\n\\(\\left(\\frac{3^2}{4^{-1}}\\right)^{-1} \\div 2^{-3} = ?\\)\n\n\n\n\n\n답= \\(\\frac{2^5}{3^2}\\)\n풀이: \\(\\left(\\frac{3^2}{4^{-1}}\\right)^{-1} \\div 2^{-3} = \\frac{4}{3^2} \\times 2^3 = \\frac{2^2}{3^2} \\times 2^3 =  \\frac{2^5}{3^2}\\)\n\n\n\n문제5.\n\n\n\n\n\n\n\\(\\frac{(2^{-3})^2 \\times 3^3}{6^{-1}} = ?\\)\n\n\n\n\n\n답= \\(\\frac{3^4}{2^5}\\)\n풀이: \\(\\frac{(2^{-3})^2 \\times 3^3}{6^{-1}} = \\frac{2^{-6} \\times 3^3}{2^{-1} \\times 3^{-1}} = \\frac{3^4}{2^5}\\)\n\n\n\n문제6.\n\n\n\n\n\n\n\\(\\frac{a^3 \\times b^{-2}}{a^{-1} \\times b^4} = ?\\)\n\n\n\n\n\n답= \\(\\frac{a^4}{b^6}\\)\n풀이: \\(\\frac{a^3 \\times b^{-2}}{a^{-1} \\times b^4} = \\frac{a^4}{b^6}\\)\n\n\n\n문제7.\n\n\n\n\n\n\n\\(\\left(\\frac{3^0 \\times 5^{-2}}{2^3}\\right)^2 = ?\\)\n\n\n\n\n\n답= \\(\\frac{1}{2^6 \\times 5^4}\\)\n풀이: \\(\\left(\\frac{3^0 \\times 5^{-2}}{2^3}\\right)^2 = \\frac{1 \\times 5^{-4}}{2^{6}} = \\frac{1}{2^6 \\times 5^4}\\)\n\n\n\n문제8.\n\n\n\n\n\n\n\\(\\frac{10^{-3} \\times 5^2}{2^{-1} \\times 25^{-1}} = ?\\)\n\n\n\n\n\n답= \\(\\frac{5}{2^2}\\)\n풀이: \\(\\frac{10^{-3} \\times 5^2}{2^{-1} \\times 25^{-1}} = \\frac{2^{-3} \\times 5^{-3} \\times 5^2}{2^{-1} \\times 5^{-2}} = \\frac{5}{2^2}\\)\n\n\n\n문제9.\n\n\n\n\n\n\n\\(\\left(\\frac{4^3}{3^2}\\right)^{-2} \\div 16^2 = ?\\)\n\n\n\n\n\n답= \\(\\frac{3^4}{2^{20}}\\)\n풀이: \\(\\left(\\frac{4^3}{3^2}\\right)^{-2} \\div 16^2 = \\frac{3^4}{4^6} \\times \\frac{1}{16^2} = \\frac{3^4}{4^{10}}=\\frac{3^4}{2^{20}}\\)\n\n\n\n문제10.\n\n\n\n\n\n\n\\(\\frac{3^3 \\times 2^{-3}}{6^2 \\times 9^{-1}} = ?\\)\n\n\n\n\n\n답= \\(\\frac{3^3}{2^5}\\)\n풀이: \\(\\frac{3^3 \\times 2^{-3}}{6^2 \\times 9^{-1}} = \\frac{3^3 \\times 2^{-3}}{2^2 \\times 3^2 \\times 3^{-2}} = \\frac{3^3}{2^5}\\)\n\n\n\n문제11.\n\n\n\n\n\n\n\\(\\frac{(2^2 \\times 3^{-1})^3}{4^3 \\times 3^{-2}} = ?\\)\n\n\n\n\n\n답= \\(\\frac{1}{3}\\)\n풀이: \\(\\frac{(2^2 \\times 3^{-1})^3}{4^3 \\times 3^{-2}} = \\frac{2^{6} \\times 3^{-3}}{2^6 \\times 3^{-2}} = \\frac{1}{3}\\)\n\n\n\n문제12.\n\n\n\n\n\n\n\\(\\frac{x^{-3} \\times y^2}{z^{-1}} \\times z^2 = ?\\)\n\n\n\n\n\n답= \\(\\frac{y^2 \\times z^3}{x^3}\\)\n풀이: \\(\\frac{x^{-3} \\times y^2}{z^{-1}} \\times z^2 = \\frac{y^2 \\times z^3}{x^3}\\)\n\n\n\n문제13.\n\n\n\n\n\n\n\\(\\frac{(5^0 \\times 2^{-2})}{10^{-1}} = ?\\)\n\n\n\n\n\n답= \\(\\frac{5}{2}\\)\n풀이: \\(\\frac{(5^0 \\times 2^{-2})}{10^{-1}} = \\frac{1 \\times 2^{-2}}{2^{-1} \\times 5^{-1}} = \\frac{5}{2}\\)\n\n\n\n문제14.\n\n\n\n\n\n\n\\(\\frac{(a^{-2} b^2)^3}{a^4 b^{-3}} = ?\\)\n\n\n\n\n\n답= \\(\\frac{b^9}{a^{10}}\\)\n풀이: \\(\\frac{(a^{-2} b^2)^3}{a^4 b^{-3}} = \\frac{a^{-6} b^6}{a^4 b^{-3}} = \\frac{b^9}{a^{10}}\\)\n\n\n\n문제15.\n\n\n\n\n\n\n\\(\\frac{(2^{-1})^3 \\times 4}{8^{-2}} = ?\\)\n\n\n\n\n\n답= \\(2^5\\)\n풀이: \\(\\frac{(2^{-1})^3 \\times 4}{8^{-2}} = \\frac{2^{-3} \\times 2^2}{2^{-6}} = 2^5\\)\n\n\n\n문제16.\n\n\n\n\n\n\n\\(\\frac{6^{-1} \\times 3^3}{2^3 \\times 9^{-2}} = ?\\)\n\n\n\n\n\n답= \\(\\frac{3^6}{2^4}\\)\n풀이: \\(\\frac{6^{-1} \\times 3^3}{2^3 \\times 9^{-2}} = \\frac{2^{-1} \\times 3^{-1} \\times 3^3}{2^3 \\times 3^{-4}} = \\frac{3^6}{2^4}\\)\n\n\n\n문제17.\n\n\n\n\n\n\n\\(\\frac{(2^{-2})^2 \\times 6^3}{3^4 \\times 4^{-1}} = ?\\)\n\n\n\n\n\n답= \\(\\frac{2}{3}\\)\n풀이: \\(\\frac{(2^{-2})^2 \\times 6^3}{3^4 \\times 4^{-1}} = \\frac{2^{-4} \\times 2^3 \\times 3^3}{3^4 \\times 2^{-2}} = \\frac{2}{3}\\)\n\n\n\n문제18.\n\n\n\n\n\n\n\\(\\frac{(a^{-1} b^2)^2 \\times b^{-4}}{a^2 b^{-3}} = ?\\)\n\n\n\n\n\n답= \\(\\frac{b^3}{a^4}\\)\n풀이: \\(\\frac{(a^{-1} b^2)^2 \\times b^{-4}}{a^2 b^{-3}} = \\frac{a^{-2} b^4 \\times b^{-4}}{a^2 b^{-3}} = \\frac{b^3}{a^4}\\)\n\n\n\n문제19.\n\n\n\n\n\n\n\\(\\frac{(3x^2 y^{-1})^3}{x^6 y^{-2} z^0} = ?\\)\n\n\n\n\n\n답= \\(\\frac{3^3}{y}\\)\n풀이: \\(\\frac{(3x^2 y^{-1})^3}{x^6 y^{-2} z^0} = \\frac{3^3 \\times x^6 \\times y^{-3}}{x^6 \\times y^{-2} \\times 1} = \\frac{3^3}{y}\\)\n\n\n\n문제20.\n\n\n\n\n\n\n\\(\\frac{a^{-2} \\times b^3}{a^2 \\times b^{-4}} = ?\\)\n\n\n\n\n\n답= \\(\\frac{b^7}{a^4}\\)\n풀이: \\(\\frac{a^{-2} \\times b^3}{a^2 \\times b^{-4}} = \\frac{b^7}{a^4}\\)",
+    "text": "[9수01-06]순환소수의 뜻을 알고, 유리수와 순환소수의 관계를 이해한다.\n\n\n\n\n\n\n\n[9수02-06]지수법칙을 이해한다. [9수02-07]다항식의 덧셈과 뺄셈의 원리를 이해하고, 그 계산을 할 수 있다. [9수02-08]‘(단항식)×(다항식)’, ’(다항식)÷(단항식)’과 같은 곱셈과 나눗셈의 원리를 이해하고, 그 계산을 할 수 있다.\n\n\n\n[9수02-09]부등식과 그 해의 의미를 알고, 부등식의 성질을 이해한다. [9수02-10]일차부등식을 풀 수 있고, 이를 활용하여 문제를 해결할 수 있다. [9수02-11]미지수가 2개인 연립일차방정식을 풀 수 있고, 이를 활용하여 문제를 해결할 수 있다.\n\n\n\n\n\n\n\n[9수03-04]함수의 개념을 이해한다.\n[9수03-05]일차함수의 의미를 이해하고, 그 그래프를 그릴 수 있다.\n[9수03-06]일차함수의 그래프의 성질을 이해하고, 이를 활용하여 문제를 해결할 수 있다.\n\n\n\n\n\n[9수03-07]일차함수와 미지수가 2개인 일차방정식의 관계를 이해한다.\n[9수03-08]두 일차함수의 그래프와 연립일차방정식의 관계를 이해한다.\n\n\n\n\n\n\n\n\n[9수04-05]다각형의 성질을 이해한다.\n[9수04-06]부채꼴의 중심각과 호의 관계를 이해하고, 이를 이용하여 부채꼴의 넓이와 호의 길이를 구할 수 있다.\n\n\n\n\n\n[9수04-07]다면체의 성질을 이해한다.\n[9수04-08]회전체의 성질을 이해한다.\n[9수04-09]입체도형의 겉넓이와 부피를 구할 수 있다.\n\n\n\n\n\n[9수04-10]이등변삼각형의 성질을 이해하고 설명할 수 있다.\n[9수04-11]삼각형의 외심과 내심의 성질을 이해하고 설명할 수 있다.\n[9수04-12]사각형의 성질을 이해하고 설명할 수 있다.\n\n\n\n\n\n[9수04-13]도형의 닮음의 의미와 닮은 도형의 성질을 이해한다.\n[9수04-14]삼각형의 닮음 조건을 이해하고, 이를 이용하여 두 삼각형이 닮음인지 판별할 수 있다.\n[9수04-15]평행선 사이의 선분의 길이의 비를 구할 수 있다.\n\n\n\n\n\n[9수04-16]피타고라스 정리를 이해하고 설명할 수 있다.\n\n\n\n\n\n\n\n\n[9수05-04]경우의 수를 구할 수 있다.\n[9수05-05]확률의 개념과 그 기본 성질을 이해하고, 확률을 구할 수 있다.",
     "crumbs": [
       "중2수학",
-      "문자와식",
-      "지수법칙",
-      "지수의법칙 연습5"
+      "교육과정"
     ]
   },
   {
-    "objectID": "posts/middle2/exponent/exercise7.html",
-    "href": "posts/middle2/exponent/exercise7.html",
-    "title": "지수의법칙 연습7",
+    "objectID": "posts/middle2/curriculum.html#중2과정",
+    "href": "posts/middle2/curriculum.html#중2과정",
+    "title": "교육과정",
     "section": "",
-    "text": "문제1.\n\n\n\n\n\n\n\\(\\frac{(2^3 x^{-2})^4}{(3x^{-1} y^2)^3} \\div (2xy^{-1})^{-2} = ?\\)\n\n\n\n\n\n답= \\(\\frac{2^{14}}{3^3 x^3 y^8}\\)\n풀이: \\(\\frac{(2^3 x^{-2})^4}{(3x^{-1} y^2)^3} \\div (2xy^{-1})^{-2} = \\frac{(2^3 x^{-2})^4}{(3x^{-1} y^2)^3} \\times (2xy^{-1})^2 =\\frac{2^{12} x^{-8}}{3^3 x^{-3} y^6} \\times 2^2 x^2 y^{-2} = \\frac{2^{14}}{3^3 x^3 y^8}\\)\n\n\n\n문제2.\n\n\n\n\n\n\n\\(\\frac{(5^{-1} y^2)^{-3}}{10^{-4} x^{-2}} \\div (2x^{-1} y^{-3})^2 = ?\\)\n\n\n\n\n\n답= \\(2^2 5^7 x^4\\)\n풀이: \\(\\frac{(5^{-1} y^2)^{-3}}{10^{-4} x^{-2}} \\div (2x^{-1} y^{-3})^2 = \\frac{5^3 y^{-6}}{2^{-4} 5^{-4} x^{-2}} \\times (2x^{-1} y^{-3})^{-2} = \\frac{5^3 y^{-6}}{2^{-4} 5^{-4} x^{-2}} \\times 2^{-2} x^{2} y^6 = 2^2 5^7 x^4\\)\n\n\n\n문제3.\n\n\n\n\n\n\n\\(\\frac{2^{-2} (3x^2)^{-3}}{(6x^{-1})^2} \\times (4x^3)^{-1} = ?\\)\n\n\n\n\n\n답= \\(\\frac{1}{2^6 3^5 x^7}\\)\n풀이: \\(\\frac{2^{-2} (3x^2)^{-3}}{(6x^{-1})^2} \\times (4x^3)^{-1} = \\frac{2^{-2} 3^{-3} x^{-6}}{2^2 3^2 x^{-2}} \\times 2^{-2} x^{-3} = \\frac{1}{2^6 3^5 x^7}\\)\n\n\n\n문제4.\n\n\n\n\n\n\n\\(\\frac{(a^{-3} b^2)^{-2}}{(2a^2 b^{-1})^3} \\div (4a b^3)^{-1} = ?\\)\n\n\n\n\n\n답= \\(\\frac{ab^2}{2}\\)\n풀이: \\(\\frac{(a^{-3} b^2)^{-2}}{(2a^2 b^{-1})^3} \\div (4a b^3)^{-1} = \\frac{a^6 b^{-4}}{2^3 a^6 b^{-3}} \\times 2^2 a b^3 = \\frac{ab^2}{2}\\)\n\n\n\n문제5.\n\n\n\n\n\n\n\\(\\frac{(3x^{-2} y^3)^3}{(x^{-1} y^{-1})^2} \\div (2x y^2)^4 = ?\\)\n\n\n\n\n\n답= \\(\\frac{3^3 y^{3}}{2^4 x^8}\\)\n풀이: \\(\\frac{(3x^{-2} y^3)^3}{(x^{-1} y^{-1})^2} \\div (2x y^2)^4 = \\frac{3^3 x^{-6} y^9}{x^{-2} y^{-2}} \\times 2^{-4} x^{-4} y^{-8} = \\frac{3^3 y^{3}}{2^4 x^8}\\)\n\n\n\n문제6.\n\n\n\n\n\n\n\\(\\left(\\frac{4x^3}{9y^{-2}}\\right)^{-2} \\div \\left(\\frac{x^{-2}}{3y}\\right)^3 = ?\\)\n\n\n\n\n\n답= \\(\\frac{3^7}{2^4 y}\\)\n풀이: \\((\\frac{4x^3}{9y^{-2}})^{-2} \\div (\\frac{x^{-2}}{3y})^3 = (\\frac{9y^{-2}}{4x^3})^2 \\times (\\frac{3y}{x^{-2}})^3 = \\frac{3^4 y^{-4}}{2^4 x^6} \\times \\frac{3^3 y^3}{x^{-6}} = \\frac{3^7}{2^4 y}\\)\n\n\n\n문제7.\n\n\n\n\n\n\n\\(\\frac{(2^3 a^{-2} b^3)^4}{(4a^3 b^{-1})^3} \\times (8a^{-1} b^2)^{-2} = ?\\)\n\n\n\n\n\n답= \\(\\frac{b^{11}}{a^{15}}\\)\n풀이: \\(\\frac{(2^3 a^{-2} b^3)^4}{(4a^3 b^{-1})^3} \\times (8a^{-1} b^2)^{-2} = \\frac{2^{12} a^{-8} b^{12}}{2^6 a^9 b^{-3}} \\times 2^{-6} a^2 b^{-4} = \\frac{b^{11}}{a^{15}}\\)\n\n\n\n문제8.\n\n\n\n\n\n\n\\(\\frac{(3x^{-1} y^2)^{-3}}{(9x^2 y^{-1})^2} \\div (\\frac{x^3 y}{3})^4 = ?\\)\n\n\n\n\n\n답= \\(\\frac{1}{3^{3} x^{13} y^8}\\)\n풀이: \\(\\frac{(3x^{-1} y^2)^{-3}}{(9x^2 y^{-1})^2} \\div \\left(\\frac{x^3 y}{3}\\right)^4 = \\frac{3^{-3} x^{3} y^{-6}}{3^4 x^4 y^{-2}} \\times \\frac{3^4}{x^{12} y^{4}} = \\frac{1}{3^{3} x^{13} y^8}\\)\n\n\n\n문제9.\n\n\n\n\n\n\n\\(\\frac{(2a^2 b^{-3})^3}{(4a^{-1} b)^2} \\div (8a^{-2} b^{-1})^{-2} = ?\\)\n\n\n\n\n\n답= \\(\\frac{2^5 a^4}{b^{13}}\\)\n풀이: \\(\\frac{(2a^2 b^{-3})^3}{(4a^{-1} b)^2} \\div (8a^{-2} b^{-1})^{-2} = \\frac{2^{3} a^{6} b^{-9}}{2^4 a^{-2} b^2} \\times (2^3 a^{-2} b^{-1})^2 = \\frac{2^{3} a^{6} b^{-9}}{2^4 a^{-2} b^2} \\times 2^6 a^{-4} b^{-2} = \\frac{2^5 a^4}{b^{13}}\\)\n\n\n\n문제10.\n\n\n\n\n\n\n\\(\\frac{(x^{-1} y^2 z^{-3})^2}{(z^2 x^3 y^{-1})^3} \\times \\frac{z^{-4} x^2}{y^3} = ?\\)\n\n\n\n\n\n답= \\(\\frac{y^4}{x^9 z^{16}}\\)\n풀이: \\(\\frac{(x^{-1} y^2 z^{-3})^2}{(z^2 x^3 y^{-1})^3} \\times \\frac{z^{-4} x^2}{y^3} = \\frac{x^{-2} y^4 z^{-6}}{z^6 x^9 y^{-3}} \\times \\frac{z^{-4} x^2}{y^3} = \\frac{y^4}{x^9 z^{16}}\\)",
+    "text": "[9수01-06]순환소수의 뜻을 알고, 유리수와 순환소수의 관계를 이해한다.\n\n\n\n\n\n\n\n[9수02-06]지수법칙을 이해한다. [9수02-07]다항식의 덧셈과 뺄셈의 원리를 이해하고, 그 계산을 할 수 있다. [9수02-08]‘(단항식)×(다항식)’, ’(다항식)÷(단항식)’과 같은 곱셈과 나눗셈의 원리를 이해하고, 그 계산을 할 수 있다.\n\n\n\n[9수02-09]부등식과 그 해의 의미를 알고, 부등식의 성질을 이해한다. [9수02-10]일차부등식을 풀 수 있고, 이를 활용하여 문제를 해결할 수 있다. [9수02-11]미지수가 2개인 연립일차방정식을 풀 수 있고, 이를 활용하여 문제를 해결할 수 있다.\n\n\n\n\n\n\n\n[9수03-04]함수의 개념을 이해한다.\n[9수03-05]일차함수의 의미를 이해하고, 그 그래프를 그릴 수 있다.\n[9수03-06]일차함수의 그래프의 성질을 이해하고, 이를 활용하여 문제를 해결할 수 있다.\n\n\n\n\n\n[9수03-07]일차함수와 미지수가 2개인 일차방정식의 관계를 이해한다.\n[9수03-08]두 일차함수의 그래프와 연립일차방정식의 관계를 이해한다.\n\n\n\n\n\n\n\n\n[9수04-05]다각형의 성질을 이해한다.\n[9수04-06]부채꼴의 중심각과 호의 관계를 이해하고, 이를 이용하여 부채꼴의 넓이와 호의 길이를 구할 수 있다.\n\n\n\n\n\n[9수04-07]다면체의 성질을 이해한다.\n[9수04-08]회전체의 성질을 이해한다.\n[9수04-09]입체도형의 겉넓이와 부피를 구할 수 있다.\n\n\n\n\n\n[9수04-10]이등변삼각형의 성질을 이해하고 설명할 수 있다.\n[9수04-11]삼각형의 외심과 내심의 성질을 이해하고 설명할 수 있다.\n[9수04-12]사각형의 성질을 이해하고 설명할 수 있다.\n\n\n\n\n\n[9수04-13]도형의 닮음의 의미와 닮은 도형의 성질을 이해한다.\n[9수04-14]삼각형의 닮음 조건을 이해하고, 이를 이용하여 두 삼각형이 닮음인지 판별할 수 있다.\n[9수04-15]평행선 사이의 선분의 길이의 비를 구할 수 있다.\n\n\n\n\n\n[9수04-16]피타고라스 정리를 이해하고 설명할 수 있다.\n\n\n\n\n\n\n\n\n[9수05-04]경우의 수를 구할 수 있다.\n[9수05-05]확률의 개념과 그 기본 성질을 이해하고, 확률을 구할 수 있다.",
+    "crumbs": [
+      "중2수학",
+      "교육과정"
+    ]
+  },
+  {
+    "objectID": "posts/middle2/curriculum.html#중학교-전체과정",
+    "href": "posts/middle2/curriculum.html#중학교-전체과정",
+    "title": "교육과정",
+    "section": "중학교 전체과정",
+    "text": "중학교 전체과정\n\n1. 수와 연산\n수는 방정식의 해의 존재를 보장하기 위해 정수, 유리수, 실수 등으로 확장되고, 각각의 수체계에서 사칙계산이 정의되고 연산의 성질이 일관되게 성립한다. 수는 수학에서 다루는 가장 기본적인 개념으로, 실생활뿐 아니라 타 교과나 수학의 다른 영역을 학습하는 데 필수적이다. 또한 수의 연산은 수학 학습에서 습득해야 할 가장 기본적인 기능 중 하나로, 이후 학습을 위한 기초가 된다.\n\n소인수분해\n\n[9수01-01]소인수분해의 뜻을 알고, 자연수를 소인수분해할 수 있다.\n[9수01-02]최대공약수와 최소공배수의 성질을 이해하고, 이를 구할 수 있다.\n\n\n\n정수와 유리수\n\n[9수01-03]양수와 음수, 정수와 유리수의 개념을 이해한다.\n[9수01-04]정수와 유리수의 대소 관계를 판단할 수 있다.\n[9수01-05]정수와 유리수의 사칙계산의 원리를 이해하고, 그 계산을 할 수 있다.\n\n\n\n유리수와 순환소수\n\n[9수01-06]순환소수의 뜻을 알고, 유리수와 순환소수의 관계를 이해한다.\n\n\n\n제곱근과 실수\n\n[9수01-07]제곱근의 뜻을 알고, 그 성질을 이해한다.\n[9수01-08]무리수의 개념을 이해한다.\n[9수01-09]실수의 대소 관계를 판단할 수 있다.\n[9수01-10]근호를 포함한 식의 사칙계산을 할 수 있다.\n\n\n\n\n2. 문자와 식\n문자는 수량 관계를 명확하고 간결하게 표현하는 수학적 언어이다. 문자를 통해 수량 사이의 관계를 일반화함으로써 산술에서 대수로 이행하며, 수에 대한 사칙연산과 소인수분해는 다항식으로 확장되어 적용된다. 또한 방정식과 부등식은 양 사이의 관계를 나타내며, 적절한 절차를 따라 이를 만족시키는 해를 구할 수 있다. 문자는 수학적 의사소통을 원활히 할 수 있도록 도와주고, 문자를 이용한 방정식과 부등식은 여러 가지 문제를 해결하는 중요한 도구가 된다.\n\n문자의 사용과 식의 계산\n\n[9수02-01]다양한 상황을 문자를 사용한 식으로 나타낼 수 있다.\n[9수02-02]식의 값을 구할 수 있다.\n[9수02-03]일차식의 덧셈과 뺄셈의 원리를 이해하고, 그 계산을 할 수 있다.\n\n\n\n일차방정식\n[9수02-04]방정식과 그 해의 의미를 알고, 등식의 성질을 이해한다. [9수02-05]일차방정식을 풀 수 있고, 이를 활용하여 문제를 해결할 수 있다.\n\n\n식의 계산\n[9수02-06]지수법칙을 이해한다. [9수02-07]다항식의 덧셈과 뺄셈의 원리를 이해하고, 그 계산을 할 수 있다. [9수02-08]‘(단항식)×(다항식)’, ’(다항식)÷(단항식)’과 같은 곱셈과 나눗셈의 원리를 이해하고, 그 계산을 할 수 있다.\n\n\n일차부등식과 연립일차방정식\n[9수02-09]부등식과 그 해의 의미를 알고, 부등식의 성질을 이해한다. [9수02-10]일차부등식을 풀 수 있고, 이를 활용하여 문제를 해결할 수 있다. [9수02-11]미지수가 2개인 연립일차방정식을 풀 수 있고, 이를 활용하여 문제를 해결할 수 있다.\n\n\n다항식의 곱셈과 인수분해\n[9수02-12]다항식의 곱셈과 인수분해를 할 수 있다.\n\n\n이차방정식\n[9수02-13]이차방정식을 풀 수 있고, 이를 활용하여 문제를 해결할 수 있다.\n\n\n\n3. 함수\n변화하는 양 사이의 관계를 나타내는 함수는 대응과 종속의 의미를 포함하며, 그래프는 함수를 시각적으로 표현하는 도구이다. 여러 가지 현상에서 관찰할 수 있는 규칙 중에는 한 값이 변하면 다른 값도 일정한 규칙에 따라 변하는 것들이 많이 있다. 함수는 다양한 변화 현상 속의 수학적 관계를 이해하고 표현함으로써 여러 가지 문제를 해결하는 데 도움이 된다.\n\n좌표평면과 그래프\n\n[9수03-01]순서쌍과 좌표를 이해한다.\n[9수03-02]다양한 상황을 그래프로 나타내고, 주어진 그래프를 해석할 수 있다.\n[9수03-03]정비례, 반비례 관계를 이해하고, 그 관계를 표, 식, 그래프로 나타낼 수 있다.\n\n\n\n일차함수와 그래프\n\n[9수03-04]함수의 개념을 이해한다.\n[9수03-05]일차함수의 의미를 이해하고, 그 그래프를 그릴 수 있다.\n[9수03-06]일차함수의 그래프의 성질을 이해하고, 이를 활용하여 문제를 해결할 수 있다.\n\n\n\n일차함수와 일차방정식의 관계\n\n[9수03-07]일차함수와 미지수가 2개인 일차방정식의 관계를 이해한다.\n[9수03-08]두 일차함수의 그래프와 연립일차방정식의 관계를 이해한다.\n\n\n\n이차함수와 그래프\n\n[9수03-09]이차함수의 의미를 이해하고, 그 그래프를 그릴 수 있다.\n[9수03-10]이차함수의 그래프의 성질을 이해한다.\n\n\n\n\n4. 기하\n주변의 형태는 여러 가지 평면도형이나 입체도형으로 범주화 되고, 각각의 평면도형이나 입체도형은 고유한 성질을 갖는다. 평면도형이나 입체도형의 성질에 대한 이해는 다양한 분야의 실생활 문제를 해결하는 데 기초가 되며, 수학의 다른 영역의 개념과 밀접하게 관련되어 있다. 도형의 성질을 정당화하는 과정에서 요구되는 연역적 추론은 수학적 소양을 기르는 데 도움이 된다.\n\n기본 도형\n\n[9수04-01]점, 선, 면, 각을 이해하고, 점, 직선, 평면의 위치 관계를 설명할 수 있다.\n[9수04-02]평행선에서 동위각과 엇각의 성질을 이해한다.\n\n\n\n작도와 합동\n\n[9수04-03]삼각형을 작도할 수 있다.\n[9수04-04]삼각형의 합동 조건을 이해하고, 이를 이용하여 두 삼각형이 합동인지 판별할 수 있다.\n\n\n\n평면도형의 성질\n\n[9수04-05]다각형의 성질을 이해한다.\n[9수04-06]부채꼴의 중심각과 호의 관계를 이해하고, 이를 이용하여 부채꼴의 넓이와 호의 길이를 구할 수 있다.\n\n\n\n입체도형의 성질\n\n[9수04-07]다면체의 성질을 이해한다.\n[9수04-08]회전체의 성질을 이해한다.\n[9수04-09]입체도형의 겉넓이와 부피를 구할 수 있다.\n\n\n\n삼각형과 사각형의 성질\n\n[9수04-10]이등변삼각형의 성질을 이해하고 설명할 수 있다.\n[9수04-11]삼각형의 외심과 내심의 성질을 이해하고 설명할 수 있다.\n[9수04-12]사각형의 성질을 이해하고 설명할 수 있다.\n\n\n\n도형의 닮음\n\n[9수04-13]도형의 닮음의 의미와 닮은 도형의 성질을 이해한다.\n[9수04-14]삼각형의 닮음 조건을 이해하고, 이를 이용하여 두 삼각형이 닮음인지 판별할 수 있다.\n[9수04-15]평행선 사이의 선분의 길이의 비를 구할 수 있다.\n\n\n\n피타고라스 정리\n\n[9수04-16]피타고라스 정리를 이해하고 설명할 수 있다.\n\n\n\n삼각비\n\n[9수04-17]삼각비의 뜻을 알고, 간단한 삼각비의 값을 구할 수 있다.\n[9수04-18]삼각비를 활용하여 여러 가지 문제를 해결할 수 있다.\n\n\n\n원의 성질\n\n[9수04-19]원의 현에 관한 성질과 접선에 관한 성질을 이해한다.\n[9수04-20]원주각의 성질을 이해한다.\n\n\n\n\n5. 확률과 통계\n사건이 일어날 가능성을 수치화한 확률, 그리고 자료를 수집, 정리, 해석하는 통계는 현대 정보화 사회의 불확실성을 이해하는 중요한 도구이다. 다양한 자료를 수집, 정리, 해석하고, 확률을 이해함으로써, 미래를 예측하고 합리적인 의사 결정을 하는 민주 시민으로서의 기본 소양을 기를 수 있다.\n\n자료의 정리와 해석\n\n[9수05-01]자료를 줄기와 잎 그림, 도수분포표, 히스토그램, 도수분포다각형으로 나타내고 해석할 수 있다.\n[9수05-02]상대도수를 구하며, 이를 그래프로 나타내고, 상대도수의 분포를 이해한다.\n[9수05-03]공학적 도구를 이용하여 실생활과 관련된 자료를 수집하고 표나 그래프로 정리하고 해석할 수 있다.\n\n\n\n확률과 그 기본 성질\n\n[9수05-04]경우의 수를 구할 수 있다.\n[9수05-05]확률의 개념과 그 기본 성질을 이해하고, 확률을 구할 수 있다.\n\n\n\n대푯값과 산포도\n\n[9수05-06]중앙값, 최빈값, 평균의 의미를 이해하고, 이를 구할 수 있다.\n[9수05-07]분산과 표준편차의 의미를 이해하고, 이를 구할 수 있다.\n\n\n\n상관관계\n\n[9수05-08]자료를 산점도로 나타내고, 이를 이용하여 상관관계를 말할 수 있다.",
+    "crumbs": [
+      "중2수학",
+      "교육과정"
+    ]
+  },
+  {
+    "objectID": "posts/middle1/number_operation/least_common_multiple.html",
+    "href": "posts/middle1/number_operation/least_common_multiple.html",
+    "title": "최소공배수 연습문제",
+    "section": "",
+    "text": "문제1.\n\n\n\n\n\n\n공배수의 정의를 말하고 18과 24의 최소공배수를 구하시오.\n\n\n\n\n\n답= 공배수란 두 정수 a, b의 배수 중 공통된 배수를 말합니다.\n\\[\n\\begin{array}{l}\n2 \\underline{) \\, 18 \\quad 24} \\\\\n3 \\underline{) \\, \\hspace{0.2cm}9 \\quad 12} \\\\\n\\phantom{3)} \\, \\hspace{0.2cm} 3 \\quad 4\n\\end{array}\n\\] 최소공배수는 나눗셈 과정에 사용된 소인수와 남은 수를 모두 곱합니다. 따라서, \\(2 \\times 3 \\times 3 \\times 4 = 72\\)입니다.",
+    "crumbs": [
+      "중1수학",
+      "수와 연산",
+      "최소공배수 연습문제"
+    ]
+  },
+  {
+    "objectID": "posts/middle1/number_operation/greatest_common_divisor.html",
+    "href": "posts/middle1/number_operation/greatest_common_divisor.html",
+    "title": "최대공약수 연습문제",
+    "section": "",
+    "text": "문제1.\n문제2.",
+    "crumbs": [
+      "중1수학",
+      "수와 연산",
+      "최대공약수 연습문제"
+    ]
+  },
+  {
+    "objectID": "posts/middle1/number_operation/greatest_common_divisor.html#문제3.",
+    "href": "posts/middle1/number_operation/greatest_common_divisor.html#문제3.",
+    "title": "최대공약수 연습문제",
+    "section": "문제3.",
+    "text": "문제3.\n\n\n\n\n\n\n최대공약수의 정의를 말하고, 18과 24의 최대공약수를 구하시오\n\n\n\n\n\n답= 공약수 중 가장 큰 수\n\\[\n\\begin{array}{l}\n2 \\underline{) \\, 18 \\quad 24} \\\\\n3 \\underline{) \\, \\hspace{0.2cm}9 \\quad 12} \\\\\n\\phantom{3)} \\, \\hspace{0.2cm} 3 \\quad 4\n\\end{array}\n\\] 위의 식에서 2와 3의 곱이 최대공약수가 되어 \\(2 \\times 3 =6\\)이 됩니다.",
+    "crumbs": [
+      "중1수학",
+      "수와 연산",
+      "최대공약수 연습문제"
+    ]
+  },
+  {
+    "objectID": "posts/middle1/number_operation/greatest_common_divisor.html#문제4.",
+    "href": "posts/middle1/number_operation/greatest_common_divisor.html#문제4.",
+    "title": "최대공약수 연습문제",
+    "section": "문제4.",
+    "text": "문제4.\n\n\n\n\n\n\n모든 소인수는 약수이지만, 모든 약수는 소인수가 아니다. 맞으면 O, 틀리면 X 하시오\n\n\n\n\n\n답= O",
+    "crumbs": [
+      "중1수학",
+      "수와 연산",
+      "최대공약수 연습문제"
+    ]
+  },
+  {
+    "objectID": "posts/II/curriculum.html",
+    "href": "posts/II/curriculum.html",
+    "title": "중2수학",
+    "section": "",
+    "text": "[9수01-06]순환소수의 뜻을 알고, 유리수와 순환소수의 관계를 이해한다.",
+    "crumbs": [
+      "수학II",
+      "중2수학"
+    ]
+  },
+  {
+    "objectID": "posts/II/curriculum.html#유리수와-순환소수",
+    "href": "posts/II/curriculum.html#유리수와-순환소수",
+    "title": "중2수학",
+    "section": "",
+    "text": "[9수01-06]순환소수의 뜻을 알고, 유리수와 순환소수의 관계를 이해한다.",
+    "crumbs": [
+      "수학II",
+      "중2수학"
+    ]
+  },
+  {
+    "objectID": "posts/II/curriculum.html#문자와-식",
+    "href": "posts/II/curriculum.html#문자와-식",
+    "title": "중2수학",
+    "section": "문자와 식",
+    "text": "문자와 식\n\n문자의 사용과 식의 계산 [9수02-01]다양한 상황을 문자를 사용한 식으로 나타낼 수 있다. [9수02-02]식의 값을 구할 수 있다. [9수02-03]일차식의 덧셈과 뺄셈의 원리를 이해하고, 그 계산을 할 수 있다.\n일차방정식 [9수02-04]방정식과 그 해의 의미를 알고, 등식의 성질을 이해한다. [9수02-05]일차방정식을 풀 수 있고, 이를 활용하여 문제를 해결할 수 있다.\n식의 계산 [9수02-06]지수법칙을 이해한다. [9수02-07]다항식의 덧셈과 뺄셈의 원리를 이해하고, 그 계산을 할 수 있다. [9수02-08]‘(단항식)×(다항식)’, ’(다항식)÷(단항식)’과 같은 곱셈과 나눗셈의 원리를 이해하고, 그 계산을 할 수 있다.\n일차부등식과 연립일차방정식 [9수02-09]부등식과 그 해의 의미를 알고, 부등식의 성질을 이해한다. [9수02-10]일차부등식을 풀 수 있고, 이를 활용하여 문제를 해결할 수 있다. [9수02-11]미지수가 2개인 연립일차방정식을 풀 수 있고, 이를 활용하여 문제를 해결할 수 있다.\n다항식의 곱셈과 인수분해 [9수02-12]다항식의 곱셈과 인수분해를 할 수 있다.\n이차방정식 [9수02-13]이차방정식을 풀 수 있고, 이를 활용하여 문제를 해결할 수 있다.",
+    "crumbs": [
+      "수학II",
+      "중2수학"
+    ]
+  },
+  {
+    "objectID": "posts/II/curriculum.html#함수",
+    "href": "posts/II/curriculum.html#함수",
+    "title": "중2수학",
+    "section": "함수",
+    "text": "함수\n\n좌표평면과 그래프 [9수03-01]순서쌍과 좌표를 이해한다. [9수03-02]다양한 상황을 그래프로 나타내고, 주어진 그래프를 해석할 수 있다. [9수03-03]정비례, 반비례 관계를 이해하고, 그 관계를 표, 식, 그래프로 나타낼 수 있다.\n일차함수와 그래프 [9수03-04]함수의 개념을 이해한다. [9수03-05]일차함수의 의미를 이해하고, 그 그래프를 그릴 수 있다. [9수03-06]일차함수의 그래프의 성질을 이해하고, 이를 활용하여 문제를 해결할 수 있다.\n일차함수와 일차방정식의 관계 [9수03-07]일차함수와 미지수가 2개인 일차방정식의 관계를 이해한다. [9수03-08]두 일차함수의 그래프와 연립일차방정식의 관계를 이해한다.\n이차함수와 그래프 [9수03-09]이차함수의 의미를 이해하고, 그 그래프를 그릴 수 있다. [9수03-10]이차함수의 그래프의 성질을 이해한다.",
+    "crumbs": [
+      "수학II",
+      "중2수학"
+    ]
+  },
+  {
+    "objectID": "posts/II/curriculum.html#도형의-성질",
+    "href": "posts/II/curriculum.html#도형의-성질",
+    "title": "중2수학",
+    "section": "도형의 성질",
+    "text": "도형의 성질\n\n기본 도형 [9수04-01]점, 선, 면, 각을 이해하고, 점, 직선, 평면의 위치 관계를 설명할 수 있다. [9수04-02]평행선에서 동위각과 엇각의 성질을 이해한다.\n작도와 합동 [9수04-03]삼각형을 작도할 수 있다. [9수04-04]삼각형의 합동 조건을 이해하고, 이를 이용하여 두 삼각형이 합동인지 판별할 수 있다.\n평면도형의 성질 [9수04-05]다각형의 성질을 이해한다. [9수04-06]부채꼴의 중심각과 호의 관계를 이해하고, 이를 이용하여 부채꼴의 넓이와 호의 길이를 구할 수 있다.\n입체도형의 성질 [9수04-07]다면체의 성질을 이해한다. [9수04-08]회전체의 성질을 이해한다. [9수04-09]입체도형의 겉넓이와 부피를 구할 수 있다.\n삼각형과 사각형의 성질 [9수04-10]이등변삼각형의 성질을 이해하고 설명할 수 있다. [9수04-11]삼각형의 외심과 내심의 성질을 이해하고 설명할 수 있다. [9수04-12]사각형의 성질을 이해하고 설명할 수 있다.",
+    "crumbs": [
+      "수학II",
+      "중2수학"
+    ]
+  },
+  {
+    "objectID": "posts/II/curriculum.html#도형의-닮음",
+    "href": "posts/II/curriculum.html#도형의-닮음",
+    "title": "중2수학",
+    "section": "도형의 닮음",
+    "text": "도형의 닮음\n[9수04-13]도형의 닮음의 의미와 닮은 도형의 성질을 이해한다. [9수04-14]삼각형의 닮음 조건을 이해하고, 이를 이용하여 두 삼각형이 닮음인지 판별할 수 있다. [9수04-15]평행선 사이의 선분의 길이의 비를 구할 수 있다.",
+    "crumbs": [
+      "수학II",
+      "중2수학"
+    ]
+  },
+  {
+    "objectID": "posts/II/curriculum.html#피타고라스-정리",
+    "href": "posts/II/curriculum.html#피타고라스-정리",
+    "title": "중2수학",
+    "section": "피타고라스 정리",
+    "text": "피타고라스 정리\n[9수04-16]피타고라스 정리를 이해하고 설명할 수 있다. 8. 삼각비 [9수04-17]삼각비의 뜻을 알고, 간단한 삼각비의 값을 구할 수 있다. [9수04-18]삼각비를 활용하여 여러 가지 문제를 해결할 수 있다. 9. 원의 성질 [9수04-19]원의 현에 관한 성질과 접선에 관한 성질을 이해한다. [9수04-20]원주각의 성질을 이해한다.\n\n확률과 통계\n\n자료의 정리와 해석 [9수05-01]자료를 줄기와 잎 그림, 도수분포표, 히스토그램, 도수분포다각형으로 나타내고 해석할 수 있다. [9수05-02]상대도수를 구하며, 이를 그래프로 나타내고, 상대도수의 분포를 이해한다. [9수05-03]공학적 도구를 이용하여 실생활과 관련된 자료를 수집하고 표나 그래프로 정리하고 해석할 수 있다.\n확률과 그 기본 성질 [9수05-04]경우의 수를 구할 수 있다. [9수05-05]확률의 개념과 그 기본 성질을 이해하고, 확률을 구할 수 있다.\n대푯값과 산포도 [9수05-06]중앙값, 최빈값, 평균의 의미를 이해하고, 이를 구할 수 있다. [9수05-07]분산과 표준편차의 의미를 이해하고, 이를 구할 수 있다.\n상관관계 [9수05-08]자료를 산점도로 나타내고, 이를 이용하여 상관관계를 말할 수 있다.",
+    "crumbs": [
+      "수학II",
+      "중2수학"
+    ]
+  },
+  {
+    "objectID": "posts/I/sequence/learning_objective.html",
+    "href": "posts/I/sequence/learning_objective.html",
+    "title": "학습목표",
+    "section": "",
+    "text": "수열\n수열은 규칙적으로 나열된 수로 나타낼 수 있는 현상을 탐구하는 데 유용한 함수이다. 수열을 통해 자연 현상이나 사회 현상에 내재되어 있는 다양한 규칙성을 찾아 일반화된 식으로 표현하고 수학적으로 정당화함으로써 수학의 유용성과 가치를 경험하고 귀납적 추론 능력과 연역적 추론 능력을 기를 수 있다.\n\n1. 등차수열과 등비수열\n\n[12수학Ⅰ03-01]수열의 뜻을 안다.\n[12수학Ⅰ03-02]등차수열의 뜻을 알고, 일반항, 첫째항부터 제\\(n\\)항까지의 합을 구할 수 있다.\n[12수학Ⅰ03-03]등비수열의 뜻을 알고, 일반항, 첫째항부터 제\\(n\\)항까지의 합을 구할 수 있다.\n\n\n\n2. 수열의 합\n\n[12수학Ⅰ03-04]\\(\\Sigma\\)의 뜻을 알고, 그 성질을 이해하고, 이를 활용할 수 있다.\n[12수학Ⅰ03-05]여러 가지 수열의 첫째항부터 제\\(n\\)항까지의 합을 구할 수 있다.\n\n\n\n3. 수학적 귀납법\n\n[12수학Ⅰ03-06]수열의 귀납적 정의를 이해한다.\n[12수학Ⅰ03-07]수학적 귀납법의 원리를 이해한다.\n[12수학Ⅰ03-08]수학적 귀납법을 이용하여 명제를 증명할 수 있다.\n\n\n\n\n학습요소\n\n수열\n항\n일반항\n공차\n등차수열\n등차중항\n공비\n등비수열\n등비중항\n귀납적 정의\n수학적 귀납법\n\\(a_n\\)\n\\({a_n}\\)\n\\[\\sum_{k=1}^n a_k\\]\n\n\n\n교수･학습 방법 및 유의 사항\n\n여러 가지 수열의 합에서는 자연수의 거듭제곱의 합 \\[ \\sum_{k=1}^n k,\\sum_{k=1}^n k^2, \\sum_{k=1}^n k^3 \\] 과 수열의 합이 간단한 것만 다룬다.\n수열과 관련된 여러 가지 문제를 귀납적으로 표현할 수 있게 하고, 귀납적으로 정의된 수열의 일반항을 구하는 문제는 다루지 않는다.\n수학적 귀납법에 의한 증명은 원리를 이해할 수 있는 정도로 간단하게 다룬다.\n수학적 귀납법은 자연수 \\(n\\)에 대한 명제의 증명 방법으로서 그 유용성과 가치를 인식하게 한다.\n\\(S_{n}\\) 기호는 교수･학습 상황에서 사용할 수 있다.\n\n\n\n평가 방법 및 유의 사항\n\n등비수열과 그 합을 이용하여 문제를 해결할 수 있는 능력을 평가할 때, 연금의 일시 지급이나 대출금 상환 등과 같이 지나치게 복잡한 상황을 포함하는 문제는 다루지 않는다.",
+    "crumbs": [
+      "수학I",
+      "수열",
+      "학습목표"
+    ]
+  },
+  {
+    "objectID": "posts/I/curriculum.html",
+    "href": "posts/I/curriculum.html",
+    "title": "교육과정",
+    "section": "",
+    "text": "1. 성격\n수학과는 수학의 개념, 원리, 법칙을 이해하고 기능을 습득하여 주변의 여러 가지 현상을 수학적으로 관찰하고 해석하며 논리적으로 사고하고 합리적으로 문제를 해결하는 능력과 태도를 기르는 교과이다. 수학은 오랜 역사를 통해 인류 문명 발전의 원동력이 되어 왔으며, 세계화･정보화가 가속화되는 미래 사회의 구성원에게 필수적인 역량을 제공한다. 수학 학습을 통해 학생들은 수학의 규칙성과 구조의 아름다움을 음미할 수 있고, 수학의 지식과 기능을 활용하여 수학 문제뿐만 아니라 실생활과 다른 교과의 문제를 창의적으로 해결할 수 있으며, 나아가 세계 공동체의 시민으로서 갖추어야 할 합리적 의사 결정 능력과 민주적 소통 능력을 함양할 수 있다.\n일반 선택 과목인 &lt;수학Ⅰ&gt;은 공통 과목인 &lt;수학&gt;을 학습한 후, 더 높은 수준의 수학을 학습하기를 원하는 학생들이 선택할 수 있는 과목이다. &lt;수학Ⅰ&gt;의 내용은 ʻ지수함수와 로그함수ʼ, ʻ삼각함수ʼ, ʻ수열ʼ의 3개 핵심 개념 영역으로 구성된다. ʻ지수함수와 로그함수ʼ 영역에서는 지수와 로그, 지수함수와 로그함수를, ʻ삼각함수ʼ 영역에서는 일반각과 호도법, 삼각함수의 뜻과 그래프, 사인법칙과 코사인법칙을, ʻ수열ʼ 영역에서는 등차수열과 등비수열, 수열의 합, 수학적 귀납법을 다룬다.\n&lt;수학Ⅰ&gt;에서 학습한 수학의 지식과 기능은 자신의 진로와 적성을 고려하여 선택할 수 있는 수학 일반 선택 과목과 진로 선택 과목, 수학 전문 교과 과목을 학습하기 위한 토대가 되고, 자연과학, 공학, 의학뿐만 아니라 경제･경영학을 포함한 사회과학, 인문학, 예술 및 체육 분야를 학습하는 데 기초가 되며, 나아가 창의적 역량을 갖춘 융합 인재로 성장할 수 있는 기반을 제공한다. 이를 위해 학생들은 &lt;수학Ⅰ&gt;의 지식을 이해하고 기능을 습득하는 것과 더불어 문제 해결, 추론, 창의･융합, 의사소통, 정보 처리, 태도 및 실천의 6가지 수학 교과 역량을 길러야 한다.\n교과 역량으로서의 문제 해결은 해결 방법을 알고 있지 않은 문제 상황에서 수학의 지식과 기능을 활용하여 해결 전략을 탐색하고 최적의 해결 방안을 선택하여 주어진 문제를 해결하는 능력이고, 추론은 수학적 사실을 추측하고 논리적으로 분석하고 정당화하며 그 과정을 반성하는 능력이다. 창의･융합은 수학의 지식과 기능을 토대로 새롭고 의미 있는 아이디어를 다양하고 풍부하게 산출하고 정교화하며, 여러 수학적 지식, 기능, 경험을 연결하거나 타 교과나 실생활의 지식, 기능, 경험을 수학과 연결･융합하여 새로운 지식, 기능, 경험을 생성하고 문제를 해결하는 능력이다. 의사소통은 수학 지식이나 아이디어, 수학적 활동의 결과, 문제 해결 과정, 신념과 태도 등을 말이나 글, 그림, 기호로 표현하고 다른 사람의 아이디어를 이해하는 능력이고, 정보 처리는 다양한 자료와 정보를 수집, 정리, 분석, 활용하고 적절한 공학적 도구나 교구를 선택, 이용하여 자료와 정보를 효과적으로 처리하는 능력이다. 끝으로, 태도 및 실천은 수학의 가치를 인식하고 자주적 수학 학습 태도와 민주 시민 의식을 갖추어 실천하는 능력이다.\n수학 교과 역량 함양을 통해 학생들은 복잡하고 전문화되어 가는 미래 사회에서 사회 구성원의 역할을 성공적으로 수행할 수 있고, 개인의 잠재력과 재능을 발현할 수 있으며, 수학의 필요성과 유용성을 이해하고, 수학 학습의 즐거움을 느끼며, 수학에 대한 흥미와 자신감을 기를 수 있다.\n\n\n2. 목표\n수학의 개념, 원리, 법칙을 이해하고 기능을 습득하며 수학적으로 추론하고 의사소통하는 능력을 길러, 생활 주변과 사회 및 자연 현상을 수학적으로 이해하고 문제를 합리적이고 창의적으로 해결하며, 수학 학습자로서 바람직한 태도와 실천 능력을 기른다.\n가. 사회 및 자연 현상을 수학적으로 관찰, 분석, 조직, 표현하는 경험을 통하여 지수함수와 로그함수, 삼각함수, 수열에 관련된 개념, 원리, 법칙과 이들 사이의 관계를 이해하고 수학의 기능을 습득한다. 나. 수학적으로 추론하고 의사소통하며, 창의･융합적 사고와 정보 처리 능력을 바탕으로 사회 및 자연 현상을 수학적으로 이해하고 문제를 합리적이고 창의적으로 해결한다. 다. 수학에 대한 흥미와 자신감을 갖고 수학의 역할과 가치를 이해하며 수학 학습자로서 바람직한 태도와 실천 능력을 기른다.\n\n\n지수함수와 로그함수\n지수함수는 빠르게 증가하거나 감소하는 수량이나 현상을 다루는 데 유용한 함수이고, 로그함수는 지수함수의 역함수이다. 지수함수와 로그함수는 자연 현상이나 사회 현상을 설명하고 분석하기 위한 수학적 모델이다.\n\n1. 지수와 로그\n\n[12수학Ⅰ01-01]거듭제곱과 거듭제곱근의 뜻을 알고, 그 성질을 이해한다.\n[12수학Ⅰ01-02]지수가 유리수, 실수까지 확장될 수 있음을 이해한다.\n[12수학Ⅰ01-03]지수법칙을 이해하고, 이를 이용하여 식을 간단히 나타낼 수 있다.\n[12수학Ⅰ01-04]로그의 뜻을 알고, 그 성질을 이해한다.\n[12수학Ⅰ01-05]상용로그를 이해하고, 이를 활용할 수 있다.\n\n\n\n2. 지수함수와 로그함수\n\n[12수학Ⅰ01-06]지수함수와 로그함수의 뜻을 안다.\n[12수학Ⅰ01-07]지수함수와 로그함수의 그래프를 그릴 수 있고, 그 성질을 이해한다.\n[12수학Ⅰ01-08]지수함수와 로그함수를 활용하여 문제를 해결할 수 있다.\n\n\n\n\n삼각함수\n삼각함수는 삼각비를 일반화시킨 개념으로, 자연 현상이나 사회 현상 가운데 나타나는 주기적인 현상을 수학적으로 표현하여 설명하고 분석할 수 있는 유용한 주기함수이다. 사인법칙과 코사인법칙을 포함한 삼각함수의 성질은 삼각형으로 나타낼 수 있는 대상의 길이, 넓이, 각도 등의 측정과 관련된 다양한 문제의 해결에 활용된다.\n\n1. 삼각함수\n\n[12수학Ⅰ02-01]일반각과 호도법의 뜻을 안다.\n[12수학Ⅰ02-02]삼각함수의 뜻을 알고, 사인함수, 코사인함수, 탄젠트함수의 그래프를 그릴 수 있다.\n[12수학Ⅰ02-03]사인법칙과 코사인법칙을 이해하고, 이를 활용할 수 있다.\n\n\n\n\n수열\n수열은 규칙적으로 나열된 수로 나타낼 수 있는 현상을 탐구하는 데 유용한 함수이다. 수열을 통해 자연 현상이나 사회 현상에 내재되어 있는 다양한 규칙성을 찾아 일반화된 식으로 표현하고 수학적으로 정당화함으로써 수학의 유용성과 가치를 경험하고 귀납적 추론 능력과 연역적 추론 능력을 기를 수 있다.\n\n1. 등차수열과 등비수열\n\n[12수학Ⅰ03-01]수열의 뜻을 안다.\n[12수학Ⅰ03-02]등차수열의 뜻을 알고, 일반항, 첫째항부터 제\\(n\\)항까지의 합을 구할 수 있다.\n[12수학Ⅰ03-03]등비수열의 뜻을 알고, 일반항, 첫째항부터 제\\(n\\)항까지의 합을 구할 수 있다.\n\n\n\n2. 수열의 합\n\n[12수학Ⅰ03-04]\\(\\Sigma\\)의 뜻을 알고, 그 성질을 이해하고, 이를 활용할 수 있다.\n[12수학Ⅰ03-05]여러 가지 수열의 첫째항부터 제\\(n\\)항까지의 합을 구할 수 있다.\n\n\n\n3. 수학적 귀납법\n\n[12수학Ⅰ03-06]수열의 귀납적 정의를 이해한다.\n[12수학Ⅰ03-07]수학적 귀납법의 원리를 이해한다.\n[12수학Ⅰ03-08]수학적 귀납법을 이용하여 명제를 증명할 수 있다.",
+    "crumbs": [
+      "수학I",
+      "교육과정"
+    ]
+  },
+  {
+    "objectID": "posts/common/polynomial_equation/learning_objective.html",
+    "href": "posts/common/polynomial_equation/learning_objective.html",
+    "title": "학습목표",
+    "section": "",
+    "text": "미정계수법\n나머지정리\n인수정리\n조립제법\n\n\n\n\n\n다항식의 사칙연산\n나머지정리 및 항등식의 성질 이해\n다항식의 인수분해\n\n\n\n\n\\(a^2 + b^2 + c^2 + 2ab + 2bc + 2ca = (a+b+c)^2\\)\n\\(a^3 + 3a^2b + 3ab^2 + b^3 = (a+b)^3\\)\n\\(a^3 - 3a^2b + 3ab^2 - b^3 = (a-b)^3\\)\n\\(a^3 + b^3 = (a+b)(a^2 - ab + b^2)\\)\n\\(a^3 - b^3 = (a-b)(a^2 + ab + b^2)\\)\n\n\n\n\n\n조립제법은 다항식을 단항식으로 나누는 연산과 연계하여 지도\n복잡한 인수분해 문제는 다루지 않음",
+    "crumbs": [
+      "공통수학",
+      "다항식",
+      "학습목표"
+    ]
+  },
+  {
+    "objectID": "posts/common/polynomial_equation/learning_objective.html#i.-다항식",
+    "href": "posts/common/polynomial_equation/learning_objective.html#i.-다항식",
+    "title": "학습목표",
+    "section": "",
+    "text": "미정계수법\n나머지정리\n인수정리\n조립제법\n\n\n\n\n\n다항식의 사칙연산\n나머지정리 및 항등식의 성질 이해\n다항식의 인수분해\n\n\n\n\n\\(a^2 + b^2 + c^2 + 2ab + 2bc + 2ca = (a+b+c)^2\\)\n\\(a^3 + 3a^2b + 3ab^2 + b^3 = (a+b)^3\\)\n\\(a^3 - 3a^2b + 3ab^2 - b^3 = (a-b)^3\\)\n\\(a^3 + b^3 = (a+b)(a^2 - ab + b^2)\\)\n\\(a^3 - b^3 = (a-b)(a^2 + ab + b^2)\\)\n\n\n\n\n\n조립제법은 다항식을 단항식으로 나누는 연산과 연계하여 지도\n복잡한 인수분해 문제는 다루지 않음",
+    "crumbs": [
+      "공통수학",
+      "다항식",
+      "학습목표"
+    ]
+  },
+  {
+    "objectID": "posts/common/geometric_equation/learning_objective.html",
+    "href": "posts/common/geometric_equation/learning_objective.html",
+    "title": "학습목표",
+    "section": "",
+    "text": "내분, 외분, 대칭이동\n\n\n\n\n\n두 점 사이의 거리, 내분점과 외분점 좌표 구하기\n직선 및 원의 방정식 이해\n\n\n\n\n좌표축의 평행이동은 다루지 않음\n공학적 도구 활용 가능",
+    "crumbs": [
+      "공통수학",
+      "도형의 방정식",
+      "학습목표"
+    ]
+  },
+  {
+    "objectID": "posts/common/geometric_equation/learning_objective.html#iii.-도형의-방정식",
+    "href": "posts/common/geometric_equation/learning_objective.html#iii.-도형의-방정식",
+    "title": "학습목표",
+    "section": "",
+    "text": "내분, 외분, 대칭이동\n\n\n\n\n\n두 점 사이의 거리, 내분점과 외분점 좌표 구하기\n직선 및 원의 방정식 이해\n\n\n\n\n좌표축의 평행이동은 다루지 않음\n공학적 도구 활용 가능",
+    "crumbs": [
+      "공통수학",
+      "도형의 방정식",
+      "학습목표"
+    ]
+  },
+  {
+    "objectID": "posts/common/equation_inequality/learning_objective.html",
+    "href": "posts/common/equation_inequality/learning_objective.html",
+    "title": "학습목표",
+    "section": "",
+    "text": "허수 단위, 복소수, 실근, 허근, 판별식\n연립부등식, 이차부등식\n\n\n\n\n\n복소수의 사칙연산\n이차방정식의 실근과 허근의 뜻\n이차방정식의 판별식 이해\n여러 가지 방정식 및 부등식 풀이\n\n\n\n\n복잡한 문제는 다루지 않음\n실생활 문제 해결을 통해 수학의 유용성 인식",
+    "crumbs": [
+      "공통수학",
+      "방정식과 부등식",
+      "학습목표"
+    ]
+  },
+  {
+    "objectID": "posts/common/equation_inequality/learning_objective.html#ii.-방정식과-부등식",
+    "href": "posts/common/equation_inequality/learning_objective.html#ii.-방정식과-부등식",
+    "title": "학습목표",
+    "section": "",
+    "text": "허수 단위, 복소수, 실근, 허근, 판별식\n연립부등식, 이차부등식\n\n\n\n\n\n복소수의 사칙연산\n이차방정식의 실근과 허근의 뜻\n이차방정식의 판별식 이해\n여러 가지 방정식 및 부등식 풀이\n\n\n\n\n복잡한 문제는 다루지 않음\n실생활 문제 해결을 통해 수학의 유용성 인식",
+    "crumbs": [
+      "공통수학",
+      "방정식과 부등식",
+      "학습목표"
+    ]
+  },
+  {
+    "objectID": "posts/calculus/curriculum.html",
+    "href": "posts/calculus/curriculum.html",
+    "title": "중학수학",
+    "section": "",
+    "text": "수와 연산\n\n소인수분해 [9수01-01]소인수분해의 뜻을 알고, 자연수를 소인수분해할 수 있다. [9수01-02]최대공약수와 최소공배수의 성질을 이해하고, 이를 구할 수 있다.\n정수와 유리수 [9수01-03]양수와 음수, 정수와 유리수의 개념을 이해한다. [9수01-04]정수와 유리수의 대소 관계를 판단할 수 있다. [9수01-05]정수와 유리수의 사칙계산의 원리를 이해하고, 그 계산을 할 수 있다.\n유리수와 순환소수 [9수01-06]순환소수의 뜻을 알고, 유리수와 순환소수의 관계를 이해한다.\n제곱근과 실수 [9수01-07]제곱근의 뜻을 알고, 그 성질을 이해한다. [9수01-08]무리수의 개념을 이해한다. [9수01-09]실수의 대소 관계를 판단할 수 있다. [9수01-10]근호를 포함한 식의 사칙계산을 할 수 있다.\n\n\n\n문자와 식\n\n문자의 사용과 식의 계산 [9수02-01]다양한 상황을 문자를 사용한 식으로 나타낼 수 있다. [9수02-02]식의 값을 구할 수 있다. [9수02-03]일차식의 덧셈과 뺄셈의 원리를 이해하고, 그 계산을 할 수 있다.\n일차방정식 [9수02-04]방정식과 그 해의 의미를 알고, 등식의 성질을 이해한다. [9수02-05]일차방정식을 풀 수 있고, 이를 활용하여 문제를 해결할 수 있다.\n식의 계산 [9수02-06]지수법칙을 이해한다. [9수02-07]다항식의 덧셈과 뺄셈의 원리를 이해하고, 그 계산을 할 수 있다. [9수02-08]‘(단항식)×(다항식)’, ’(다항식)÷(단항식)’과 같은 곱셈과 나눗셈의 원리를 이해하고, 그 계산을 할 수 있다.\n일차부등식과 연립일차방정식 [9수02-09]부등식과 그 해의 의미를 알고, 부등식의 성질을 이해한다. [9수02-10]일차부등식을 풀 수 있고, 이를 활용하여 문제를 해결할 수 있다. [9수02-11]미지수가 2개인 연립일차방정식을 풀 수 있고, 이를 활용하여 문제를 해결할 수 있다.\n다항식의 곱셈과 인수분해 [9수02-12]다항식의 곱셈과 인수분해를 할 수 있다.\n이차방정식 [9수02-13]이차방정식을 풀 수 있고, 이를 활용하여 문제를 해결할 수 있다.\n\n\n\n함수\n\n좌표평면과 그래프 [9수03-01]순서쌍과 좌표를 이해한다. [9수03-02]다양한 상황을 그래프로 나타내고, 주어진 그래프를 해석할 수 있다. [9수03-03]정비례, 반비례 관계를 이해하고, 그 관계를 표, 식, 그래프로 나타낼 수 있다.\n일차함수와 그래프 [9수03-04]함수의 개념을 이해한다. [9수03-05]일차함수의 의미를 이해하고, 그 그래프를 그릴 수 있다. [9수03-06]일차함수의 그래프의 성질을 이해하고, 이를 활용하여 문제를 해결할 수 있다.\n일차함수와 일차방정식의 관계 [9수03-07]일차함수와 미지수가 2개인 일차방정식의 관계를 이해한다. [9수03-08]두 일차함수의 그래프와 연립일차방정식의 관계를 이해한다.\n이차함수와 그래프 [9수03-09]이차함수의 의미를 이해하고, 그 그래프를 그릴 수 있다. [9수03-10]이차함수의 그래프의 성질을 이해한다.\n\n\n\n기하\n\n기본 도형 [9수04-01]점, 선, 면, 각을 이해하고, 점, 직선, 평면의 위치 관계를 설명할 수 있다. [9수04-02]평행선에서 동위각과 엇각의 성질을 이해한다.\n작도와 합동 [9수04-03]삼각형을 작도할 수 있다. [9수04-04]삼각형의 합동 조건을 이해하고, 이를 이용하여 두 삼각형이 합동인지 판별할 수 있다.\n평면도형의 성질 [9수04-05]다각형의 성질을 이해한다. [9수04-06]부채꼴의 중심각과 호의 관계를 이해하고, 이를 이용하여 부채꼴의 넓이와 호의 길이를 구할 수 있다.\n입체도형의 성질 [9수04-07]다면체의 성질을 이해한다. [9수04-08]회전체의 성질을 이해한다. [9수04-09]입체도형의 겉넓이와 부피를 구할 수 있다.\n삼각형과 사각형의 성질 [9수04-10]이등변삼각형의 성질을 이해하고 설명할 수 있다. [9수04-11]삼각형의 외심과 내심의 성질을 이해하고 설명할 수 있다. [9수04-12]사각형의 성질을 이해하고 설명할 수 있다.\n도형의 닮음 [9수04-13]도형의 닮음의 의미와 닮은 도형의 성질을 이해한다. [9수04-14]삼각형의 닮음 조건을 이해하고, 이를 이용하여 두 삼각형이 닮음인지 판별할 수 있다. [9수04-15]평행선 사이의 선분의 길이의 비를 구할 수 있다.\n피타고라스 정리 [9수04-16]피타고라스 정리를 이해하고 설명할 수 있다.\n삼각비 [9수04-17]삼각비의 뜻을 알고, 간단한 삼각비의 값을 구할 수 있다. [9수04-18]삼각비를 활용하여 여러 가지 문제를 해결할 수 있다.\n원의 성질 [9수04-19]원의 현에 관한 성질과 접선에 관한 성질을 이해한다. [9수04-20]원주각의 성질을 이해한다.\n\n\n\n확률과 통계\n\n자료의 정리와 해석 [9수05-01]자료를 줄기와 잎 그림, 도수분포표, 히스토그램, 도수분포다각형으로 나타내고 해석할 수 있다. [9수05-02]상대도수를 구하며, 이를 그래프로 나타내고, 상대도수의 분포를 이해한다. [9수05-03]공학적 도구를 이용하여 실생활과 관련된 자료를 수집하고 표나 그래프로 정리하고 해석할 수 있다.\n확률과 그 기본 성질 [9수05-04]경우의 수를 구할 수 있다. [9수05-05]확률의 개념과 그 기본 성질을 이해하고, 확률을 구할 수 있다.\n대푯값과 산포도 [9수05-06]중앙값, 최빈값, 평균의 의미를 이해하고, 이를 구할 수 있다. [9수05-07]분산과 표준편차의 의미를 이해하고, 이를 구할 수 있다.\n상관관계 [9수05-08]자료를 산점도로 나타내고, 이를 이용하여 상관관계를 말할 수 있다."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "blog",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n사이트사용법\n\n\n\n\n\n\n사용법\n\n\n\n이 웹사이트 고유의 사용법이 설명되어 있습니다.\n\n\n\n\n\nDec 20, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n중1수학\n\n\n문자와 식\n\n\n학습목표\n\n\n\n2015 개정 - 중1수학 - 문자와 식\n\n\n\n\n\nJan 18, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n중1수학\n\n\n도형의 기초\n\n\n\n2015 개정 교육과정 중학교 수학과 과목\n\n\n\n\n\nJan 18, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n중1수학\n\n\n도형의 성질\n\n\n\n2015 개정 교육과정 중학교 수학과 과목\n\n\n\n\n\nJan 18, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n중1수학\n\n\n통계\n\n\n\n2015 개정 교육과정 중학교 수학과 과목\n\n\n\n\n\nJan 18, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n중2수학\n\n\n도형의 닮음\n\n\n\n2015 개정 교육과정 중학교 수학과 과목\n\n\n\n\n\nJan 18, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n중2수학\n\n\n도형의 성질\n\n\n\n2015 개정 교육과정 중학교 수학과 과목\n\n\n\n\n\nJan 18, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n중2수학\n\n\n확률\n\n\n\n2015 개정 교육과정 중학교 수학과 과목\n\n\n\n\n\nJan 18, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n일차함수와 그래프 연습문제\n\n\n\n\n\n\n중2수학\n\n\n함수\n\n\n일차함수\n\n\n그래프\n\n\n연습문제\n\n\n\n함수의 개념을 이해한다. 일차함수의 의미를 이해하고, 그래프를 그릴 수 있다. 일차함수의 그래프의 성질을 이해하고, 이를 활용하여 문제를 해결할 수 있다. \n\n\n\n\n\nJan 11, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n지수의법칙 연습7\n\n\n\n\n\n\n수학\n\n\n지수의법칙\n\n\n중학교\n\n\n\n지수연산 연습문제 10개 난이도-상\n\n\n\n\n\nJan 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n지수의법칙 연습6\n\n\n\n\n\n\n수학\n\n\n지수의법칙\n\n\n중학교\n\n\n\n중학교 수준의 지수의법칙 연습문제 20개\n\n\n\n\n\nDec 31, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n최소공배수 연습문제\n\n\n\n\n\n\n중1수학\n\n\n최소공배수\n\n\n\n최소공배수의 성질을 이해하고, 이를 구할 수 있다.\n\n\n\n\n\nDec 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n최대공약수 연습문제\n\n\n\n\n\n\n중1수학\n\n\n최대공약수\n\n\n\n최대공약수의 성질을 이해하고, 이를 구할 수 있다.\n\n\n\n\n\nDec 29, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n지수의법칙 연습5\n\n\n\n\n\n\n수학\n\n\n지수의법칙\n\n\n중학교\n\n\n\n중학교 수준의 지수의법칙 연습문제 20개\n\n\n\n\n\nDec 29, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n중학수학\n\n\n\n\n\n\n수학\n\n\n중학교\n\n\n\n2015 개정 교육과정 중학교 수학과 과목\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n교육과정\n\n\n\n\n\n\n공통수학\n\n\n교육과\n\n\n2015년 개정\n\n\n\n공통수학 - 2015년 개정\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n공통수학\n\n\n방정식과 부등식\n\n\n학습목표\n\n\n\n2015년 개정 - 공통수학 - 방정식과 부등식\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n공통수학\n\n\n함수와 그래프\n\n\n학습목표\n\n\n\n2015년 개정 - 공통수학 - 함수와 그래프\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n공통수학\n\n\n도형의 방정식\n\n\n학습목표\n\n\n\n2015년 개정 - 공통수학 - 도형의 방정식\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n공통수학\n\n\n순열과 조합\n\n\n학습목표\n\n\n\n2015년 개정 - 공통수학 - 순열과 조합\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n공통수학\n\n\n다항식\n\n\n학습목표\n\n\n\n2015년 개정 - 공통수학 - 다항식\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n공통수학\n\n\n집합과 명제\n\n\n학습목표\n\n\n\n2015년 개정 - 공통수학 - 집합과 명제\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n교육과정\n\n\n\n\n\n\n수학I\n\n\n교육과정\n\n\n2015년 개정\n\n\n\n수학I - 2015년 개정\n\n\n\n\n\nDec 21, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n수학I\n\n\n지수함수와 로그함수\n\n\n학습목표\n\n\n2015년 개정\n\n\n\n수학I - 지수함수와 로그함수 - 2015년 개정\n\n\n\n\n\nJan 18, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n수학I\n\n\n수열\n\n\n학습목표\n\n\n2015년 개정\n\n\n\n수학I - 수열 - 2015년 개정\n\n\n\n\n\nJan 18, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n수학I\n\n\n삼각함수\n\n\n학습목표\n\n\n2015년 개정\n\n\n\n수학I - 삼각함수 - 2015년 개정\n\n\n\n\n\nJan 18, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n제곱근 연습문제\n\n\n\n\n\n\n중3수학\n\n\n제곱근\n\n\n연습문제\n\n\n\n\n\n\n\n\n\nJan 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n중2수학\n\n\n\n\n\n\n중2수학\n\n\n\n2015 개정 교육과정 중학교 수학과 과목\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n중1수학\n\n\n좌표평면과 그래프\n\n\n학습목표\n\n\n\n2015 개정 - 중1수학 - 좌표평면과 그래프\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n교육과정\n\n\n\n\n\n\n중1수학\n\n\n교육과정\n\n\n2015년 개정\n\n\n\n중1수학 - 2015년 개정\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n중1수학\n\n\n수와 연산\n\n\n\n2015 개정 - 중1수학 - 수와 연산\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n소인수분해 연습문제\n\n\n\n\n\n\n중1수학\n\n\n소인수분해\n\n\n\n소인수분해의 뜻을 알고, 자연수를 소인수분해할 수 있다.\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n중2수학\n\n\n문자와 식\n\n\n학습목표\n\n\n2015년 개정\n\n\n\n중2수학 - 문자와 식 - 2015년 개정\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n교육과정\n\n\n\n\n\n\n중2수학\n\n\n교육과정\n\n\n2015년 개정\n\n\n\n중2수학 - 2015년 개정\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n지수의법칙 연습4\n\n\n\n\n\n\n수학\n\n\n지수의법칙\n\n\n중학교\n\n\n\n중학교 수준의 지수의법칙 연습문제 20개\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n중2수학\n\n\n함수\n\n\n학습목표\n\n\n\n2015년 개정 - 중2수학 - 함수\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n중2수학\n\n\n유리수와 순환소수\n\n\n학습목표\n\n\n\n2015년 개정 - 중2수학 - 유리수와 순환소수\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n중3수학\n\n\n원의 성질\n\n\n학습목표\n\n\n\n2015년 개정 - 중3수학 - 원의 성질\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n교육과정\n\n\n\n\n\n\n중3수학\n\n\n교육과정\n\n\n2015년 개정\n\n\n\n중3수학 - 2015년 개정\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n중3수학\n\n\n다항식의 곱셈과 인수분해\n\n\n학습목표\n\n\n\n2015년 개정 - 중3수학 - 다항식의 곱셈과 인수분해\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n중3수학\n\n\n이차방정식\n\n\n학습목표\n\n\n\n2015년 개정 - 중3수학 - 이차방정식\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n중3수학\n\n\n실수와 그 계산\n\n\n학습목표\n\n\n\n2015년 개정 - 중3수학 - 실수와 그 계산\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n중3수학\n\n\n통계\n\n\n학습목표\n\n\n\n2015년 개정 - 중3수학 - 통계\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n학습목표\n\n\n\n\n\n\n중3수학\n\n\n삼각비\n\n\n학습목표\n\n\n2015년 개정\n\n\n\n중3수학 - 삼각비 - 2015년 개정\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n중학수학\n\n\n\n\n\n\n수학\n\n\n중학교\n\n\n\n2015 개정 교육과정 중학교 수학과 과목\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n지수의법칙 연습2\n\n\n\n\n\n\n수학\n\n\n지수의법칙\n\n\n중학교\n\n\n\n중학교수준 연습문제 20개\n\n\n\n\n\nDec 25, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n지수의 법칙 연습1\n\n\n\n\n\n\n수학\n\n\n지수의법칙\n\n\n중학교\n\n\n\n중학교수준 연습문제 15문제\n\n\n\n\n\nDec 21, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n지수의 개념\n\n\n\n\n\n\n수학\n\n\n지수의법칙\n\n\n중학교\n\n\n\n중학교 수준의 지수의 개념\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n유리수\n\n\n\n\n\n\n중1수학\n\n\n유리수\n\n\n\n2015 개정 교육과정 중학교 수학과 과목\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n순환소수\n\n\n\n\n\n\n수학\n\n\n중학교\n\n\n\n2015 개정 교육과정 중학교 수학과 과목\n\n\n\n\n\nDec 28, 2024\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/about.html",
+    "href": "posts/about.html",
+    "title": "사이트사용법",
+    "section": "",
+    "text": "블로그\n\n이 웹사이트는 top tiitle 메뉴 하부에 sidebar 메뉴에 각 웹페이지가 속하도록 구성되어 있습니다.\n\n큰 주제에 속하는 하위의 특정주제 웹페이지를 찾아가는 일반적인 구조입니다.\n\n이 웹사이트의 블로그는 위에서의 웹페이지들을 날짜순으로 재배열하여 보여줍니다.\n\n이 웹사이트는 두 가지 날짜가 있습니다.\n\nPUBLISHED는 최초작성일에 해당하는 개념입니다.\nMODIFIED는 최종수정일에 해당하는 개념입니다.\n\n블로그는 MIDIFIED를 기준으로 최신으로 정렬하여 보여줍니다.\n\nMODIFIED(=최종수정일)가 최신이어서 블로그에서 상위에 링크된 웹샅이느는 최근에 갱신된 내용이 있으므로 다시 볼 필요가 있임을 시사합니다.\n\n\n\n\n\n댓글\n\n댓글 기능은 guthub에 가입해야 가능합니다.\n아직 개발중인 기능이라 웹페이지가 갱신될 때 기존 댓글이 사라질 수 있으니 독자분들의 양해를 바랍니다."
+  },
+  {
+    "objectID": "posts/common/curriculum.html",
+    "href": "posts/common/curriculum.html",
+    "title": "교육과정",
+    "section": "",
+    "text": "1. 성격\n수학과는 수학의 개념, 원리, 법칙을 이해하고 기능을 습득하여 주변의 여러 가지 현상을 수학적으로 관찰하고 해석하며 논리적으로 사고하고 합리적으로 문제를 해결하는 능력과 태도를 기르는 교과이다. 수학은 오랜 역사를 통해 인류 문명 발전의 원동력이 되어 왔으며, 세계화･정보화가 가속화되는 미래 사회의 구성원에게 필수적인 역량을 제공한다. 수학 학습을 통해 학생들은 수학의 규칙성과 구조의 아름다움을 음미할 수 있고, 수학의 지식과 기능을 활용하여 수학 문제뿐만 아니라 실생활과 다른 교과의 문제를 창의적으로 해결할 수 있으며, 나아가 세계 공동체의 시민으로서 갖추어야 할 합리적 의사 결정 능력과 민주적 소통 능력을 함양할 수 있다.\n고등학교 공통 과목인 &lt;수학&gt;은 중학교 3학년까지의 수학을 학습한 후 고등학교의 모든 학생들이 필수적으로 이수하는 과목이다. &lt;수학&gt;의 내용은 초등학교 및 중학교 수학과 연계하여 ʻ문자와 식ʼ, ʻ기하ʼ, ʻ수와 연산ʼ, ʻ함수ʼ, ʻ확률과 통계ʼ의 5개 영역으로 구성된다. ʻ문자와 식ʼ 영역에서는 다항식의 사칙연산, 나머지정리, 인수분해, 복소수와 이차방정식, 이차방정식과 이차함수, 여러 가지 방정식과 부등식을, ʻ기하ʼ 영역에서는 평면좌표, 직선의 방정식, 원의 방정식, 도형의 이동을, ʻ수와 연산ʼ 영역에서는 집합, 명제를, ʻ함수ʼ 영역에서는 함수의 뜻과 유형, 유리함수와 무리함수를, ’확률과 통계ʼ 영역에서는 경우의 수, 순열과 조합을 다룬다.\n&lt;수학&gt;에서 학습한 수학의 지식과 기능은 자신의 진로와 적성을 고려하여 선택할 수 있는 수학 일반 선택 과목과 진로 선택 과목, 수학 전문 교과 과목을 학습하기 위한 토대가 되고, 자연과학, 공학, 의학뿐만 아니라 경제･경영학을 포함한 사회과학, 인문학, 예술 및 체육 분야를 학습하는 데 기초가 되며, 나아가 창의적 역량을 갖춘 융합 인재로 성장할 수 있는 기반을 제공한다. 이를 위해 학생들은 &lt;수학&gt;의 지식을 이해하고 기능을 습득하는 것과 더불어 문제 해결, 추론, 창의･융합, 의사소통, 정보 처리, 태도 및 실천의 6가지 수학 교과 역량을 길러야 한다.\n교과 역량으로서의 문제 해결은 해결 방법을 알고 있지 않은 문제 상황에서 수학의 지식과 기능을 활용하여 해결 전략을 탐색하고 최적의 해결 방안을 선택하여 주어진 문제를 해결하는 능력이고, 추론은 수학적 사실을 추측하고 논리적으로 분석하고 정당화하며 그 과정을 반성하는 능력이다. 창의･융합은 수학의 지식과 기능을 토대로 새롭고 의미 있는 아이디어를 다양하고 풍부하게 산출하고 정교화하며, 여러 수학적 지식, 기능, 경험을 연결하거나 타 교과나 실생활의 지식, 기능, 경험을 수학과 연결･융합하여 새로운 지식, 기능, 경험을 생성하고 문제를 해결하는 능력이다. 의사소통은 수학 지식이나 아이디어, 수학적 활동의 결과, 문제 해결과정, 신념과 태도 등을 말이나 글, 그림, 기호로 표현하고 다른 사람의 아이디어를 이해하는 능력이고, 정보 처리는 다양한 자료와 정보를 수집, 정리, 분석, 활용하고 적절한 공학적 도구나 교구를 선택, 이용하여 자료와 정보를 효과적으로 처리하는 능력이다. 끝으로, 태도 및 실천은 수학의 가치를 인식하고 자주적 수학 학습 태도와 민주 시민 의식을 갖추어 실천하는 능력이다.\n수학 교과 역량 함양을 통해 학생들은 복잡하고 전문화되어 가는 미래 사회에서 사회 구성원의 역할을 성공적으로 수행할 수 있고, 개인의 잠재력과 재능을 발현할 수 있으며, 수학의 필요성과 유용성을 이해하고, 수학 학습의 즐거움을 느끼며, 수학에 대한 흥미와 자신감을 기를 수 있다.\n\n\n2. 목표\n수학의 개념, 원리, 법칙을 이해하고 기능을 습득하며 수학적으로 추론하고 의사소통하는 능력을 길러, 생활 주변과 사회 및 자연 현상을 수학적으로 이해하고 문제를 합리적이고 창의적으로 해결하며, 수학 학습자로서 바람직한 태도와 실천 능력을 기른다.\n가. 사회 및 자연 현상을 수학적으로 관찰, 분석, 조직, 표현하는 경험을 통하여 문자와 식, 기하, 수와 연산, 함수, 확률과 통계에 관련된 개념, 원리, 법칙과 이들 사이의 관계를 이해하고 수학의 기능을 습득한다.\n나. 수학적으로 추론하고 의사소통하며, 창의･융합적 사고와 정보 처리 능력을 바탕으로 사회 및 자연 현상을 수학적으로 이해하고 문제를 합리적이고 창의적으로 해결한다.\n다. 수학에 대한 흥미와 자신감을 갖고 수학의 역할과 가치를 이해하며 수학 학습자로서 바람직한 태도와 실천 능력을 기른다.\n\n\n1. 문자와 식\n문자를 포함한 식의 사칙연산과 인수분해는 복잡한 다항식으로 확장되어 적용되고, 방정식과 부등식은 적절한 절차에 따라 이를 만족시키는 해를 구할 수 있다. 다항식의 연산 및 방정식과 부등식은 수학의 여러 분야 학습의 기초가 되고 문제를 해결하는 중요한 도구가 된다.\n\n다항식의 연산\n\n[10수학01-01]다항식의 사칙연산을 할 수 있다.\n\n\n\n나머지정리\n\n[10수학01-02]항등식의 성질을 이해한다.\n[10수학01-03]나머지정리의 의미를 이해하고, 이를 활용하여 문제를 해결할 수 있다.\n\n\n\n인수분해\n\n[10수학01-04]다항식의 인수분해를 할 수 있다.\n\n\n\n복소수와 이차방정식\n\n[10수학01-05]복소수의 뜻과 성질을 이해하고 사칙연산을 할 수 있다.\n[10수학01-06]이차방정식의 실근과 허근의 뜻을 안다.\n[10수학01-07]이차방정식에서 판별식의 의미를 이해하고 이를 설명할 수 있다.\n[10수학01-08]이차방정식의 근과 계수의 관계를 이해한다.\n\n\n\n이차방정식과 이차함수\n\n[10수학01-09]이차방정식과 이차함수의 관계를 이해한다.\n[10수학01-10]이차함수의 그래프와 직선의 위치 관계를 이해한다.\n[10수학01-11]이차함수의 최대, 최소를 이해하고, 이를 활용하여 문제를 해결할 수 있다.\n\n\n\n여러 가지 방정식과 부등식\n\n[10수학01-12]간단한 삼차방정식과 사차방정식을 풀 수 있다.\n[10수학01-13]미지수가 2개인 연립이차방정식을 풀 수 있다.\n[10수학01-14]미지수가 1개인 연립일차부등식을 풀 수 있다.\n[10수학01-15]절댓값을 포함한 일차부등식을 풀 수 있다.\n[10수학01-16]이차부등식과 이차함수의 관계를 이해하고, 이차부등식과 연립이차부등식을 풀 수 있다.\n\n\n\n\n2. 기하\n좌표평면에 나타낸 점, 직선, 원과 같은 도형은 대수적으로 표현된다. 도형의 방정식은 기하적 대상을 방정식으로 나타내어 기하와 대수의 연결성을 경험할 수 있게 하고, 도형을 새로운 관점에서 다루어봄으로써 직관적인 사고에서 논리적이고 창의적인 사고로 발전시키는 데 도움이 된다.\n\n평면좌표\n\n[10수학02-01]두 점 사이의 거리를 구할 수 있다.\n[10수학02-02]선분의 내분과 외분을 이해하고, 내분점과 외분점의 좌표를 구할 수 있다.\n\n\n\n직선의 방정식\n\n[10수학02-03]직선의 방정식을 구할 수 있다.\n[10수학02-04]두 직선의 평행 조건과 수직 조건을 이해한다.\n[10수학02-05]점과 직선 사이의 거리를 구할 수 있다.\n\n\n\n원의 방정식\n\n[10수학02-06]원의 방정식을 구할 수 있다.\n[10수학02-07]좌표평면에서 원과 직선의 위치 관계를 이해한다.\n\n\n\n도형의 이동\n\n[10수학02-08]평행이동의 의미를 이해한다.\n[10수학02-09]원점, 축, 축, 직선 에 대한 대칭이동의 의미를 이해한다.\n\n\n\n\n3. 수와 연산\n집합은 수학적 대상을 논리적으로 표현하고 이해하는 도구이며, 명제는 증명을 통해 그 타당성이 입증된다. 집합과 명제의 학습을 통해 수학적인 식이나 문장을 이해하고 논리적으로 추론하는 능력을 기를 수 있다.\n\n집합\n\n[10수학03-01]집합의 개념을 이해하고, 집합을 표현할 수 있다.\n[10수학03-02]두 집합 사이의 포함 관계를 이해한다.\n[10수학03-03]집합의 연산을 할 수 있다.\n\n\n\n명제\n\n[10수학03-04]명제와 조건의 뜻을 알고, ‘모든’, ’어떤’을 포함한 명제를 이해한다.\n[10수학03-05]명제의 역과 대우를 이해한다.\n[10수학03-06]충분조건과 필요조건을 이해하고 구별할 수 있다.\n[10수학03-07]대우를 이용한 증명법과 귀류법을 이해한다.\n[10수학03-08]절대부등식의 의미를 이해하고, 간단한 절대부등식을 증명할 수 있다.\n\n\n\n\n4. 함수\n여러 가지 변화 현상을 포함한 다양한 대응 관계를 표현하는 함수는 대수적 조작이 가능하며, 함수의 그래프를 통해 시각적으로 표현된다. 함수는 여러 가지 현상에서 대상 간의 연관성이나 종속성을 해석하고 예측하는 수단이 되고, 다양한 변화 현상에서의 수학적 관계를 이해하고 표현함으로써 여러 가지 문제를 해결하는 데 도움이 된다.\n\n함수\n\n[10수학04-01]함수의 개념을 이해하고, 그 그래프를 이해한다.\n[10수학04-02]함수의 합성을 이해하고, 합성함수를 구할 수 있다.\n[10수학04-03]역함수의 의미를 이해하고, 주어진 함수의 역함수를 구할 수 있다.\n\n\n\n유리함수와 무리함수\n\n[10수학04-04]유리함수 \\(y = \\frac{ax + b}{cx + d}\\)의 그래프를 그릴 수 있고, 그 그래프의 성질을 이해한다.\n[10수학04-05]무리함수 \\(y = \\sqrt{ax + b} + c\\)의 그래프를 그릴 수 있고, 그 그래프의 성질을 이해한다.\n\n\n\n\n5. 확률과 통계\n다양한 상황과 맥락에서 경우의 수를 구하는 체계적인 방법이 존재한다. 경우의 수를 세는 방법은 사건이 일어날 수 있는 모든 경우를 분류하고 체계화하는 수학적 사고를 경험하게 하고, 합리적인 의사 결정의 중요한 도구가 된다.\n\n경우의 수\n\n[10수학05-01]합의 법칙과 곱의 법칙을 이해하고, 이를 이용하여 경우의 수를 구할 수 있다.\n\n\n\n\n순열과 조합\n\n[10수학05-02]순열의 의미를 이해하고, 순열의 수를 구할 수 있다.\n[10수학05-03]조합의 의미를 이해하고, 조합의 수를 구할 수 있다.",
+    "crumbs": [
+      "공통수학",
+      "교육과정"
+    ]
+  },
+  {
+    "objectID": "posts/common/function_graph/learning_objective.html",
+    "href": "posts/common/function_graph/learning_objective.html",
+    "title": "학습목표",
+    "section": "",
+    "text": "정의역, 치역, 공역, 합성함수, 역함수\n\n\n\n\n\n함수의 개념 및 그래프 이해\n유리함수와 무리함수의 그래프\n\n\n\n\n공학적 도구 활용 가능\n복잡한 문제는 다루지 않음",
+    "crumbs": [
+      "공통수학",
+      "함수와 그래프",
+      "학습목표"
+    ]
+  },
+  {
+    "objectID": "posts/common/function_graph/learning_objective.html#v.-함수와-그래프",
+    "href": "posts/common/function_graph/learning_objective.html#v.-함수와-그래프",
+    "title": "학습목표",
+    "section": "",
+    "text": "정의역, 치역, 공역, 합성함수, 역함수\n\n\n\n\n\n함수의 개념 및 그래프 이해\n유리함수와 무리함수의 그래프\n\n\n\n\n공학적 도구 활용 가능\n복잡한 문제는 다루지 않음",
+    "crumbs": [
+      "공통수학",
+      "함수와 그래프",
+      "학습목표"
+    ]
+  },
+  {
+    "objectID": "posts/common/permutation_combination/learning_objective.html",
+    "href": "posts/common/permutation_combination/learning_objective.html",
+    "title": "학습목표",
+    "section": "",
+    "text": "합의 법칙, 곱의 법칙, 순열, 조합\n\n\n\n\n\n경우의 수 계산법 이해\n순열과 조합의 의미 및 계산\n\n\n\n\n실생활 문제를 통해 순열과 조합의 유용성 인식\n지나치게 복잡한 문제는 다루지 않음",
+    "crumbs": [
+      "공통수학",
+      "순열과 조합",
+      "학습목표"
+    ]
+  },
+  {
+    "objectID": "posts/common/permutation_combination/learning_objective.html#vi.-순열과-조합",
+    "href": "posts/common/permutation_combination/learning_objective.html#vi.-순열과-조합",
+    "title": "학습목표",
+    "section": "",
+    "text": "합의 법칙, 곱의 법칙, 순열, 조합\n\n\n\n\n\n경우의 수 계산법 이해\n순열과 조합의 의미 및 계산\n\n\n\n\n실생활 문제를 통해 순열과 조합의 유용성 인식\n지나치게 복잡한 문제는 다루지 않음",
+    "crumbs": [
+      "공통수학",
+      "순열과 조합",
+      "학습목표"
+    ]
+  },
+  {
+    "objectID": "posts/common/set_proposition/learning_objective.html",
+    "href": "posts/common/set_proposition/learning_objective.html",
+    "title": "학습목표",
+    "section": "",
+    "text": "집합, 원소, 공집합, 부분집합, 합집합, 교집합, 여집합\n드모르간 법칙, 충분조건, 필요조건\n\n\n\n\n\n집합의 연산 및 명제 이해\n충분조건과 필요조건의 구분\n\n\n\n\n벤 다이어그램 활용\n간단한 명제 증명 중심",
+    "crumbs": [
+      "공통수학",
+      "집합과 명제",
+      "학습목표"
+    ]
+  },
+  {
+    "objectID": "posts/common/set_proposition/learning_objective.html#iv.-집합과-명제",
+    "href": "posts/common/set_proposition/learning_objective.html#iv.-집합과-명제",
+    "title": "학습목표",
+    "section": "",
+    "text": "집합, 원소, 공집합, 부분집합, 합집합, 교집합, 여집합\n드모르간 법칙, 충분조건, 필요조건\n\n\n\n\n\n집합의 연산 및 명제 이해\n충분조건과 필요조건의 구분\n\n\n\n\n벤 다이어그램 활용\n간단한 명제 증명 중심",
+    "crumbs": [
+      "공통수학",
+      "집합과 명제",
+      "학습목표"
+    ]
+  },
+  {
+    "objectID": "posts/I/exponent_log_function/learning_objective.html",
+    "href": "posts/I/exponent_log_function/learning_objective.html",
+    "title": "학습목표",
+    "section": "",
+    "text": "지수함수와 로그함수\n지수함수는 빠르게 증가하거나 감소하는 수량이나 현상을 다루는 데 유용한 함수이고, 로그함수는 지수함수의 역함수이다. 지수함수와 로그함수는 자연 현상이나 사회 현상을 설명하고 분석하기 위한 수학적 모델이다.\n\n1. 지수와 로그\n\n[12수학Ⅰ01-01]거듭제곱과 거듭제곱근의 뜻을 알고, 그 성질을 이해한다.\n[12수학Ⅰ01-02]지수가 유리수, 실수까지 확장될 수 있음을 이해한다.\n[12수학Ⅰ01-03]지수법칙을 이해하고, 이를 이용하여 식을 간단히 나타낼 수 있다.\n[12수학Ⅰ01-04]로그의 뜻을 알고, 그 성질을 이해한다.\n[12수학Ⅰ01-05]상용로그를 이해하고, 이를 활용할 수 있다.\n\n\n\n2. 지수함수와 로그함수\n\n[12수학Ⅰ01-06]지수함수와 로그함수의 뜻을 안다.\n[12수학Ⅰ01-07]지수함수와 로그함수의 그래프를 그릴 수 있고, 그 성질을 이해한다.\n[12수학Ⅰ01-08]지수함수와 로그함수를 활용하여 문제를 해결할 수 있다.\n\n\n\n\n학습요소\n\n거듭제곱근\n로그\n(로그의) 밑\n진수\n상용로그\n지수함수\n로그함수\n\\(\\sqrt[n]{a}\\)\n\\(log_aN\\)\n\\(logN\\)\n\n\n\n교수･학습 방법 및 유의 사항\n\n지수가 유리수 및 실수인 경우는 밑이 양수인 조건이 필요함을 이해하게 한다.\n지수가 실수인 경우는 직관적으로 다룬다.\n로그의 성질은 지수의 성질과 관련지어 이해하게 한다.\n지수함수와 로그함수는 역함수 관계임을 그래프를 통해 확인하게 한다.\n지수와 로그 및 지수함수와 로그함수를 다룰 때 공학적 도구를 이용할 수 있다.\n구체적인 자연 현상이나 사회 현상을 지수함수와 로그함수로 표현하고 이 과정에서 나타나는 간단한 방정식과 부등식을 풀어 문제를 해결해봄으로써 지수함수와 로그함수의 유용성과 가치를 인식하게 한다.\n\n\n\n평가 방법 및 유의 사항\n\n지수와 로그의 성질에 대한 평가에서는 지수와 로그의 기본 성질을 이해하고 활용할 수 있는 능력을 평가하는 데 중점을 두고, 지나치게 복잡한 계산을 포함하는 문제는 다루지 않는다.\n\n\n\n사전 학습\n\n중1수학\n\n수와 연산\n\n\n정수와 유리수 단원에서 유리수의 정의를 이해하고 계산할 수 있어야 한다.\n\n\n\n중2수학\n\n문자와 식\n\n\n식의 계산 단원에서 지수의 법칙을 이해하고, 계산할 수 있어야 한다.\n\n\n함수\n\n\n일차함수와 그래프 단원에서 함수의 정의를 이해하고, 일차함수의 특징을 이해하고 예시 그래프를 그릴 수 있어야 한다.\n\n\n\n중3수학\n\n수와 연산\n\n\n제곱근과 실수 단원에서 제곱근과 실수의 정의를 이해하고 근호를 포함한 식의 사칙계산을 할 수 있어야 한다.\n\n\n함수\n\n\n이차함수와 그래프 단원에서 이차함수의 특징을 이해하고 예시 그래프를 그릴 수 있어야 한다.\n\n\n\n공통수학\n\n함수\n\n\n함수 단원에서 함수와 역함수의 개념을 이해하고, 예시 그래프를 그릴 수 있어야 한다.",
+    "crumbs": [
+      "수학I",
+      "지수함수와 로그함수",
+      "학습목표"
+    ]
+  },
+  {
+    "objectID": "posts/I/trigonometric_function/learning_objective.html",
+    "href": "posts/I/trigonometric_function/learning_objective.html",
+    "title": "학습목표",
+    "section": "",
+    "text": "삼각함수\n삼각함수는 삼각비를 일반화시킨 개념으로, 자연 현상이나 사회 현상 가운데 나타나는 주기적인 현상을 수학적으로 표현하여 설명하고 분석할 수 있는 유용한 주기함수이다. 사인법칙과 코사인법칙을 포함한 삼각함수의 성질은 삼각형으로 나타낼 수 있는 대상의 길이, 넓이, 각도 등의 측정과 관련된 다양한 문제의 해결에 활용된다.\n\n1. 삼각함수\n\n[12수학Ⅰ02-01]일반각과 호도법의 뜻을 안다.\n[12수학Ⅰ02-02]삼각함수의 뜻을 알고, 사인함수, 코사인함수, 탄젠트함수의 그래프를 그릴 수 있다.\n[12수학Ⅰ02-03]사인법칙과 코사인법칙을 이해하고, 이를 활용할 수 있다.\n\n\n\n\n학습요소\n\n시초선\n동경\n일반각\n호도법\n라디안\n사인함수\n코사인함수\n탄젠트함수\n사인 법칙\n코사인 법칙\n삼각함수\n주기\n주기함수\n(\\(\\sin x\\))\n(\\(\\cos x\\))\n(\\(\\tan x\\))\n\n\n\n교수･학습 방법 및 유의사항\n\n삼각함수의 개념은 중학교에서 학습한 삼각비와 연계하여 이해하게 한다.\n삼각함수의 성질은 삼각함수의 그래프의 성질을 이해하는 데 필요한 정도로 간단히 다룬다.\n삼각함수의 그래프를 그리거나 삼각함수와 관련된 문제를 해결할 때 공학적 도구를 이용할 수 있다. - 사인법칙과 코사인법칙을 이용하여 삼각형의 각의 크기와 변의 길이 사이의 관계를 이해하고 삼각형의 넓이를 다양한 방법으로 구할 수 있게 한다.\n사인법칙과 코사인법칙을 활용하여 여러 가지 문제를 해결해봄으로써 삼각함수의 유용성과 가치를 인식하게 한다.\n삼각함수가 포함된 방정식과 부등식은 삼각함수의 그래프를 해석하거나 사인법칙과 코사인법칙을 활용하여 문제를 해결하는 과정에서 나타나는 간단한 경우만 다루되, 주어진 구간 안에서 해를 구하는 것만 다룬다.\n\n\n\n평가 방법 및 유의 사항\n\n삼각함수와 그 그래프의 성질에 대한 평가에서는 기본적인 삼각함수의 그래프와 그 성질에 대한 이해 능력을 평가하는 데 중점을 두고, 복잡한 합성함수나 절댓값이 여러 개 포함된 함수와 같이 지나치게 복잡한 삼각함수를 포함하는 문제는 다루지 않는다.\n\n\n\n사전 학습\n\n중2수학\n\n함수\n\n\n일차함수와 그래프 단원에서 함수의 정의를 이해하고, 일차함수의 특징을 이해하고 예시 그래프를 그릴 수 있어야 한다.\n\n\n\n중3수학\n\n함수\n\n\n이차함수와 그래프 단원에서 이차함수의 특징을 이해하고 예시 그래프를 그릴 수 있어야 한다.\n\n\n기하\n\n\n삼각비 단원에서 삼각비의 뜻을 알고, 삼각비의 값을 구할 수 있어야 한다.\n\n\n\n공통수학\n\n함수\n\n\n함수 단원에서 함수와 역함수의 개념을 이해하고, 예시 그래프를 그릴 수 있어야 한다.",
+    "crumbs": [
+      "수학I",
+      "삼각함수",
+      "학습목표"
+    ]
+  },
+  {
+    "objectID": "posts/middle1/curriculum.html",
+    "href": "posts/middle1/curriculum.html",
+    "title": "교육과정",
+    "section": "",
+    "text": "[9수01-01]소인수분해의 뜻을 알고, 자연수를 소인수분해할 수 있다.\n[9수01-02]최대공약수와 최소공배수의 성질을 이해하고, 이를 구할 수 있다.\n\n\n\n\n\n[9수01-03]양수와 음수, 정수와 유리수의 개념을 이해한다.\n[9수01-04]정수와 유리수의 대소 관계를 판단할 수 있다.\n[9수01-05]정수와 유리수의 사칙계산의 원리를 이해하고, 그 계산을 할 수 있다.\n\n\n\n\n\n\n\n\n[9수02-01]다양한 상황을 문자를 사용한 식으로 나타낼 수 있다.\n[9수02-02]식의 값을 구할 수 있다.\n[9수02-03]일차식의 덧셈과 뺄셈의 원리를 이해하고, 그 계산을 할 수 있다.\n\n\n\n\n[9수02-04]방정식과 그 해의 의미를 알고, 등식의 성질을 이해한다. [9수02-05]일차방정식을 풀 수 있고, 이를 활용하여 문제를 해결할 수 있다.\n\n\n\n\n\n\n\n[9수03-01]순서쌍과 좌표를 이해한다.\n[9수03-02]다양한 상황을 그래프로 나타내고, 주어진 그래프를 해석할 수 있다.\n[9수03-03]정비례, 반비례 관계를 이해하고, 그 관계를 표, 식, 그래프로 나타낼 수 있다.\n\n\n\n\n\n\n\n\n[9수04-01]점, 선, 면, 각을 이해하고, 점, 직선, 평면의 위치 관계를 설명할 수 있다.\n[9수04-02]평행선에서 동위각과 엇각의 성질을 이해한다.\n\n\n\n\n\n[9수04-03]삼각형을 작도할 수 있다.\n[9수04-04]삼각형의 합동 조건을 이해하고, 이를 이용하여 두 삼각형이 합동인지 판별할 수 있다.\n\n\n\n\n\n\n\n\n[9수05-01]자료를 줄기와 잎 그림, 도수분포표, 히스토그램, 도수분포다각형으로 나타내고 해석할 수 있다.\n[9수05-02]상대도수를 구하며, 이를 그래프로 나타내고, 상대도수의 분포를 이해한다.\n[9수05-03]공학적 도구를 이용하여 실생활과 관련된 자료를 수집하고 표나 그래프로 정리하고 해석할 수 있다.",
+    "crumbs": [
+      "중1수학",
+      "교육과정"
+    ]
+  },
+  {
+    "objectID": "posts/middle1/curriculum.html#중1과정",
+    "href": "posts/middle1/curriculum.html#중1과정",
+    "title": "교육과정",
+    "section": "",
+    "text": "[9수01-01]소인수분해의 뜻을 알고, 자연수를 소인수분해할 수 있다.\n[9수01-02]최대공약수와 최소공배수의 성질을 이해하고, 이를 구할 수 있다.\n\n\n\n\n\n[9수01-03]양수와 음수, 정수와 유리수의 개념을 이해한다.\n[9수01-04]정수와 유리수의 대소 관계를 판단할 수 있다.\n[9수01-05]정수와 유리수의 사칙계산의 원리를 이해하고, 그 계산을 할 수 있다.\n\n\n\n\n\n\n\n\n[9수02-01]다양한 상황을 문자를 사용한 식으로 나타낼 수 있다.\n[9수02-02]식의 값을 구할 수 있다.\n[9수02-03]일차식의 덧셈과 뺄셈의 원리를 이해하고, 그 계산을 할 수 있다.\n\n\n\n\n[9수02-04]방정식과 그 해의 의미를 알고, 등식의 성질을 이해한다. [9수02-05]일차방정식을 풀 수 있고, 이를 활용하여 문제를 해결할 수 있다.\n\n\n\n\n\n\n\n[9수03-01]순서쌍과 좌표를 이해한다.\n[9수03-02]다양한 상황을 그래프로 나타내고, 주어진 그래프를 해석할 수 있다.\n[9수03-03]정비례, 반비례 관계를 이해하고, 그 관계를 표, 식, 그래프로 나타낼 수 있다.\n\n\n\n\n\n\n\n\n[9수04-01]점, 선, 면, 각을 이해하고, 점, 직선, 평면의 위치 관계를 설명할 수 있다.\n[9수04-02]평행선에서 동위각과 엇각의 성질을 이해한다.\n\n\n\n\n\n[9수04-03]삼각형을 작도할 수 있다.\n[9수04-04]삼각형의 합동 조건을 이해하고, 이를 이용하여 두 삼각형이 합동인지 판별할 수 있다.\n\n\n\n\n\n\n\n\n[9수05-01]자료를 줄기와 잎 그림, 도수분포표, 히스토그램, 도수분포다각형으로 나타내고 해석할 수 있다.\n[9수05-02]상대도수를 구하며, 이를 그래프로 나타내고, 상대도수의 분포를 이해한다.\n[9수05-03]공학적 도구를 이용하여 실생활과 관련된 자료를 수집하고 표나 그래프로 정리하고 해석할 수 있다.",
+    "crumbs": [
+      "중1수학",
+      "교육과정"
+    ]
+  },
+  {
+    "objectID": "posts/middle1/curriculum.html#중학교-전체과정",
+    "href": "posts/middle1/curriculum.html#중학교-전체과정",
+    "title": "교육과정",
+    "section": "중학교 전체과정",
+    "text": "중학교 전체과정\n\n1. 수와 연산\n수는 방정식의 해의 존재를 보장하기 위해 정수, 유리수, 실수 등으로 확장되고, 각각의 수체계에서 사칙계산이 정의되고 연산의 성질이 일관되게 성립한다. 수는 수학에서 다루는 가장 기본적인 개념으로, 실생활뿐 아니라 타 교과나 수학의 다른 영역을 학습하는 데 필수적이다. 또한 수의 연산은 수학 학습에서 습득해야 할 가장 기본적인 기능 중 하나로, 이후 학습을 위한 기초가 된다.\n\n소인수분해\n\n[9수01-01]소인수분해의 뜻을 알고, 자연수를 소인수분해할 수 있다.\n[9수01-02]최대공약수와 최소공배수의 성질을 이해하고, 이를 구할 수 있다.\n\n\n\n정수와 유리수\n\n[9수01-03]양수와 음수, 정수와 유리수의 개념을 이해한다.\n[9수01-04]정수와 유리수의 대소 관계를 판단할 수 있다.\n[9수01-05]정수와 유리수의 사칙계산의 원리를 이해하고, 그 계산을 할 수 있다.\n\n\n\n유리수와 순환소수\n\n[9수01-06]순환소수의 뜻을 알고, 유리수와 순환소수의 관계를 이해한다.\n\n\n\n제곱근과 실수\n\n[9수01-07]제곱근의 뜻을 알고, 그 성질을 이해한다.\n[9수01-08]무리수의 개념을 이해한다.\n[9수01-09]실수의 대소 관계를 판단할 수 있다.\n[9수01-10]근호를 포함한 식의 사칙계산을 할 수 있다.\n\n\n\n\n2. 문자와 식\n문자는 수량 관계를 명확하고 간결하게 표현하는 수학적 언어이다. 문자를 통해 수량 사이의 관계를 일반화함으로써 산술에서 대수로 이행하며, 수에 대한 사칙연산과 소인수분해는 다항식으로 확장되어 적용된다. 또한 방정식과 부등식은 양 사이의 관계를 나타내며, 적절한 절차를 따라 이를 만족시키는 해를 구할 수 있다. 문자는 수학적 의사소통을 원활히 할 수 있도록 도와주고, 문자를 이용한 방정식과 부등식은 여러 가지 문제를 해결하는 중요한 도구가 된다.\n\n문자의 사용과 식의 계산\n\n[9수02-01]다양한 상황을 문자를 사용한 식으로 나타낼 수 있다.\n[9수02-02]식의 값을 구할 수 있다.\n[9수02-03]일차식의 덧셈과 뺄셈의 원리를 이해하고, 그 계산을 할 수 있다.\n\n\n\n일차방정식\n[9수02-04]방정식과 그 해의 의미를 알고, 등식의 성질을 이해한다. [9수02-05]일차방정식을 풀 수 있고, 이를 활용하여 문제를 해결할 수 있다.\n\n\n식의 계산\n[9수02-06]지수법칙을 이해한다. [9수02-07]다항식의 덧셈과 뺄셈의 원리를 이해하고, 그 계산을 할 수 있다. [9수02-08]‘(단항식)×(다항식)’, ’(다항식)÷(단항식)’과 같은 곱셈과 나눗셈의 원리를 이해하고, 그 계산을 할 수 있다.\n\n\n일차부등식과 연립일차방정식\n[9수02-09]부등식과 그 해의 의미를 알고, 부등식의 성질을 이해한다. [9수02-10]일차부등식을 풀 수 있고, 이를 활용하여 문제를 해결할 수 있다. [9수02-11]미지수가 2개인 연립일차방정식을 풀 수 있고, 이를 활용하여 문제를 해결할 수 있다.\n\n\n다항식의 곱셈과 인수분해\n[9수02-12]다항식의 곱셈과 인수분해를 할 수 있다.\n\n\n이차방정식\n[9수02-13]이차방정식을 풀 수 있고, 이를 활용하여 문제를 해결할 수 있다.\n\n\n\n3. 함수\n변화하는 양 사이의 관계를 나타내는 함수는 대응과 종속의 의미를 포함하며, 그래프는 함수를 시각적으로 표현하는 도구이다. 여러 가지 현상에서 관찰할 수 있는 규칙 중에는 한 값이 변하면 다른 값도 일정한 규칙에 따라 변하는 것들이 많이 있다. 함수는 다양한 변화 현상 속의 수학적 관계를 이해하고 표현함으로써 여러 가지 문제를 해결하는 데 도움이 된다.\n\n좌표평면과 그래프\n\n[9수03-01]순서쌍과 좌표를 이해한다.\n[9수03-02]다양한 상황을 그래프로 나타내고, 주어진 그래프를 해석할 수 있다.\n[9수03-03]정비례, 반비례 관계를 이해하고, 그 관계를 표, 식, 그래프로 나타낼 수 있다.\n\n\n\n일차함수와 그래프\n\n[9수03-04]함수의 개념을 이해한다.\n[9수03-05]일차함수의 의미를 이해하고, 그 그래프를 그릴 수 있다.\n[9수03-06]일차함수의 그래프의 성질을 이해하고, 이를 활용하여 문제를 해결할 수 있다.\n\n\n\n일차함수와 일차방정식의 관계\n\n[9수03-07]일차함수와 미지수가 2개인 일차방정식의 관계를 이해한다.\n[9수03-08]두 일차함수의 그래프와 연립일차방정식의 관계를 이해한다.\n\n\n\n이차함수와 그래프\n\n[9수03-09]이차함수의 의미를 이해하고, 그 그래프를 그릴 수 있다.\n[9수03-10]이차함수의 그래프의 성질을 이해한다.\n\n\n\n\n4. 기하\n주변의 형태는 여러 가지 평면도형이나 입체도형으로 범주화 되고, 각각의 평면도형이나 입체도형은 고유한 성질을 갖는다. 평면도형이나 입체도형의 성질에 대한 이해는 다양한 분야의 실생활 문제를 해결하는 데 기초가 되며, 수학의 다른 영역의 개념과 밀접하게 관련되어 있다. 도형의 성질을 정당화하는 과정에서 요구되는 연역적 추론은 수학적 소양을 기르는 데 도움이 된다.\n\n기본 도형\n\n[9수04-01]점, 선, 면, 각을 이해하고, 점, 직선, 평면의 위치 관계를 설명할 수 있다.\n[9수04-02]평행선에서 동위각과 엇각의 성질을 이해한다.\n\n\n\n작도와 합동\n\n[9수04-03]삼각형을 작도할 수 있다.\n[9수04-04]삼각형의 합동 조건을 이해하고, 이를 이용하여 두 삼각형이 합동인지 판별할 수 있다.\n\n\n\n평면도형의 성질\n\n[9수04-05]다각형의 성질을 이해한다.\n[9수04-06]부채꼴의 중심각과 호의 관계를 이해하고, 이를 이용하여 부채꼴의 넓이와 호의 길이를 구할 수 있다.\n\n\n\n입체도형의 성질\n\n[9수04-07]다면체의 성질을 이해한다.\n[9수04-08]회전체의 성질을 이해한다.\n[9수04-09]입체도형의 겉넓이와 부피를 구할 수 있다.\n\n\n\n삼각형과 사각형의 성질\n\n[9수04-10]이등변삼각형의 성질을 이해하고 설명할 수 있다.\n[9수04-11]삼각형의 외심과 내심의 성질을 이해하고 설명할 수 있다.\n[9수04-12]사각형의 성질을 이해하고 설명할 수 있다.\n\n\n\n도형의 닮음\n\n[9수04-13]도형의 닮음의 의미와 닮은 도형의 성질을 이해한다.\n[9수04-14]삼각형의 닮음 조건을 이해하고, 이를 이용하여 두 삼각형이 닮음인지 판별할 수 있다.\n[9수04-15]평행선 사이의 선분의 길이의 비를 구할 수 있다.\n\n\n\n피타고라스 정리\n\n[9수04-16]피타고라스 정리를 이해하고 설명할 수 있다.\n\n\n\n삼각비\n\n[9수04-17]삼각비의 뜻을 알고, 간단한 삼각비의 값을 구할 수 있다.\n[9수04-18]삼각비를 활용하여 여러 가지 문제를 해결할 수 있다.\n\n\n\n원의 성질\n\n[9수04-19]원의 현에 관한 성질과 접선에 관한 성질을 이해한다.\n[9수04-20]원주각의 성질을 이해한다.\n\n\n\n\n5. 확률과 통계\n사건이 일어날 가능성을 수치화한 확률, 그리고 자료를 수집, 정리, 해석하는 통계는 현대 정보화 사회의 불확실성을 이해하는 중요한 도구이다. 다양한 자료를 수집, 정리, 해석하고, 확률을 이해함으로써, 미래를 예측하고 합리적인 의사 결정을 하는 민주 시민으로서의 기본 소양을 기를 수 있다.\n\n자료의 정리와 해석\n\n[9수05-01]자료를 줄기와 잎 그림, 도수분포표, 히스토그램, 도수분포다각형으로 나타내고 해석할 수 있다.\n[9수05-02]상대도수를 구하며, 이를 그래프로 나타내고, 상대도수의 분포를 이해한다.\n[9수05-03]공학적 도구를 이용하여 실생활과 관련된 자료를 수집하고 표나 그래프로 정리하고 해석할 수 있다.\n\n\n\n확률과 그 기본 성질\n\n[9수05-04]경우의 수를 구할 수 있다.\n[9수05-05]확률의 개념과 그 기본 성질을 이해하고, 확률을 구할 수 있다.\n\n\n\n대푯값과 산포도\n\n[9수05-06]중앙값, 최빈값, 평균의 의미를 이해하고, 이를 구할 수 있다.\n[9수05-07]분산과 표준편차의 의미를 이해하고, 이를 구할 수 있다.\n\n\n\n상관관계\n\n[9수05-08]자료를 산점도로 나타내고, 이를 이용하여 상관관계를 말할 수 있다.",
+    "crumbs": [
+      "중1수학",
+      "교육과정"
+    ]
+  },
+  {
+    "objectID": "posts/middle1/number_operation/learning_objective.html",
+    "href": "posts/middle1/number_operation/learning_objective.html",
+    "title": "학습목표",
+    "section": "",
+    "text": "수와 연산\n수는 방정식의 해의 존재를 보장하기 위해 정수, 유리수, 실수 등으로 확장되고, 각각의 수체계에서 사칙계산이 정의되고 연산의 성질이 일관되게 성립한다. 수는 수학에서 다루는 가장 기본적인 개념으로, 실생활뿐 아니라 타 교과나 수학의 다른 영역을 학습하는 데 필수적이다. 또한 수의 연산은 수학 학습에서 습득해야 할 가장 기본적인 기능 중 하나로, 이후 학습을 위한 기초가 된다.\n\n1. 소인수분해\n\n소인수분해의 뜻을 알고, 자연수를 소인수분해할 수 있다.\n최대공약수와 최소공배수의 성질을 이해하고, 이를 구할 수 있다.\n\n\n\n2. 정수와 유리수\n\n양수와 음수, 정수와 유리수의 개념을 이해한다.\n정수와 유리수의 대소 관계를 판단할 수 있다.\n정수와 유리수의 사칙계산의 원리를 이해하고, 그 계산을 할 수 있다.",
+    "crumbs": [
+      "중1수학",
+      "수와 연산",
+      "학습목표"
+    ]
+  },
+  {
+    "objectID": "posts/middle1/number_operation/prime_factorization.html",
+    "href": "posts/middle1/number_operation/prime_factorization.html",
+    "title": "소인수분해 연습문제",
+    "section": "",
+    "text": "문제1.\n문제2.",
+    "crumbs": [
+      "중1수학",
+      "수와 연산",
+      "소인수분해 연습문제"
+    ]
+  },
+  {
+    "objectID": "posts/middle1/number_operation/prime_factorization.html#문제3.",
+    "href": "posts/middle1/number_operation/prime_factorization.html#문제3.",
+    "title": "소인수분해 연습문제",
+    "section": "문제3.",
+    "text": "문제3.\n\n\n\n\n\n\n소인수분해: 60을 소인수분해 하시오.\n\n\n\n\n\n답= \\(2^2 \\times 3 \\times 5\\)\n풀이:\n\\[\n\\begin{array}{l}\n2 \\underline{) \\, 60} \\\\\n2 \\underline{) \\, 30} \\\\\n3 \\underline{) \\, 15} \\\\\n\\phantom{3)} \\, \\hspace{0.2cm} 5\n\\end{array}\n\\]\n따라서 \\(60 = 2^2 \\times 3 \\times 5\\)",
+    "crumbs": [
+      "중1수학",
+      "수와 연산",
+      "소인수분해 연습문제"
+    ]
+  },
+  {
+    "objectID": "posts/middle2/algebric_expression/learning_objective.html",
+    "href": "posts/middle2/algebric_expression/learning_objective.html",
+    "title": "학습목표",
+    "section": "",
+    "text": "2. 문자와 식\n\n식의 계산\n[9수02-06]지수법칙을 이해한다. [9수02-07]다항식의 덧셈과 뺄셈의 원리를 이해하고, 그 계산을 할 수 있다. [9수02-08]‘(단항식)×(다항식)’, ’(다항식)÷(단항식)’과 같은 곱셈과 나눗셈의 원리를 이해하고, 그 계산을 할 수 있다.\n\n\n일차부등식과 연립일차방정식\n[9수02-09]부등식과 그 해의 의미를 알고, 부등식의 성질을 이해한다. [9수02-10]일차부등식을 풀 수 있고, 이를 활용하여 문제를 해결할 수 있다. [9수02-11]미지수가 2개인 연립일차방정식을 풀 수 있고, 이를 활용하여 문제를 해결할 수 있다."
+  },
+  {
+    "objectID": "posts/middle2/exponent/exercise1.html",
+    "href": "posts/middle2/exponent/exercise1.html",
+    "title": "지수의 법칙 연습1",
+    "section": "",
+    "text": "\\(2^3 \\times 2^4 = ?\\)\n\n\n\n\n\n답= \\(2^7\\)",
     "crumbs": [
       "중2수학",
       "문자와식",
       "지수법칙",
-      "지수의법칙 연습7"
+      "지수의 법칙 연습1"
+    ]
+  },
+  {
+    "objectID": "posts/middle2/exponent/exercise1.html#문제1.",
+    "href": "posts/middle2/exponent/exercise1.html#문제1.",
+    "title": "지수의 법칙 연습1",
+    "section": "",
+    "text": "\\(2^3 \\times 2^4 = ?\\)\n\n\n\n\n\n답= \\(2^7\\)",
+    "crumbs": [
+      "중2수학",
+      "문자와식",
+      "지수법칙",
+      "지수의 법칙 연습1"
+    ]
+  },
+  {
+    "objectID": "posts/middle2/exponent/exercise1.html#문제2.",
+    "href": "posts/middle2/exponent/exercise1.html#문제2.",
+    "title": "지수의 법칙 연습1",
+    "section": "문제2.",
+    "text": "문제2.\n\n\n\n\n\n\n\\(5^6 \\div 5^2 = ?\\)\n\n\n\n\n\n답= \\(5^4\\)",
+    "crumbs": [
+      "중2수학",
+      "문자와식",
+      "지수법칙",
+      "지수의 법칙 연습1"
+    ]
+  },
+  {
+    "objectID": "posts/middle2/exponent/exercise1.html#문제3.",
+    "href": "posts/middle2/exponent/exercise1.html#문제3.",
+    "title": "지수의 법칙 연습1",
+    "section": "문제3.",
+    "text": "문제3.\n\n\n\n\n\n\n\\((3^2)^3 = ?\\)\n\n\n\n\n\n답= \\(3^6\\)",
+    "crumbs": [
+      "중2수학",
+      "문자와식",
+      "지수법칙",
+      "지수의 법칙 연습1"
+    ]
+  },
+  {
+    "objectID": "posts/middle2/exponent/exercise1.html#문제4.",
+    "href": "posts/middle2/exponent/exercise1.html#문제4.",
+    "title": "지수의 법칙 연습1",
+    "section": "문제4.",
+    "text": "문제4.\n\n\n\n\n\n\n\\(2^4 \\times 2^3 \\div 2^2 = ?\\)\n\n\n\n\n\n답= \\(2^5\\)",
+    "crumbs": [
+      "중2수학",
+      "문자와식",
+      "지수법칙",
+      "지수의 법칙 연습1"
+    ]
+  },
+  {
+    "objectID": "posts/middle2/exponent/exercise1.html#문제5.",
+    "href": "posts/middle2/exponent/exercise1.html#문제5.",
+    "title": "지수의 법칙 연습1",
+    "section": "문제5.",
+    "text": "문제5.\n\n\n\n\n\n\n\\(7^0 = ?\\)\n\n\n\n\n\n답= \\(1\\)",
+    "crumbs": [
+      "중2수학",
+      "문자와식",
+      "지수법칙",
+      "지수의 법칙 연습1"
+    ]
+  },
+  {
+    "objectID": "posts/middle2/exponent/exercise1.html#문제6.",
+    "href": "posts/middle2/exponent/exercise1.html#문제6.",
+    "title": "지수의 법칙 연습1",
+    "section": "문제6.",
+    "text": "문제6.\n\n\n\n\n\n\n\\(10^{-3} = ?\\)\n\n\n\n\n\n답= \\(\\frac{1}{10^3}\\)",
+    "crumbs": [
+      "중2수학",
+      "문자와식",
+      "지수법칙",
+      "지수의 법칙 연습1"
+    ]
+  },
+  {
+    "objectID": "posts/middle2/exponent/exercise1.html#문제7.",
+    "href": "posts/middle2/exponent/exercise1.html#문제7.",
+    "title": "지수의 법칙 연습1",
+    "section": "문제7.",
+    "text": "문제7.\n\n\n\n\n\n\n\\(2 \\times 3^2 \\times 2^3 = ?\\)\n\n\n\n\n\n답= \\(2^4 \\times 3^2 = 16 \\times 9 = 144\\)",
+    "crumbs": [
+      "중2수학",
+      "문자와식",
+      "지수법칙",
+      "지수의 법칙 연습1"
+    ]
+  },
+  {
+    "objectID": "posts/middle2/exponent/exercise1.html#문제8.",
+    "href": "posts/middle2/exponent/exercise1.html#문제8.",
+    "title": "지수의 법칙 연습1",
+    "section": "문제8.",
+    "text": "문제8.\n\n\n\n\n\n\n\\((4^2 \\div 4)^3 = ?\\)\n\n\n\n\n\n답= \\(4^3 = 64\\)",
+    "crumbs": [
+      "중2수학",
+      "문자와식",
+      "지수법칙",
+      "지수의 법칙 연습1"
+    ]
+  },
+  {
+    "objectID": "posts/middle2/exponent/exercise1.html#문제9.",
+    "href": "posts/middle2/exponent/exercise1.html#문제9.",
+    "title": "지수의 법칙 연습1",
+    "section": "문제9.",
+    "text": "문제9.\n\n\n\n\n\n\n\\((2^3)^2 \\times 2^{-4} = ?\\)\n\n\n\n\n\n답= \\(2^{6 - 4} = 2^2 = 4\\)",
+    "crumbs": [
+      "중2수학",
+      "문자와식",
+      "지수법칙",
+      "지수의 법칙 연습1"
+    ]
+  },
+  {
+    "objectID": "posts/middle2/exponent/exercise1.html#문제10.",
+    "href": "posts/middle2/exponent/exercise1.html#문제10.",
+    "title": "지수의 법칙 연습1",
+    "section": "문제10.",
+    "text": "문제10.\n\n\n\n\n\n\n\\(6^2 \\div 6^{-3} = ?\\)\n\n\n\n\n\n답= \\(6^{2 + 3} = 6^5\\)",
+    "crumbs": [
+      "중2수학",
+      "문자와식",
+      "지수법칙",
+      "지수의 법칙 연습1"
+    ]
+  },
+  {
+    "objectID": "posts/middle2/exponent/exercise1.html#문제11.",
+    "href": "posts/middle2/exponent/exercise1.html#문제11.",
+    "title": "지수의 법칙 연습1",
+    "section": "문제11.",
+    "text": "문제11.\n\n\n\n\n\n\n\\((2^3 \\times 3^2)^2 \\div 2^4 = ?\\)\n\n\n\n\n\n답= \\(2^{6 - 4} \\times 3^4 = 2^2 \\times 81 = 4 \\times 81 = 324\\)",
+    "crumbs": [
+      "중2수학",
+      "문자와식",
+      "지수법칙",
+      "지수의 법칙 연습1"
+    ]
+  },
+  {
+    "objectID": "posts/middle2/exponent/exercise1.html#문제12.",
+    "href": "posts/middle2/exponent/exercise1.html#문제12.",
+    "title": "지수의 법칙 연습1",
+    "section": "문제12.",
+    "text": "문제12.\n\n\n\n\n\n\n\\((5^2)^3 \\div 5^4 \\cdot 5^{-1} = ?\\)\n\n\n\n\n\n답= \\(5^{6 - 4 - 1} = 5^1 = 5\\)",
+    "crumbs": [
+      "중2수학",
+      "문자와식",
+      "지수법칙",
+      "지수의 법칙 연습1"
+    ]
+  },
+  {
+    "objectID": "posts/middle2/exponent/exercise1.html#문제13.",
+    "href": "posts/middle2/exponent/exercise1.html#문제13.",
+    "title": "지수의 법칙 연습1",
+    "section": "문제13.",
+    "text": "문제13.\n\n\n\n\n\n\n\\(\\frac{3^{-2}}{3^3 \\times 3^{-1}} = ?\\)\n\n\n\n\n\n답= \\(3^{-2 - 3 + 1} = 3^{-4} = \\frac{1}{81}\\)",
+    "crumbs": [
+      "중2수학",
+      "문자와식",
+      "지수법칙",
+      "지수의 법칙 연습1"
+    ]
+  },
+  {
+    "objectID": "posts/middle2/exponent/exercise1.html#문제14.",
+    "href": "posts/middle2/exponent/exercise1.html#문제14.",
+    "title": "지수의 법칙 연습1",
+    "section": "문제14.",
+    "text": "문제14.\n\n\n\n\n\n\n\\((4^3 \\times 2^2)^2 \\div (2^3 \\times 4)^3 = ?\\)\n\n\n\n\n\n답= \\(2^{12 + 4 - 9 - 6} = 2^1 = 2\\)",
+    "crumbs": [
+      "중2수학",
+      "문자와식",
+      "지수법칙",
+      "지수의 법칙 연습1"
+    ]
+  },
+  {
+    "objectID": "posts/middle2/exponent/exercise1.html#문제15.",
+    "href": "posts/middle2/exponent/exercise1.html#문제15.",
+    "title": "지수의 법칙 연습1",
+    "section": "문제15.",
+    "text": "문제15.\n\n\n\n\n\n\n\\((10^{-2} \\cdot 5^3)^2 \\div (2 \\cdot 5)^3 = ?\\)\n\n\n\n\n\n답= \\(10^{-4} \\times 5^6 \\div 2^3 \\times 5^3 = \\frac{5^9}{2^3 \\times 10^4} = \\frac{5^9}{2^3 \\times 2^4 \\times 5^4} = \\frac{5^5}{2^7}\\)",
+    "crumbs": [
+      "중2수학",
+      "문자와식",
+      "지수법칙",
+      "지수의 법칙 연습1"
+    ]
+  },
+  {
+    "objectID": "posts/middle2/exponent/exercise4.html",
+    "href": "posts/middle2/exponent/exercise4.html",
+    "title": "지수의법칙 연습4",
+    "section": "",
+    "text": "\\(\\frac{2^{-3} \\times 3^4}{6^{-2}} = ?\\)\n\n\n\n\n\n답= \\(\\frac{3^6}{2}\\)\n풀이: \\(\\frac{2^{-3} \\times 3^4}{6^{-2}} = \\frac{2^{-3} \\times 3^4}{2^{-2} \\times 3^{-2}} = 2^{-3 - (-2)} \\times 3^{4 - (-2)} = 2^{-1} \\times 3^6 = \\frac{3^6}{2}\\)",
+    "crumbs": [
+      "중2수학",
+      "문자와식",
+      "지수법칙",
+      "지수의법칙 연습4"
+    ]
+  },
+  {
+    "objectID": "posts/middle2/exponent/exercise4.html#문제1.",
+    "href": "posts/middle2/exponent/exercise4.html#문제1.",
+    "title": "지수의법칙 연습4",
+    "section": "",
+    "text": "\\(\\frac{2^{-3} \\times 3^4}{6^{-2}} = ?\\)\n\n\n\n\n\n답= \\(\\frac{3^6}{2}\\)\n풀이: \\(\\frac{2^{-3} \\times 3^4}{6^{-2}} = \\frac{2^{-3} \\times 3^4}{2^{-2} \\times 3^{-2}} = 2^{-3 - (-2)} \\times 3^{4 - (-2)} = 2^{-1} \\times 3^6 = \\frac{3^6}{2}\\)",
+    "crumbs": [
+      "중2수학",
+      "문자와식",
+      "지수법칙",
+      "지수의법칙 연습4"
+    ]
+  },
+  {
+    "objectID": "posts/middle2/exponent/exercise4.html#문제2.",
+    "href": "posts/middle2/exponent/exercise4.html#문제2.",
+    "title": "지수의법칙 연습4",
+    "section": "문제2.",
+    "text": "문제2.\n\n\n\n\n\n\n\\(\\left(5^{-1} \\times 2^3\\right) \\div 10^{-2} = ?\\)\n\n\n\n\n\n답= \\(5 \\times 2^5\\)\n풀이: \\(\\left(5^{-1} \\times 2^3\\right) \\div 10^{-2} = \\frac{5^{-1} \\times 2^3}{10^{-2}} = \\frac{5^{-1} \\times 2^3}{5^{-2} \\times 2^{-2}} = 5^{-1 - (-2)} \\times 2^{3 - (-2)} = 5^1 \\times 2^5 = 5 \\times 2^5\\)",
+    "crumbs": [
+      "중2수학",
+      "문자와식",
+      "지수법칙",
+      "지수의법칙 연습4"
+    ]
+  },
+  {
+    "objectID": "posts/middle2/exponent/exercise4.html#문제3.",
+    "href": "posts/middle2/exponent/exercise4.html#문제3.",
+    "title": "지수의법칙 연습4",
+    "section": "문제3.",
+    "text": "문제3.\n\n\n\n\n\n\n\\(\\frac{x^0}{y^{-3} \\times z^2} \\div z^{-1} = ?\\)\n\n\n\n\n\n답= \\(\\frac{y^3}{z}\\)\n풀이: \\(\\frac{x^0}{y^{-3} \\times z^2} \\div z^{-1} = \\frac{1}{y^{-3} \\times z^2} \\times z^1 = \\frac{y^3}{z}\\)",
+    "crumbs": [
+      "중2수학",
+      "문자와식",
+      "지수법칙",
+      "지수의법칙 연습4"
+    ]
+  },
+  {
+    "objectID": "posts/middle2/exponent/exercise4.html#문제4.",
+    "href": "posts/middle2/exponent/exercise4.html#문제4.",
+    "title": "지수의법칙 연습4",
+    "section": "문제4.",
+    "text": "문제4.\n\n\n\n\n\n\n\\(\\frac{4^{-1} \\times 3^2}{6^3} = ?\\)\n\n\n\n\n\n답= \\(2^{-5} \\times 3^{-1} = \\frac{1}{2^5 \\times 3}\\)\n풀이: \\(\\frac{4^{-1} \\times 3^2}{6^3} = \\frac{(2^2)^{-1} \\times 3^2}{(2 \\times 3)^3} = \\frac{2^{-2} \\times 3^2}{2^3 \\times 3^3} = 2^{-2 - 3} \\times 3^{2 - 3} = 2^{-5} \\times 3^{-1} = \\frac{1}{2^5 \\times 3}\\)",
+    "crumbs": [
+      "중2수학",
+      "문자와식",
+      "지수법칙",
+      "지수의법칙 연습4"
+    ]
+  },
+  {
+    "objectID": "posts/middle2/exponent/exercise4.html#문제5.",
+    "href": "posts/middle2/exponent/exercise4.html#문제5.",
+    "title": "지수의법칙 연습4",
+    "section": "문제5.",
+    "text": "문제5.\n\n\n\n\n\n\n\\(\\left(\\frac{2^3}{3^2}\\right)^{-2} = ?\\)\n\n\n\n\n\n답= \\(\\frac{3^4}{2^6}\\)\n풀이: \\(\\left(\\frac{2^3}{3^2}\\right)^{-2} = \\frac{3^{2 \\times 2}}{2^{3 \\times 2}} = \\frac{3^4}{2^6}\\)",
+    "crumbs": [
+      "중2수학",
+      "문자와식",
+      "지수법칙",
+      "지수의법칙 연습4"
+    ]
+  },
+  {
+    "objectID": "posts/middle2/exponent/exercise4.html#문제6.",
+    "href": "posts/middle2/exponent/exercise4.html#문제6.",
+    "title": "지수의법칙 연습4",
+    "section": "문제6.",
+    "text": "문제6.\n\n\n\n\n\n\n\\(\\frac{a^{-4} \\times b^3}{a^2 \\times b^{-5}} = ?\\)\n\n\n\n\n\n답= \\(a^{-6}b^8\\)\n풀이: \\(\\frac{a^{-4} \\times b^3}{a^2 \\times b^{-5}} = a^{-4 - 2} \\times b^{3 - (-5)} = a^{-6} \\times b^8\\)",
+    "crumbs": [
+      "중2수학",
+      "문자와식",
+      "지수법칙",
+      "지수의법칙 연습4"
+    ]
+  },
+  {
+    "objectID": "posts/middle2/exponent/exercise4.html#문제7.",
+    "href": "posts/middle2/exponent/exercise4.html#문제7.",
+    "title": "지수의법칙 연습4",
+    "section": "문제7.",
+    "text": "문제7.\n\n\n\n\n\n\n\\(\\left(3^0 \\times 4^{-2}\\right) \\div 2^3 = ?\\)\n\n\n\n\n\n답= \\(2^{-7}\\)\n풀이: \\(\\left(3^0 \\times 4^{-2}\\right) \\div 2^3 = \\frac{1 \\times (2^2)^{-2}}{2^3} = \\frac{1 \\times 2^{-4}}{2^3} = 2^{-4 - 3} = 2^{-7}\\)",
+    "crumbs": [
+      "중2수학",
+      "문자와식",
+      "지수법칙",
+      "지수의법칙 연습4"
+    ]
+  },
+  {
+    "objectID": "posts/middle2/exponent/exercise4.html#문제8.",
+    "href": "posts/middle2/exponent/exercise4.html#문제8.",
+    "title": "지수의법칙 연습4",
+    "section": "문제8.",
+    "text": "문제8.\n\n\n\n\n\n\n\\(\\frac{5^2 \\times 10^{-3}}{25^{-1}} = ?\\)\n\n\n\n\n\n답= \\(10^{-3}\\)\n풀이: \\(\\frac{5^2 \\times 10^{-3}}{25^{-1}} = \\frac{5^2 \\times (2 \\times 5)^{-3}}{5^{-2}} = 5^{2 - (-3) -(-2)} \\times 2^{-3} = 5^7 \\times 2^{-3}\\)",
+    "crumbs": [
+      "중2수학",
+      "문자와식",
+      "지수법칙",
+      "지수의법칙 연습4"
+    ]
+  },
+  {
+    "objectID": "posts/middle2/exponent/exercise4.html#문제9.",
+    "href": "posts/middle2/exponent/exercise4.html#문제9.",
+    "title": "지수의법칙 연습4",
+    "section": "문제9.",
+    "text": "문제9.\n\n\n\n\n\n\n\\(\\left(\\frac{1}{3^3}\\right) \\div 9^{-2} = ?\\)\n\n\n\n\n\n답= \\(3\\)\n풀이: \\(\\left(\\frac{1}{3^3}\\right) \\div 9^{-2} = 3^{-3} \\div (3^2)^{-2} = 3^{-3 - (-4)} = 3^1\\)",
+    "crumbs": [
+      "중2수학",
+      "문자와식",
+      "지수법칙",
+      "지수의법칙 연습4"
+    ]
+  },
+  {
+    "objectID": "posts/middle2/exponent/exercise4.html#문제10.",
+    "href": "posts/middle2/exponent/exercise4.html#문제10.",
+    "title": "지수의법칙 연습4",
+    "section": "문제10.",
+    "text": "문제10.\n\n\n\n\n\n\n\\(\\frac{4^2 \\times 2^{-3}}{8^2} = ?\\)\n\n\n\n\n\n답= \\(2^{-5}=\\frac{1}{2^5}\\)\n풀이: \\(\\frac{4^2 \\times 2^{-3}}{8^2} = \\frac{(2^2)^2 \\times 2^{-3}}{(2^3)^2} = \\frac{2^4 \\times 2^{-3}}{2^6} = 2^{4 - 3 - 6} = 2^{-5}\\)",
+    "crumbs": [
+      "중2수학",
+      "문자와식",
+      "지수법칙",
+      "지수의법칙 연습4"
+    ]
+  },
+  {
+    "objectID": "posts/middle2/exponent/exercise4.html#문제11.",
+    "href": "posts/middle2/exponent/exercise4.html#문제11.",
+    "title": "지수의법칙 연습4",
+    "section": "문제11.",
+    "text": "문제11.\n\n\n\n\n\n\n\\(\\frac{(2^{-1} \\times 3^2)^3}{6^3 \\times (4^{-1})^2} = ?\\)\n\n\n\n\n\n답= \\(2^{-5} \\times 3^3 = \\frac{3^3}{2^5}\\)\n풀이: \\(\\frac{(2^{-1} \\times 3^2)^3}{6^3 \\times (4^{-1})^2} = \\frac{2^{-3} \\times 3^6}{(2^2 \\times 3)^3 \\times 2^{-4}} = \\frac{2^{-3} \\times 3^6}{2^2 \\times 3^3} = 2^{-3 - 2} \\times 3^{6 - 3} = 2^{-5} \\times 3^3 = \\frac{3^3}{2^5}\\)",
+    "crumbs": [
+      "중2수학",
+      "문자와식",
+      "지수법칙",
+      "지수의법칙 연습4"
+    ]
+  },
+  {
+    "objectID": "posts/middle2/exponent/exercise4.html#문제12.",
+    "href": "posts/middle2/exponent/exercise4.html#문제12.",
+    "title": "지수의법칙 연습4",
+    "section": "문제12.",
+    "text": "문제12.\n\n\n\n\n\n\n\\(\\frac{x^{-2} \\times y^0}{\\left(z^{-1}\\right)^{-3}} \\times z^{-2} = ?\\)\n\n\n\n\n\n답= \\(x^{-2}z^{-5}\\)\n풀이: \\(\\frac{x^{-2} \\times y^0}{\\left(z^{-1}\\right)^{-3}} \\times z^{-2} = \\frac{x^{-2} \\times 1}{z^3} \\times z^{-2} = x^{-2} \\times z^{-3 - 2} = x^{-2}z^{-5}\\)",
+    "crumbs": [
+      "중2수학",
+      "문자와식",
+      "지수법칙",
+      "지수의법칙 연습4"
+    ]
+  },
+  {
+    "objectID": "posts/middle2/exponent/exercise4.html#문제13.",
+    "href": "posts/middle2/exponent/exercise4.html#문제13.",
+    "title": "지수의법칙 연습4",
+    "section": "문제13.",
+    "text": "문제13.\n\n\n\n\n\n\n\\(\\left(\\frac{5^{-1} \\times 2^{-3}}{10^{-2}}\\right)^2 = ?\\)\n\n\n\n\n\n답= \\(\\frac{5^2}{2^2}\\)\n풀이: \\(\\left(\\frac{5^{-1} \\times 2^{-3}}{10^{-2}}\\right)^2 = \\left(\\frac{5^{-1} \\times 2^{-3}}{5^{-2} \\times 2^{-2}}\\right)^2 = \\left(5^{-1 - (-2)} \\times 2^{-3 - (-2)}\\right)^2 = \\left(5^1 \\times 2^{-1}\\right)^2 = 5^2 \\times 2^{-2} = \\frac{5^2}{2^2}\\)",
+    "crumbs": [
+      "중2수학",
+      "문자와식",
+      "지수법칙",
+      "지수의법칙 연습4"
+    ]
+  },
+  {
+    "objectID": "posts/middle2/exponent/exercise4.html#문제14.",
+    "href": "posts/middle2/exponent/exercise4.html#문제14.",
+    "title": "지수의법칙 연습4",
+    "section": "문제14.",
+    "text": "문제14.\n\n\n\n\n\n\n\\(\\frac{(a^{-1} b^2)^3}{a^3 b^{-4}} = ?\\)\n\n\n\n\n\n답= \\(a^{-6}b^{10}\\)\n풀이: \\(\\frac{(a^{-1} b^2)^3}{a^3 b^{-4}} = \\frac{a^{-3} \\times b^6}{a^3 \\times b^{-4}} = a^{-3 - 3} \\times b^{6 - (-4)} = a^{-6} \\times b^{10}\\)",
+    "crumbs": [
+      "중2수학",
+      "문자와식",
+      "지수법칙",
+      "지수의법칙 연습4"
+    ]
+  },
+  {
+    "objectID": "posts/middle2/exponent/exercise4.html#문제15.",
+    "href": "posts/middle2/exponent/exercise4.html#문제15.",
+    "title": "지수의법칙 연습4",
+    "section": "문제15.",
+    "text": "문제15.\n\n\n\n\n\n\n\\(\\frac{\\left(\\frac{1}{2}\\right)^{-3} \\times 4^{-2}}{8^{-1}} = ?\\)\n\n\n\n\n\n답= \\(2^2=4\\)\n풀이: \\(\\frac{\\left(\\frac{1}{2}\\right)^{-3} \\times 4^{-2}}{8^{-1}} = \\frac{2^3 \\times (2^2)^{-2}}{2^{-3}} = \\frac{2^3 \\times 2^{-4}}{2^{-3}} = 2^{3 - 4 + 3} = 2^{2}\\)",
+    "crumbs": [
+      "중2수학",
+      "문자와식",
+      "지수법칙",
+      "지수의법칙 연습4"
+    ]
+  },
+  {
+    "objectID": "posts/middle2/exponent/exercise4.html#문제16.",
+    "href": "posts/middle2/exponent/exercise4.html#문제16.",
+    "title": "지수의법칙 연습4",
+    "section": "문제16.",
+    "text": "문제16.\n\n\n\n\n\n\n\\(\\frac{(3x^2 y^{-1})^3}{x^6 y^{-2} z^0} = ?\\)\n\n\n\n\n\n답= \\(3^3y^{-1}=\\frac{27}{y}\\)\n풀이: \\(\\frac{(3x^2 y^{-1})^3}{x^6 y^{-2} z^0} = \\frac{3^3 \\times x^6 \\times y^{-3}}{x^6 \\times y^{-2} \\times 1} = 3^3 \\times x^{6 - 6} \\times y^{-3 - (-2)} = 3^3 \\times y^{-1}\\)",
+    "crumbs": [
+      "중2수학",
+      "문자와식",
+      "지수법칙",
+      "지수의법칙 연습4"
+    ]
+  },
+  {
+    "objectID": "posts/middle2/exponent/exercise4.html#문제17.",
+    "href": "posts/middle2/exponent/exercise4.html#문제17.",
+    "title": "지수의법칙 연습4",
+    "section": "문제17.",
+    "text": "문제17.\n\n\n\n\n\n\n\\(\\frac{2^{-3} \\times 3^3}{6^{-2} \\times (4^{-1})^2} = ?\\)\n\n\n\n\n\n답= \\(2^3 \\times 3^5\\)\n풀이: \\(\\frac{2^{-3} \\times 3^3}{6^{-2} \\times (4^{-1})^2} = \\frac{2^{-3} \\times 3^3}{2^{-2} \\times 3^{-2} \\times 2^{-4}} = 2^{-3 - (-2) - (-4)} \\times 3^{3 - (-2)} = 2^3 \\times 3^5\\)",
+    "crumbs": [
+      "중2수학",
+      "문자와식",
+      "지수법칙",
+      "지수의법칙 연습4"
+    ]
+  },
+  {
+    "objectID": "posts/middle2/exponent/exercise4.html#문제18.",
+    "href": "posts/middle2/exponent/exercise4.html#문제18.",
+    "title": "지수의법칙 연습4",
+    "section": "문제18.",
+    "text": "문제18.\n\n\n\n\n\n\n\\(\\left(\\frac{1}{x^{-3} y^2}\\right) \\div x^4 y^{-5} = ?\\)\n\n\n\n\n\n답= \\(x^{-1} \\times y^{3}=\\frac{y^3}{x}\\)\n풀이: \\(\\left(\\frac{1}{x^{-3} y^2}\\right) \\div x^4 y^{-5} = x^3 y^{-2} \\div x^4 y^{-5} = x^{3 - 4} \\times y^{-2 - (-5)} = x^{-1} \\times y^{3}=\\frac{y^3}{x}\\)",
+    "crumbs": [
+      "중2수학",
+      "문자와식",
+      "지수법칙",
+      "지수의법칙 연습4"
+    ]
+  },
+  {
+    "objectID": "posts/middle2/exponent/exercise4.html#문제19.",
+    "href": "posts/middle2/exponent/exercise4.html#문제19.",
+    "title": "지수의법칙 연습4",
+    "section": "문제19.",
+    "text": "문제19.\n\n\n\n\n\n\n\\(\\frac{(a^{-2} b^3)^2}{(a b^{-1})^4} = ?\\)\n\n\n\n\n\n답= \\(a^{-8}b^{10}\\)\n풀이: \\(\\frac{(a^{-2} b^3)^2}{(a b^{-1})^4} = \\frac{a^{-4} b^6}{a^4 b^{-4}} = a^{-4 - 4} \\times b^{6 - (-4)} = a^{-8} \\times b^{10}\\)",
+    "crumbs": [
+      "중2수학",
+      "문자와식",
+      "지수법칙",
+      "지수의법칙 연습4"
+    ]
+  },
+  {
+    "objectID": "posts/middle2/exponent/exercise4.html#문제20.",
+    "href": "posts/middle2/exponent/exercise4.html#문제20.",
+    "title": "지수의법칙 연습4",
+    "section": "문제20.",
+    "text": "문제20.\n\n\n\n\n\n\n\\(\\frac{5^{-3} \\times 2^{-2}}{\\left(10^{-1}\\right)^3 \\div 2^{-1}} = ?\\)\n\n\n\n\n\n답= \\(1\\)\n풀이: \\(\\frac{5^{-3} \\times 2^{-2}}{\\left(10^{-1}\\right)^3 \\div 2^{-1}} = \\frac{5^{-3} \\times 2^{-2}}{10^{-3} \\times 2^1} = \\frac{5^{-3} \\times 2^{-2}}{(2 \\times 5)^{-3} \\times 2^1} = 5^{-3 - (-3)} \\times 2^{-2 - (-3) - 1} = 5^0 \\times 2^0 = 1\\)",
+    "crumbs": [
+      "중2수학",
+      "문자와식",
+      "지수법칙",
+      "지수의법칙 연습4"
+    ]
+  },
+  {
+    "objectID": "posts/middle2/exponent/exercise6.html",
+    "href": "posts/middle2/exponent/exercise6.html",
+    "title": "지수의법칙 연습6",
+    "section": "",
+    "text": "문제1.\n\n\n\n\n\n\n\\(\\left(\\frac{3^5 \\times 2^{-3}}{6^3}\\right)^{-1} = ?\\)\n\n\n\n\n\n답= \\(\\frac{2^6}{3^2}\\)\n풀이: \\((\\frac{3^5 \\times 2^{-3}}{6^3})^{-1} = (\\frac{2^3 \\times 3^3}{3^5 \\times 2^{-3}}) = \\frac{2^6}{3^2}\\)\n\n\n\n문제2.\n\n\n\n\n\n\n\\(\\frac{5^3 \\times 10^{-2}}{2^{-3} \\times 25^2} = ?\\)\n\n\n\n\n\n답= \\(\\frac{2}{5^3}\\)\n풀이: \\(\\frac{5^3 \\times 10^{-2}}{2^{-3} \\times 25^2} = \\frac{5^3 \\times 5^{-2} \\times 2^{-2}}{2^{-3} \\times 5^4} = \\frac{2}{5^3}\\)\n\n\n\n문제3.\n\n\n\n\n\n\n\\(\\left(\\frac{4^{-2}}{9^3}\\right)^{-2} \\times 6^4 = ?\\)\n\n\n\n\n\n답= \\(2^{12} \\times 3^{16}\\)\n풀이: \\((\\frac{4^{-2}}{9^3})^{-2} \\times 6^4 = (\\frac{3^6}{2^{-4}})^2 \\times 2^4 \\times 3^4 = \\frac{3^{12} \\times 2^4 \\times 3^4}{2^{-8}} = 2^{12} \\times 3^{16}\\)\n\n\n\n문제4.\n\n\n\n\n\n\n\\(\\frac{(x^2 y^{-3})^4}{z^{-2} \\times y^{-5}} \\div x^6 = ?\\)\n\n\n\n\n\n답= \\(\\frac{x^2 \\times z^2}{y^7} (=x^2 y^{-7} z^2)\\)\n풀이: \\(\\frac{(x^2 y^{-3})^4}{z^{-2} \\times y^{-5}} \\div x^6 = \\frac{x^8 y^{-12}}{z^{-2} \\times y^{-5} \\times x^6} = \\frac{x^2 \\times z^2}{y^7}\\)\n\n\n\n문제5.\n\n\n\n\n\n\n\\(\\frac{2^{-3} \\times 3^5}{6^{-4}} \\div \\left(\\frac{4^2}{9^{-1}}\\right)^{-1} = ?\\)\n\n\n\n\n\n답= \\(2^5 \\times 3^{11}\\)\n풀이: \\(\\frac{2^{-3} \\times 3^5}{6^{-4}} \\div \\left(\\frac{4^2}{9^{-1}}\\right)^{-1} = \\frac{2^{-3} \\times 3^5}{2^{-4} \\times 3^{-4}} \\times \\frac{4^2}{9^{-1}}=\\frac{2^{-3} \\times 3^5 \\times 2^4}{2^{-4} \\times 3^{-4} \\times 3^{-2}} = 2^5 \\times 3^{11}\\)\n\n\n\n문제6.\n\n\n\n\n\n\n\\(\\frac{(a^3 b^{-2})^2}{(a^{-1} b^4)^3} = ?\\)\n\n\n\n\n\n답= \\(\\frac{a^9}{b^{16}} (=a^9 b^{-16})\\)\n풀이: \\(\\frac{(a^3 b^{-2})^2}{(a^{-1} b^4)^3} = \\frac{a^6 b^{-4}}{a^{-3} b^{12}} = \\frac{a^9}{b^{16}}\\)\n\n\n\n문제7.\n\n\n\n\n\n\n\\(\\left(\\frac{5^3 \\times 2^{-2}}{10^{-3}}\\right)^2 \\div 2^{-4} = ?\\)\n\n\n\n\n\n답= \\(5^12 \\times 2^6\\)\n풀이: \\((\\frac{5^3 \\times 2^{-2}}{10^{-3}})^2 \\div 2^{-4} = \\frac{5^6 \\times 2^{-4}}{5^{-6} \\times 2^{-6}} \\times 2^4 = 5^{12} \\times 2^6\\)\n\n\n\n문제8.\n\n\n\n\n\n\n\\(\\frac{6^{-3} \\times 2^4}{3^{-2} \\times 4^{-1}} \\div 8^2 = ?\\)\n\n\n\n\n\n답= \\(\\frac{1}{2^3 \\times 3}\\)\n풀이: \\(\\frac{6^{-3} \\times 2^4}{3^{-2} \\times 4^{-1}} \\div 8^2 = \\frac{2^{-3} \\times 3^{-3} \\times 2^4}{3^{-2} \\times 2^{-2} \\times 2^6} = \\frac{1}{2^3 \\times 3}\\)\n\n\n\n문제9.\n\n\n\n\n\n\n\\(\\frac{10^{-1} \\times 5^2}{2^{-3} \\times 25^{-2}} = ?\\)\n\n\n\n\n\n답= \\(2^2 \\times 5^5\\)\n풀이: \\(\\frac{10^{-1} \\times 5^2}{2^{-3} \\times 25^{-2}} = \\frac{2^{-1} \\times 5^{-1} \\times 5^2}{2^{-3} \\times 5^{-4}} = 2^2 \\times 5^5\\)\n\n\n\n문제10.\n\n\n\n\n\n\n\\(\\frac{x^5 y^{-3}}{z^{-4} \\times x^{-2}} \\div \\left(y^2 z^3\\right)^{-2} = ?\\)\n\n\n\n\n\n답= \\(x^7 y z^{10}\\)\n풀이: \\(\\frac{x^5 y^{-3}}{z^{-4} \\times x^{-2}} \\div \\left(y^2 z^3\\right)^{-2} = \\frac{x^5 y^{-3}}{z^{-4} \\times x^{-2}} \\times (y^2 z^3)^2 = \\frac{x^5 y^{-3} y^4 z^6}{x^{-2} z{-4}} = x^7 y z{10}\\)\n\n\n\n문제11.\n\n\n\n\n\n\n\\(\\frac{(2^3 \\times 3^{-2})^2}{6^4 \\times (4^{-1})^3} = ?\\)\n\n\n\n\n\n답= \\(\\frac{2^8}{3^8}\\)\n풀이: \\(\\frac{(2^3 \\times 3^{-2})^2}{6^4 \\times (4^{-1})^3} = \\frac{2^6 \\times 3^{-4}}{2^4 \\times 3^4 \\times 2^{-6}} = \\frac{2^8}{3^8}\\)\n\n\n\n문제12.\n\n\n\n\n\n\n\\(\\frac{x^{-3} y^2 z^5}{x^4 z^{-1}} \\times y^{-3} z^{-2} = ?\\)\n\n\n\n\n\n답= \\(\\frac{z^2}{x^7 y} (=x^{-7} y^{-1} z^2)\\)\n풀이: \\(\\frac{x^{-3} y^2 z^5}{x^4 z^{-1}} \\times y^{-3} z^{-2} =  \\frac{z^2}{x^7 y}\\)\n\n\n\n문제13.\n\n\n\n\n\n\n\\(\\frac{(3x^2 y^{-1})^4}{x^5 y^{-3} z^2} = ?\\)\n\n\n\n\n\n답= \\(\\frac{3^4 x^3}{y z^2} (=3^4 x^3 y^{-1} z^{-2})\\)\n풀이: \\(\\frac{(3x^2 y^{-1})^4}{x^5 y^{-3} z^2} = \\frac{3^4 x^8 y^{-4}}{x^5 y^{-3} z^2} = \\frac{3^4 x^3}{y z^2}\\)\n\n\n\n문제14.\n\n\n\n\n\n\n\\(\\frac{a^{-3} b^5}{a^4 b^{-1}} \\div \\frac{b^2}{a^{-2}} = ?\\)\n\n\n\n\n\n답= \\(\\frac{b^4}{a^9} (=a^{-9} b^4)\\)\n풀이: \\(\\frac{a^{-3} b^5}{a^4 b^{-1}} \\div \\frac{b^2}{a^{-2}} = \\frac{a^{-3} b^5}{a^4 b^{-1}} \\times \\frac{a^{-2}}{b^2} = \\frac{a^{-3} a^{-2} b^5}{a^4 b^{-1} b^2} = \\frac{b^4}{a^9}\\)\n\n\n\n문제15.\n\n\n\n\n\n\n\\(\\frac{(x^2 y^{-2})^3}{z^{-1} \\times y^{-5}} \\div x^{-4} = ?\\)\n\n\n\n\n\n답= \\(\\frac{x^{10} z}{y} (=x^{10} y^{-1} z)\\)\n풀이: \\(\\frac{(x^2 y^{-2})^3}{z^{-1} \\times y^{-5}} \\div x^{-4} = \\frac{x^{6} y^{-6}}{z^{-1} \\times y^{-5}} \\times x^{4} = \\frac{x^{10} z}{y}\\)\n\n\n\n문제16.\n\n\n\n\n\n\n\\(\\frac{10^2 \\times 5^{-3}}{2^{-1} \\times 25} \\div 2^3 = ?\\)\n\n\n\n\n\n답= \\(\\frac{1}{5}\\)\n풀이: \\(\\frac{10^2 \\times 5^{-3}}{2^{-1} \\times 25} \\div 2^3 = \\frac{(2 \\times 5)^2 \\times 5^{-3}}{2^{-1} \\times 5^2} \\div 2^3 = \\frac{1}{5}\\)\n\n\n\n문제17.\n\n\n\n\n\n\n\\(\\frac{(2^3 \\times 3^2)^{-2}}{6^3} \\times 4^2 = ?\\)\n\n\n\n\n\n답= \\(\\frac{1}{2^5 3^7}\\)\n풀이: \\(\\frac{(2^3 \\times 3^2)^{-2}}{6^3} \\times 4^2 = \\frac{2^{-6} \\times 3^{-4}}{2^3 \\times 3^3} \\times 2^4 = \\frac{1}{2^5 3^7}\\)\n\n\n\n문제18.\n\n\n\n\n\n\n\\(\\frac{(x^{-1} y^3)^{-2}}{x^4 y^{-2}} \\times y^5 = ?\\)\n\n\n\n\n\n답= \\(x^6 y^{11}\\)\n풀이: \\(\\frac{(x^{-1} y^3)^{-2}}{x^4 y^{-2}} \\times y^5 = \\frac{x^{2} y^{-6}}{x^4 y^{-2}} \\times y^5 = x^{2 - 4} y^{-6 + 2 + 5} = x^6 y^{11}\\)\n\n\n\n문제19.\n\n\n\n\n\n\n\\(\\frac{(3x^3 z^{-1})^2}{x^{-4} z^3} \\div 3^{-2} = ?\\)\n\n\n\n\n\n답= \\(\\frac{3^4 x^{10}}{z^5}\\)\n풀이: \\(\\frac{(3x^3 z^{-1})^2}{x^{-4} z^3} \\div 3^{-2} = \\frac{3^2 x^6 z^{-2}}{x^{-4} z^3} \\times 3^2 = \\frac{3^4 x^{10}}{z^5}\\)\n\n\n\n문제20.\n\n\n\n\n\n\n\\(\\frac{(2a^{-1} b^3)^3}{(4a^2 b^{-2})^2} \\times b^4 = ?\\)\n\n\n\n\n\n답= \\(\\frac{b^{17}}{2 a^7}\\)\n풀이: \\(\\frac{(2a^{-1} b^3)^3}{(4a^2 b^{-2})^2} \\times b^4 = \\frac{2^3 a^{-3} b^9}{2^4 a^4 b^{-4}} \\times b^4 = \\frac{b^{17}}{2 a^7}\\)",
+    "crumbs": [
+      "중2수학",
+      "문자와식",
+      "지수법칙",
+      "지수의법칙 연습6"
+    ]
+  },
+  {
+    "objectID": "posts/middle2/exponent/learning_objective.html",
+    "href": "posts/middle2/exponent/learning_objective.html",
+    "title": "지수의 개념",
+    "section": "",
+    "text": "문제1.\n\n\n\n\n\n\n처음 세균의 개수는 10개이며, 매 1시간마다 2배로 증가합니다. 6시간 후의 세균 수를 구하세요.\n\n\n\n\n\n답= \\(640\\)\n풀이: 처음 세균의 개수는 10개이며, 매 1시간마다 2배로 증가하므로 6시간 후의 세균 수는 \\(10 \\times 2^6 = 10 \\times 64 = 640\\)\n\n\n\n문제2.\n\n\n\n\n\n\n연 이자율 10%의 복리로 3년 후 금액을 계산하세요. 원금은 1000원입니다.\n\n\n\n\n\n답= \\(1331\\)\n풀이: 연 이자율 10%의 복리로 3년 후 금액은 \\(1000 \\times (1.1)^3 = 1000 \\times 1.331 = 1331\\)\n\n\n\n문제3.\n\n\n\n\n\n\n두 물체 사이의 거리가 3배 증가하면 중력은 몇 배로 변합니까? 거리의 제곱에 반비례한다고 가정합니다.\n\n\n\n\n\n답= \\(\\frac{1}{9}\\)\n풀이: 두 물체 사이의 거리가 3배 증가하면 중력은 거리의 제곱에 반비례하므로, \\(\\frac{1}{3^2} = \\frac{1}{9}\\)배로 감소합니다.",
+    "crumbs": [
+      "중2수학",
+      "문자와식",
+      "지수법칙",
+      "지수의 개념"
     ]
   },
   {

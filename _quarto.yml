@@ -42,7 +42,7 @@ website:
             - posts/middle1/number_operation/least_common_multiple.qmd
         - section: "문자와 식"
           contents:
-            - posts/middle1/algebric_expression/index.qmd     
+            - posts/middle1/algebric_expression/learning_objective.qmd     
         - section: "좌표평면과 그래프"
           contents:
             - posts/middle1/coordinate_graph/index.qmd
@@ -68,7 +68,7 @@ website:
             - section: "지수법칙"
               contents:
                 - posts/middle2/exponent/curriculum.qmd
-                - posts/middle2/exponent/concept_exponent.qmd
+                - posts/middle2/exponent/learning_objective.qmd
                 - posts/middle2/exponent/exercise1.qmd
                 - posts/middle2/exponent/exercise2.qmd
                 - posts/middle2/exponent/exercise4.qmd

@@ -9,7 +9,7 @@
 <meta name="dcterms.date" content="2024-12-28">
 <meta name="description" content="공통수학 - 2015년 개정">
 
-<title>교과과정 – Clara</title>
+<title>교육과정 – Clara</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -69,6 +69,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../../styles/tooltip.css">
 </head>
@@ -143,7 +172,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../posts/common/curriculum.html">교과과정</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../posts/common/curriculum.html">교육과정</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -158,7 +187,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../../posts/common/curriculum.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">교과과정</span></a>
+ <span class="menu-text">교육과정</span></a>
   </div>
 </li>
         <li class="sidebar-item sidebar-item-section">
@@ -273,12 +302,39 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#i.-다항식" id="toc-i.-다항식" class="nav-link active" data-scroll-target="#i.-다항식">I. 다항식</a></li>
-  <li><a href="#ii.-방정식과-부등식" id="toc-ii.-방정식과-부등식" class="nav-link" data-scroll-target="#ii.-방정식과-부등식">II. 방정식과 부등식</a></li>
-  <li><a href="#iii.-도형의-방정식" id="toc-iii.-도형의-방정식" class="nav-link" data-scroll-target="#iii.-도형의-방정식">III. 도형의 방정식</a></li>
-  <li><a href="#iv.-집합과-명제" id="toc-iv.-집합과-명제" class="nav-link" data-scroll-target="#iv.-집합과-명제">IV. 집합과 명제</a></li>
-  <li><a href="#v.-함수와-그래프" id="toc-v.-함수와-그래프" class="nav-link" data-scroll-target="#v.-함수와-그래프">V. 함수와 그래프</a></li>
-  <li><a href="#vi.-순열과-조합" id="toc-vi.-순열과-조합" class="nav-link" data-scroll-target="#vi.-순열과-조합">VI. 순열과 조합</a></li>
+  <li><a href="#성격" id="toc-성격" class="nav-link active" data-scroll-target="#성격">1. 성격</a></li>
+  <li><a href="#목표" id="toc-목표" class="nav-link" data-scroll-target="#목표">2. 목표</a></li>
+  <li><a href="#문자와-식" id="toc-문자와-식" class="nav-link" data-scroll-target="#문자와-식">1. 문자와 식</a>
+  <ul>
+  <li><a href="#다항식의-연산" id="toc-다항식의-연산" class="nav-link" data-scroll-target="#다항식의-연산">다항식의 연산</a></li>
+  <li><a href="#나머지정리" id="toc-나머지정리" class="nav-link" data-scroll-target="#나머지정리">나머지정리</a></li>
+  <li><a href="#인수분해" id="toc-인수분해" class="nav-link" data-scroll-target="#인수분해">인수분해</a></li>
+  <li><a href="#복소수와-이차방정식" id="toc-복소수와-이차방정식" class="nav-link" data-scroll-target="#복소수와-이차방정식">복소수와 이차방정식</a></li>
+  <li><a href="#이차방정식과-이차함수" id="toc-이차방정식과-이차함수" class="nav-link" data-scroll-target="#이차방정식과-이차함수">이차방정식과 이차함수</a></li>
+  <li><a href="#여러-가지-방정식과-부등식" id="toc-여러-가지-방정식과-부등식" class="nav-link" data-scroll-target="#여러-가지-방정식과-부등식">여러 가지 방정식과 부등식</a></li>
+  </ul></li>
+  <li><a href="#기하" id="toc-기하" class="nav-link" data-scroll-target="#기하">2. 기하</a>
+  <ul>
+  <li><a href="#평면좌표" id="toc-평면좌표" class="nav-link" data-scroll-target="#평면좌표">평면좌표</a></li>
+  <li><a href="#직선의-방정식" id="toc-직선의-방정식" class="nav-link" data-scroll-target="#직선의-방정식">직선의 방정식</a></li>
+  <li><a href="#원의-방정식" id="toc-원의-방정식" class="nav-link" data-scroll-target="#원의-방정식">원의 방정식</a></li>
+  <li><a href="#도형의-이동" id="toc-도형의-이동" class="nav-link" data-scroll-target="#도형의-이동">도형의 이동</a></li>
+  </ul></li>
+  <li><a href="#수와-연산" id="toc-수와-연산" class="nav-link" data-scroll-target="#수와-연산">3. 수와 연산</a>
+  <ul>
+  <li><a href="#집합" id="toc-집합" class="nav-link" data-scroll-target="#집합">집합</a></li>
+  <li><a href="#명제" id="toc-명제" class="nav-link" data-scroll-target="#명제">명제</a></li>
+  </ul></li>
+  <li><a href="#함수" id="toc-함수" class="nav-link" data-scroll-target="#함수">4. 함수</a>
+  <ul>
+  <li><a href="#함수-1" id="toc-함수-1" class="nav-link" data-scroll-target="#함수-1">함수</a></li>
+  <li><a href="#유리함수와-무리함수" id="toc-유리함수와-무리함수" class="nav-link" data-scroll-target="#유리함수와-무리함수">유리함수와 무리함수</a></li>
+  </ul></li>
+  <li><a href="#확률과-통계" id="toc-확률과-통계" class="nav-link" data-scroll-target="#확률과-통계">5. 확률과 통계</a>
+  <ul>
+  <li><a href="#경우의-수" id="toc-경우의-수" class="nav-link" data-scroll-target="#경우의-수">경우의 수</a></li>
+  </ul></li>
+  <li><a href="#순열과-조합" id="toc-순열과-조합" class="nav-link" data-scroll-target="#순열과-조합">순열과 조합</a></li>
   </ul>
 </nav>
     </div>
@@ -287,10 +343,10 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">교과과정</h1>
+<h1 class="title">교육과정</h1>
   <div class="quarto-categories">
     <div class="quarto-category">공통수학</div>
-    <div class="quarto-category">교과과정</div>
+    <div class="quarto-category">교육과</div>
     <div class="quarto-category">2015년 개정</div>
   </div>
   </div>
@@ -326,32 +382,161 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>고등학교 공통 과목인 <strong>수학</strong>은 중학교 3학년까지의 수학을 학습한 후 고등학교의 모든 학생들이 필수적으로 이수하는 과목입니다. <strong>수학</strong>의 내용은 초등학교 및 중학교 수학과 연계하여 다음과 같은 5개 영역으로 구성됩니다:</p>
+<section id="성격" class="level3">
+<h3 class="anchored" data-anchor-id="성격">1. 성격</h3>
+<p>수학과는 수학의 개념, 원리, 법칙을 이해하고 기능을 습득하여 주변의 여러 가지 현상을 수학적으로 관찰하고 해석하며 논리적으로 사고하고 합리적으로 문제를 해결하는 능력과 태도를 기르는 교과이다. 수학은 오랜 역사를 통해 인류 문명 발전의 원동력이 되어 왔으며, 세계화･정보화가 가속화되는 미래 사회의 구성원에게 필수적인 역량을 제공한다. 수학 학습을 통해 학생들은 수학의 규칙성과 구조의 아름다움을 음미할 수 있고, 수학의 지식과 기능을 활용하여 수학 문제뿐만 아니라 실생활과 다른 교과의 문제를 창의적으로 해결할 수 있으며, 나아가 세계 공동체의 시민으로서 갖추어야 할 합리적 의사 결정 능력과 민주적 소통 능력을 함양할 수 있다.</p>
+<p>고등학교 공통 과목인 &lt;수학&gt;은 중학교 3학년까지의 수학을 학습한 후 고등학교의 모든 학생들이 필수적으로 이수하는 과목이다. &lt;수학&gt;의 내용은 초등학교 및 중학교 수학과 연계하여 ʻ문자와 식ʼ, ʻ기하ʼ, ʻ수와 연산ʼ, ʻ함수ʼ, ʻ확률과 통계ʼ의 5개 영역으로 구성된다. ʻ문자와 식ʼ 영역에서는 다항식의 사칙연산, 나머지정리, 인수분해, 복소수와 이차방정식, 이차방정식과 이차함수, 여러 가지 방정식과 부등식을, ʻ기하ʼ 영역에서는 평면좌표, 직선의 방정식, 원의 방정식, 도형의 이동을, ʻ수와 연산ʼ 영역에서는 집합, 명제를, ʻ함수ʼ 영역에서는 함수의 뜻과 유형, 유리함수와 무리함수를, ’확률과 통계ʼ 영역에서는 경우의 수, 순열과 조합을 다룬다.</p>
+<p>&lt;수학&gt;에서 학습한 수학의 지식과 기능은 자신의 진로와 적성을 고려하여 선택할 수 있는 수학 일반 선택 과목과 진로 선택 과목, 수학 전문 교과 과목을 학습하기 위한 토대가 되고, 자연과학, 공학, 의학뿐만 아니라 경제･경영학을 포함한 사회과학, 인문학, 예술 및 체육 분야를 학습하는 데 기초가 되며, 나아가 창의적 역량을 갖춘 융합 인재로 성장할 수 있는 기반을 제공한다. 이를 위해 학생들은 &lt;수학&gt;의 지식을 이해하고 기능을 습득하는 것과 더불어 문제 해결, 추론, 창의･융합, 의사소통, 정보 처리, 태도 및 실천의 6가지 수학 교과 역량을 길러야 한다.</p>
+<p>교과 역량으로서의 문제 해결은 해결 방법을 알고 있지 않은 문제 상황에서 수학의 지식과 기능을 활용하여 해결 전략을 탐색하고 최적의 해결 방안을 선택하여 주어진 문제를 해결하는 능력이고, 추론은 수학적 사실을 추측하고 논리적으로 분석하고 정당화하며 그 과정을 반성하는 능력이다. 창의･융합은 수학의 지식과 기능을 토대로 새롭고 의미 있는 아이디어를 다양하고 풍부하게 산출하고 정교화하며, 여러 수학적 지식, 기능, 경험을 연결하거나 타 교과나 실생활의 지식, 기능, 경험을 수학과 연결･융합하여 새로운 지식, 기능, 경험을 생성하고 문제를 해결하는 능력이다. 의사소통은 수학 지식이나 아이디어, 수학적 활동의 결과, 문제 해결과정, 신념과 태도 등을 말이나 글, 그림, 기호로 표현하고 다른 사람의 아이디어를 이해하는 능력이고, 정보 처리는 다양한 자료와 정보를 수집, 정리, 분석, 활용하고 적절한 공학적 도구나 교구를 선택, 이용하여 자료와 정보를 효과적으로 처리하는 능력이다. 끝으로, 태도 및 실천은 수학의 가치를 인식하고 자주적 수학 학습 태도와 민주 시민 의식을 갖추어 실천하는 능력이다.</p>
+<p>수학 교과 역량 함양을 통해 학생들은 복잡하고 전문화되어 가는 미래 사회에서 사회 구성원의 역할을 성공적으로 수행할 수 있고, 개인의 잠재력과 재능을 발현할 수 있으며, 수학의 필요성과 유용성을 이해하고, 수학 학습의 즐거움을 느끼며, 수학에 대한 흥미와 자신감을 기를 수 있다.</p>
+</section>
+<section id="목표" class="level3">
+<h3 class="anchored" data-anchor-id="목표">2. 목표</h3>
+<p>수학의 개념, 원리, 법칙을 이해하고 기능을 습득하며 수학적으로 추론하고 의사소통하는 능력을 길러, 생활 주변과 사회 및 자연 현상을 수학적으로 이해하고 문제를 합리적이고 창의적으로 해결하며, 수학 학습자로서 바람직한 태도와 실천 능력을 기른다.</p>
+<p>가. 사회 및 자연 현상을 수학적으로 관찰, 분석, 조직, 표현하는 경험을 통하여 문자와 식, 기하, 수와 연산, 함수, 확률과 통계에 관련된 개념, 원리, 법칙과 이들 사이의 관계를 이해하고 수학의 기능을 습득한다.<br>
+나. 수학적으로 추론하고 의사소통하며, 창의･융합적 사고와 정보 처리 능력을 바탕으로 사회 및 자연 현상을 수학적으로 이해하고 문제를 합리적이고 창의적으로 해결한다.<br>
+다. 수학에 대한 흥미와 자신감을 갖고 수학의 역할과 가치를 이해하며 수학 학습자로서 바람직한 태도와 실천 능력을 기른다.</p>
+</section>
+<section id="문자와-식" class="level3">
+<h3 class="anchored" data-anchor-id="문자와-식">1. 문자와 식</h3>
+<p>문자를 포함한 식의 사칙연산과 인수분해는 복잡한 다항식으로 확장되어 적용되고, 방정식과 부등식은 적절한 절차에 따라 이를 만족시키는 해를 구할 수 있다. 다항식의 연산 및 방정식과 부등식은 수학의 여러 분야 학습의 기초가 되고 문제를 해결하는 중요한 도구가 된다.</p>
+<section id="다항식의-연산" class="level4">
+<h4 class="anchored" data-anchor-id="다항식의-연산">다항식의 연산</h4>
 <ul>
-<li>문자와 식</li>
-<li>기하</li>
-<li>수와 연산</li>
-<li>함수</li>
-<li>확률과 통계</li>
+<li>[10수학01-01]다항식의 사칙연산을 할 수 있다.</li>
 </ul>
-<p>구체적인 목차는 아래와 같습니다.</p>
-<section id="i.-다항식" class="level2">
-<h2 class="anchored" data-anchor-id="i.-다항식">I. 다항식</h2>
 </section>
-<section id="ii.-방정식과-부등식" class="level2">
-<h2 class="anchored" data-anchor-id="ii.-방정식과-부등식">II. 방정식과 부등식</h2>
+<section id="나머지정리" class="level4">
+<h4 class="anchored" data-anchor-id="나머지정리">나머지정리</h4>
+<ul>
+<li>[10수학01-02]항등식의 성질을 이해한다.</li>
+<li>[10수학01-03]나머지정리의 의미를 이해하고, 이를 활용하여 문제를 해결할 수 있다.</li>
+</ul>
 </section>
-<section id="iii.-도형의-방정식" class="level2">
-<h2 class="anchored" data-anchor-id="iii.-도형의-방정식">III. 도형의 방정식</h2>
+<section id="인수분해" class="level4">
+<h4 class="anchored" data-anchor-id="인수분해">인수분해</h4>
+<ul>
+<li>[10수학01-04]다항식의 인수분해를 할 수 있다.</li>
+</ul>
 </section>
-<section id="iv.-집합과-명제" class="level2">
-<h2 class="anchored" data-anchor-id="iv.-집합과-명제">IV. 집합과 명제</h2>
+<section id="복소수와-이차방정식" class="level4">
+<h4 class="anchored" data-anchor-id="복소수와-이차방정식">복소수와 이차방정식</h4>
+<ul>
+<li>[10수학01-05]복소수의 뜻과 성질을 이해하고 사칙연산을 할 수 있다.</li>
+<li>[10수학01-06]이차방정식의 실근과 허근의 뜻을 안다.</li>
+<li>[10수학01-07]이차방정식에서 판별식의 의미를 이해하고 이를 설명할 수 있다.</li>
+<li>[10수학01-08]이차방정식의 근과 계수의 관계를 이해한다.</li>
+</ul>
 </section>
-<section id="v.-함수와-그래프" class="level2">
-<h2 class="anchored" data-anchor-id="v.-함수와-그래프">V. 함수와 그래프</h2>
+<section id="이차방정식과-이차함수" class="level4">
+<h4 class="anchored" data-anchor-id="이차방정식과-이차함수">이차방정식과 이차함수</h4>
+<ul>
+<li>[10수학01-09]이차방정식과 이차함수의 관계를 이해한다.</li>
+<li>[10수학01-10]이차함수의 그래프와 직선의 위치 관계를 이해한다.</li>
+<li>[10수학01-11]이차함수의 최대, 최소를 이해하고, 이를 활용하여 문제를 해결할 수 있다.</li>
+</ul>
 </section>
-<section id="vi.-순열과-조합" class="level2">
-<h2 class="anchored" data-anchor-id="vi.-순열과-조합">VI. 순열과 조합</h2>
+<section id="여러-가지-방정식과-부등식" class="level4">
+<h4 class="anchored" data-anchor-id="여러-가지-방정식과-부등식">여러 가지 방정식과 부등식</h4>
+<ul>
+<li>[10수학01-12]간단한 삼차방정식과 사차방정식을 풀 수 있다.</li>
+<li>[10수학01-13]미지수가 2개인 연립이차방정식을 풀 수 있다.</li>
+<li>[10수학01-14]미지수가 1개인 연립일차부등식을 풀 수 있다.</li>
+<li>[10수학01-15]절댓값을 포함한 일차부등식을 풀 수 있다.</li>
+<li>[10수학01-16]이차부등식과 이차함수의 관계를 이해하고, 이차부등식과 연립이차부등식을 풀 수 있다.</li>
+</ul>
+</section>
+</section>
+<section id="기하" class="level3">
+<h3 class="anchored" data-anchor-id="기하">2. 기하</h3>
+<p>좌표평면에 나타낸 점, 직선, 원과 같은 도형은 대수적으로 표현된다. 도형의 방정식은 기하적 대상을 방정식으로 나타내어 기하와 대수의 연결성을 경험할 수 있게 하고, 도형을 새로운 관점에서 다루어봄으로써 직관적인 사고에서 논리적이고 창의적인 사고로 발전시키는 데 도움이 된다.</p>
+<section id="평면좌표" class="level4">
+<h4 class="anchored" data-anchor-id="평면좌표">평면좌표</h4>
+<ul>
+<li>[10수학02-01]두 점 사이의 거리를 구할 수 있다.</li>
+<li>[10수학02-02]선분의 내분과 외분을 이해하고, 내분점과 외분점의 좌표를 구할 수 있다.</li>
+</ul>
+</section>
+<section id="직선의-방정식" class="level4">
+<h4 class="anchored" data-anchor-id="직선의-방정식">직선의 방정식</h4>
+<ul>
+<li>[10수학02-03]직선의 방정식을 구할 수 있다.</li>
+<li>[10수학02-04]두 직선의 평행 조건과 수직 조건을 이해한다.</li>
+<li>[10수학02-05]점과 직선 사이의 거리를 구할 수 있다.</li>
+</ul>
+</section>
+<section id="원의-방정식" class="level4">
+<h4 class="anchored" data-anchor-id="원의-방정식">원의 방정식</h4>
+<ul>
+<li>[10수학02-06]원의 방정식을 구할 수 있다.</li>
+<li>[10수학02-07]좌표평면에서 원과 직선의 위치 관계를 이해한다.</li>
+</ul>
+</section>
+<section id="도형의-이동" class="level4">
+<h4 class="anchored" data-anchor-id="도형의-이동">도형의 이동</h4>
+<ul>
+<li>[10수학02-08]평행이동의 의미를 이해한다.</li>
+<li>[10수학02-09]원점, 축, 축, 직선 에 대한 대칭이동의 의미를 이해한다.</li>
+</ul>
+</section>
+</section>
+<section id="수와-연산" class="level3">
+<h3 class="anchored" data-anchor-id="수와-연산">3. 수와 연산</h3>
+<p>집합은 수학적 대상을 논리적으로 표현하고 이해하는 도구이며, 명제는 증명을 통해 그 타당성이 입증된다. 집합과 명제의 학습을 통해 수학적인 식이나 문장을 이해하고 논리적으로 추론하는 능력을 기를 수 있다.</p>
+<section id="집합" class="level4">
+<h4 class="anchored" data-anchor-id="집합">집합</h4>
+<ul>
+<li>[10수학03-01]집합의 개념을 이해하고, 집합을 표현할 수 있다.</li>
+<li>[10수학03-02]두 집합 사이의 포함 관계를 이해한다.</li>
+<li>[10수학03-03]집합의 연산을 할 수 있다.</li>
+</ul>
+</section>
+<section id="명제" class="level4">
+<h4 class="anchored" data-anchor-id="명제">명제</h4>
+<ul>
+<li>[10수학03-04]명제와 조건의 뜻을 알고, ‘모든’, ’어떤’을 포함한 명제를 이해한다.</li>
+<li>[10수학03-05]명제의 역과 대우를 이해한다.</li>
+<li>[10수학03-06]충분조건과 필요조건을 이해하고 구별할 수 있다.</li>
+<li>[10수학03-07]대우를 이용한 증명법과 귀류법을 이해한다.</li>
+<li>[10수학03-08]절대부등식의 의미를 이해하고, 간단한 절대부등식을 증명할 수 있다.</li>
+</ul>
+</section>
+</section>
+<section id="함수" class="level3">
+<h3 class="anchored" data-anchor-id="함수">4. 함수</h3>
+<p>여러 가지 변화 현상을 포함한 다양한 대응 관계를 표현하는 함수는 대수적 조작이 가능하며, 함수의 그래프를 통해 시각적으로 표현된다. 함수는 여러 가지 현상에서 대상 간의 연관성이나 종속성을 해석하고 예측하는 수단이 되고, 다양한 변화 현상에서의 수학적 관계를 이해하고 표현함으로써 여러 가지 문제를 해결하는 데 도움이 된다.</p>
+<section id="함수-1" class="level4">
+<h4 class="anchored" data-anchor-id="함수-1">함수</h4>
+<ul>
+<li>[10수학04-01]함수의 개념을 이해하고, 그 그래프를 이해한다.</li>
+<li>[10수학04-02]함수의 합성을 이해하고, 합성함수를 구할 수 있다.</li>
+<li>[10수학04-03]역함수의 의미를 이해하고, 주어진 함수의 역함수를 구할 수 있다.</li>
+</ul>
+</section>
+<section id="유리함수와-무리함수" class="level4">
+<h4 class="anchored" data-anchor-id="유리함수와-무리함수">유리함수와 무리함수</h4>
+<ul>
+<li>[10수학04-04]유리함수 <span class="math inline">\(y = \frac{ax + b}{cx + d}\)</span>의 그래프를 그릴 수 있고, 그 그래프의 성질을 이해한다.</li>
+<li>[10수학04-05]무리함수 <span class="math inline">\(y = \sqrt{ax + b} + c\)</span>의 그래프를 그릴 수 있고, 그 그래프의 성질을 이해한다.</li>
+</ul>
+</section>
+</section>
+<section id="확률과-통계" class="level3">
+<h3 class="anchored" data-anchor-id="확률과-통계">5. 확률과 통계</h3>
+<p>다양한 상황과 맥락에서 경우의 수를 구하는 체계적인 방법이 존재한다. 경우의 수를 세는 방법은 사건이 일어날 수 있는 모든 경우를 분류하고 체계화하는 수학적 사고를 경험하게 하고, 합리적인 의사 결정의 중요한 도구가 된다.</p>
+<section id="경우의-수" class="level4">
+<h4 class="anchored" data-anchor-id="경우의-수">경우의 수</h4>
+<ul>
+<li>[10수학05-01]합의 법칙과 곱의 법칙을 이해하고, 이를 이용하여 경우의 수를 구할 수 있다.</li>
+</ul>
+</section>
+</section>
+<section id="순열과-조합" class="level3">
+<h3 class="anchored" data-anchor-id="순열과-조합">순열과 조합</h3>
+<ul>
+<li>[10수학05-02]순열의 의미를 이해하고, 순열의 수를 구할 수 있다.</li>
+<li>[10수학05-03]조합의 의미를 이해하고, 조합의 수를 구할 수 있다.</li>
+</ul>
 
 
 </section>
