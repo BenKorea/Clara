@@ -90,19 +90,19 @@ $a > 0, a \neq 1$ 이고, $N > 0$일 때 $a^x = N \Leftrightarrow x = \log_a N$
 |----|----|
 | **1. 곱셈 법칙** | **1. 곱셈의 로그 법칙** |
 | $a^m \times a^n = a^{m+n}$ | $\log_a (MN) = \log_a M + \log_a N$ |
-| **예제:** $ 2^3 \times 2^2 = 2^5 = 32$ | **예제:** $\log_2 (8 \times 4) = \log_2 8 + \log_2 4 = 3 + 2 = 5$ |
+| **예제:** $2^3 \times 2^2 = 2^5 = 32$ | **예제:** $\log_2 (8 \times 4) = \log_2 8 + \log_2 4 = 3 + 2 = 5$ |
 | **2. 나눗셈 법칙** | **2. 나눗셈의 로그 법칙** |
 | $\frac{a^m}{a^n} = a^{m-n}$ | $\log_a \left(\frac{M}{N}\right) = \log_a M - \log_a N$ |
-| **예제:** $ \frac{2^5}{2^2} = 2^3 = 8$ | **예제:** $ \log_2 \left(\frac{32}{4}\right) = \log_2 32 - \log_2 4 = 5 - 2 = 3$ |
+| **예제:** $\frac{2^5}{2^2} = 2^3 = 8$ | **예제:** $\log_2 \left(\frac{32}{4}\right) = \log_2 32 - \log_2 4 = 5 - 2 = 3$ |
 | **3. 거듭제곱 법칙** | **3. 거듭제곱의 로그 법칙** |
-| $ (a^m)^n = a^{m \cdot n} $ | $ \log_a (M^n) = n \log_a M $ |
-| **예제:** $ (2^3)^2 = 2^6 = 64 $ | **예제:** $ \log_2 (8^2) = 2 \log_2 8 = 2 \times 3 = 6 $ |
+| $(a^m)^n = a^{m \cdot n}$ | $\log_a (M^n) = n \log_a M$ |
+| **예제:** $(2^3)^2 = 2^6 = 64$ | **예제:** $\log_2 (8^2) = 2 \log_2 8 = 2 \times 3 = 6$ |
 | **4. 나눗셈의 거듭제곱 법칙** | **4. 밑 변환 공식** |
-| $ \left(\frac{a}{b}\right)^m = \frac{a^m}{b^m} $ | $ \log_a M = \frac{\log_b M}{\log_b a} $ |
-| **예제:** $ \left(\frac{4}{2}\right)^3 = \frac{4^3}{2^3} = \frac{64}{8} = 8$ | **예제:** $ \log_2 10 = \frac{\log_{10} 10}{\log_{10} 2} = \frac{1}{0.301} \approx 3.32 $ |
+| $\left(\frac{a}{b}\right)^m = \frac{a^m}{b^m}$ | $\log_a M = \frac{\log_b M}{\log_b a}$ |
+| **예제:** $\left(\frac{4}{2}\right)^3 = \frac{4^3}{2^3} = \frac{64}{8} = 8$ | **예제:** $\log_2 10 = \frac{\log_{10} 10}{\log_{10} 2} = \frac{1}{0.301} \approx 3.32$ |
 | **5. 음수 지수 법칙** | **5. 지수와 로그의 관계** |
-| $ a^{-m} = \frac{1}{a^m} $ | $ a^{\log_a N} = N, \quad \log_a (a^x) = x$ |
-| **예제:** $ 2^{-3} = \frac{1}{2^3} = \frac{1}{8} $ | **예제:** $ 2^{\log_2 16} = 16 $, $ \log_2 (2^4) = 4$ |
+| $a^{-m} = \frac{1}{a^m}$ | $a^{\log_a N} = N, \quad \log_a (a^x) = x$ |
+| **예제:** $2^{-3} = \frac{1}{2^3} = \frac{1}{8}$ | **예제:** $2^{\log_2 16} = 16$, $\log_2 (2^4) = 4$ |
 
 
 ### 지수함수
