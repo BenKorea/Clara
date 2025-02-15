@@ -143,7 +143,8 @@ website:
         - posts/I/curriculum.qmd
         - section: "지수함수와 로그함수"
           contents:
-            - posts/I/exponent_log_function/learning_objective.qmd        
+            - posts/I/exponent_log_function/learning_objective.qmd 
+            - posts/I/exponent_log_function/key_concept.qmd             
         - section: "삼각함수"
           contents:
             - posts/I/trigonometric_function/learning_objective.qmd          
