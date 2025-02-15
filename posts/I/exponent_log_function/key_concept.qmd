@@ -1,8 +1,8 @@
 ---
 title: "핵심개념"
 description: "수1 지수와 로그 - 핵심개념"
-date: "2025-02-15"
-date-modified: "2025-02-15"
+date: "2025-02-16"
+date-modified: "2025-02-16"
 categories: [수1, 지수와 로그, 핵심개념]
 ---
 
@@ -57,11 +57,16 @@ $a \neq 0$이고, $n$이 양의 정수일 때 $a^0 =1, a^{-n}=1/a^n$
 
 #### 유리수인 지수
 
-$a > 0$이고, $m,n(n\geq2)$이 정수일 때 $$
+$a > 0$이고, $m,n(n\geq2)$이 정수일 때 
+$$
 a^{\frac{m}{n}} = \sqrt[n]{a^m} = \left( \sqrt[n]{a} \right)^m
-$$ 특히, $$
+$$ 
+$$
 a^{\frac{1}{n}} = \sqrt[n]a
-$$ \#### 무리수인 지수 $$
+$$
+
+#### 무리수인 지수 
+$$
 \left( 2^{\sqrt{2}} \right)^\sqrt{2} = 2^{\sqrt{2} \times \sqrt{2}} = 2 ^ 2 =4
 $$
 
